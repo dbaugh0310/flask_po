@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+    <head>
+        {% if title %}
+        <title>{{ title }} - Post Office Project</title>
+        {% else %}
+        <title>Post Office Project</title>
+        {% endif %}
+    </head>
+    <body>
+        <div>
+            Post Office Project: <a href="{{ url_for('index') }}">Home</a>
+            <a href="{{ url_for('list') }}">PO List</a>
+            <a href="{{ url_for('submit') }}">Submit Visit</a>
+        </div>
+        <hr>
+        {% with messages = get_flashed_messages() %}
+        {% if messages %}
+        <ul>
+            {% for message in messages %}
+            <li>{{ message }}</li>
+            {% endfor %}
+        </ul>
+        {% endif %}
+        {% endwith %}
+        {% block content %}{% endblock %}
+    </body>
+</html>

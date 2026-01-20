@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <table border="1";>
+    {% for po in po %}
+            <tr>
+                <td><h3><a href="{{ url_for('zip', zip=po.zip ) }}">{{ po.city }} Post Office</a></td>
+                <td>
+                    {% if po.visited %}
+                        <span style="color: green;">⬤</span>
+                    {% else %}
+                        <span style="color: blue;">⬤</span>
+                    {% endif %}
+                </h3></td>
+            </tr>
+            <tr>
+                <td> <p>{{ po.address }}, {{ po.city }}, {{ po.state }} {{ po.zip }}</p></td>
+            </tr>       
+    {% endfor %}
+    </table>
+{% endblock %}

@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>Latest PO's</h1>
+    <h3>Not really, enjoy this random selection of post offices:</h3>
+    <table><tr>
+        {% for po in po %}
+            <td>
+                <img src="/static/{{ po.po_pic }}" width="100">
+                <br>
+                <a href="{{ url_for('zip', zip=po.zip ) }}">{{ po.city }}</a>, NC {{ po.zip }}
+            </td>
+        {% endfor %}
+    </tr></table>
+{% endblock %}
