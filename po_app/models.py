@@ -1,9 +1,12 @@
 from typing import Optional
 import sqlalchemy as sa
 import sqlalchemy.orm as so
-from po_app import db
+from po_app import app, db, login
 from flask import send_file
+from flask_login import UserMixin
+from werkzeug.security import generate_password_hash, check_password_hash
 from sqlalchemy import func
+import os
 
 class PO(db.Model):
     zip: so.Mapped[int] = so.mapped_column(primary_key=True)
@@ -17,13 +20,38 @@ class PO(db.Model):
     
     @property
     def po_pic(self):
-        if self.visited:
-            pic = ''.join(word.capitalize() for word in self.city.split(' ')) + ".jpg"
-            return pic
-        else:
-            return None
+       pic = ''.join(word.capitalize() for word in self.city.split(' ')) + ".jpg"
+       return pic
         
     def get_random_post_offices():
         po_list = db.select(PO).where(PO.visited).order_by(func.random()).limit(3)
         po_random = db.session.scalars(po_list).all()
         return po_random
+    
+    def update_po(zip):
+        po = db.first_or_404(sa.select(PO).where(PO.zip == zip))
+        if os.path.isfile(os.path.join(app.root_path, 'static', po.city.title() + ".jpg")):
+            po.visited = True
+            db.session.commit()
+
+
+class User(UserMixin, db.Model):
+    id: so.Mapped[int] = so.mapped_column(primary_key=True)
+    username: so.Mapped[str] = so.mapped_column(sa.String(64), index=True,
+                                                unique=True)
+    email: so.Mapped[str] = so.mapped_column(sa.String(120), index=True,
+                                             unique=True)
+    password_hash: so.Mapped[Optional[str]] = so.mapped_column(sa.String(256))
+
+    def __repr__(self):
+        return '<User {}>'.format(self.username)
+
+    def set_password(self, password):
+        self.password_hash = generate_password_hash(password)
+
+    def check_password(self, password):
+        return check_password_hash(self.password_hash, password)
+    
+@login.user_loader
+def load_user(id):
+    return db.session.get(User, int(id))

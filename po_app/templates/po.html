@@ -1,10 +1,12 @@
 {% extends "base.html" %}
 
 {% block content %}
-    <h1>{{ po.city.title() }} Post Office</h1>
-    <hr>
+    <h2>{{ po.city.title() }}, NC</h2>
     <p>{{ po.address }}, {{ po.city.title() }}, {{ po.state }} {{ po.zip }}</p>
-    {% if pic %}
-        <img src="/static/{{ pic }}" width="500">
-    {% endif %}
+    <hr>
+    <div class="row">
+        {% if  pic %}
+            <img src="/static/{{ pic }}" width="500">
+        {% endif %}    
+    </div>
 {% endblock %}
