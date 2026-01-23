@@ -1,0 +1,9 @@
+workers = 3  # Number of worker processes
+bind = "localhost:8000"  # Bind Gunicorn to localhost on port 8000
+forwarded_allow_ips = "*"  # Allow requests from Nginx
+proxy_protocol = True  # Enable proxy support
+
+# Logging Settings
+accesslog = "gunicorn_access.log"  # Log HTTP requests to a file
+errorlog = "gunicorn_error.log"  # Log errors to a file
+loglevel = "info"  # Set log verbosity (debug, info, warning, error, critical)
