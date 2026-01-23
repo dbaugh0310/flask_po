@@ -10,7 +10,7 @@
         {% for po in po %}
             <div class="col-sm-3">
                 <a href="{{ url_for('zip', zip=po.zip ) }}"><img class="rounded img-thumbnail" src="/static/{{ po.po_pic }}" width="100" height="100" alt="{{ po.city.title() }}"></a>
-                <a href="{{ url_for('zip', zip=po.zip ) }}">{{ po.city }}</a>, NC {{ po.zip }}
+                <a href="{{ url_for('zip', zip=po.zip ) }}">{{ po.city.title() }}</a>, NC {{ po.zip }}
             </div>
         {% endfor %}
     </div>
