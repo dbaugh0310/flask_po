@@ -9,14 +9,12 @@ User=flask
 Group=flask
 WorkingDirectory=/home/flask/flask_po
 Environment="PATH=/home/flask/flask_po/venv/bin"
-ExecStart=/home/flask/flask_po/venv/bin/gunicorn -c gunicorn_config.py po_app:app
+ExecStart=/home/flask/flask_po/venv/bin/gunicorn --config /home/flask/flask_po/gunicorn_config.py po_app:app
 ExecReload=/bin/kill -s HUP $MAINPID
 KillMode=mixed
 TimeoutStopSec=5
 PrivateTmp=true
 Restart=on-failure
-StandardOutput=journal
-StandardError=journal
 
 [Install]
 WantedBy=multi-user.target
