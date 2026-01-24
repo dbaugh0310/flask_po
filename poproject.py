@@ -26,7 +26,8 @@ def load_json():
     print("Done!")
     
 @app.cli.command("set-password")
-def set_pass():
+@click.option('--password', prompt=True, hide_input=True, confirmation_prompt=True, help="The password for the user.")
+def set_pass(password):
     user = db.session.scalar(sa.select(User).where(User.username == 'justin'))
     
     if user is None:
@@ -35,8 +36,7 @@ def set_pass():
         db.session.add(user) # Tell SQLAlchemy to track this brand-new object
     else:
         click.echo(f"Updating existing account: {'justin'}...")
-        
-    password = click.prompt("Enter new password", hide_input=True, confirmation_prompt=True)
+    
     user.set_password(password)
     db.session.commit()
     click.echo("Admin password updated successfully.")
