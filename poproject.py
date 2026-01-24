@@ -1,8 +1,9 @@
 from po_app import app, db
-from po_app.models import PO
+from po_app.models import PO, User
 import sqlalchemy as sa
 import sqlalchemy.orm as so
 import json
+import click
 
 @app.shell_context_processor
 def make_shell_context():
@@ -10,9 +11,10 @@ def make_shell_context():
 
 @app.cli.command("load-json")
 def load_json():
-    with open('po_data/po.json', 'r') as f:
+    with open('data/po.json', 'r') as f:
         data = json.load(f)
         for item in data:
+            item['state'] = item['state'].strip()
             # Convert 'y' to True, and anything else (like 'n') to False
             if item['visited'] == 'y':
                 item['visited'] = True
@@ -22,5 +24,22 @@ def load_json():
             db.session.add(record)
         db.session.commit()
     print("Done!")
+    
+@app.cli.command("set-password")
+def set_pass():
+    user = db.session.scalar(sa.select(User).where(User.username == 'justin'))
+    
+    if user is None:
+        click.echo(f"Initializing account: {'justin'}...")
+        user = User(username='justin')
+        db.session.add(user) # Tell SQLAlchemy to track this brand-new object
+    else:
+        click.echo(f"Updating existing account: {'justin'}...")
+        
+    password = click.prompt("Enter new password", hide_input=True, confirmation_prompt=True)
+    user.set_password(password)
+    db.session.commit()
+    click.echo("Admin password updated successfully.")
+
     
     
