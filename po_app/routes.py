@@ -34,7 +34,7 @@ def submit():
 @app.route('/<zip>')
 def zip(zip):
     po = db.first_or_404(sa.select(PO).where(PO.zip == zip))
-    pic = os.path.isfile(os.path.join(current_app.config.get('STATIC_PATH'), 'static', po.po_pic))
+    pic = os.path.isfile(os.path.join(app.config.get('STATIC_PATH'), 'static', po.po_pic))
     if pic:
         return render_template('po.html', po=po, pic=pic )
     else:
