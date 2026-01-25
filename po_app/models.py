@@ -30,7 +30,7 @@ class PO(db.Model):
     
     def update_po(zip):
         po = db.first_or_404(sa.select(PO).where(PO.zip == zip))
-        if os.path.isfile(os.path.join(app.root_path, 'static', po.city.title() + ".jpg")):
+        if os.path.isfile(os.path.join(current_app.config.get('STATIC_PATH'), 'static', po.city.title() + ".jpg")):
             po.visited = True
             db.session.commit()
 
