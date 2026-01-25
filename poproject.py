@@ -14,14 +14,20 @@ def load_json():
     with open('data/po.json', 'r') as f:
         data = json.load(f)
         for item in data:
+            existing = PO.query.filter_by(zip=item['zip']).first()
+            if existing:
+                continue
+            
             item['state'] = item['state'].strip()
             # Convert 'y' to True, and anything else (like 'n') to False
             if item['visited'] == 'y':
                 item['visited'] = True
             else:
                 item['visited'] = False
+            
             record = PO(**item)
             db.session.add(record)
+            
         db.session.commit()
     print("Done!")
     
