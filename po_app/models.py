@@ -2,7 +2,7 @@ from typing import Optional
 import sqlalchemy as sa
 import sqlalchemy.orm as so
 from po_app import app, db, login
-from flask import send_file
+from flask import send_file, current_app
 from flask_login import UserMixin
 from werkzeug.security import generate_password_hash, check_password_hash
 from sqlalchemy import func
@@ -30,7 +30,7 @@ class PO(db.Model):
     
     def update_po(zip):
         po = db.first_or_404(sa.select(PO).where(PO.zip == zip))
-        if os.path.isfile(os.path.join(app.config.get('STATIC_PATH'), 'static', po.city.title() + ".jpg")):
+        if os.path.isfile(os.path.join(current_app.config.get('STATIC_PATH'), 'static', po.city.title() + ".jpg")):
             po.visited = True
             db.session.commit()
 

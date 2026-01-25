@@ -1,4 +1,4 @@
-from flask import render_template, flash, redirect, url_for, request, abort
+from flask import render_template, flash, redirect, url_for, request, abort, current_app
 from werkzeug.utils import secure_filename
 from flask_login import current_user, login_user, logout_user, login_required
 from po_app import app, db
@@ -34,7 +34,7 @@ def submit():
 @app.route('/<zip>')
 def zip(zip):
     po = db.first_or_404(sa.select(PO).where(PO.zip == zip))
-    pic = os.path.isfile(os.path.join(app.config.get('STATIC_PATH'), 'static', po.po_pic))
+    pic = os.path.isfile(os.path.join(current_app.config.get('STATIC_PATH'), 'static', po.po_pic))
     if pic:
         return render_template('po.html', po=po, pic=pic )
     else:
