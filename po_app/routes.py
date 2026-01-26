@@ -20,15 +20,21 @@ def submit():
     if form.validate_on_submit():
         uploaded_file = request.files['file']
         filename = secure_filename(uploaded_file.filename)
+        
         file_ext = os.path.splitext(filename)[1]
         if file_ext != '.jpg':
             abort(400)
+        
         po = db.first_or_404(sa.select(PO).where(PO.zip == form.zip.data))
         file_name = po.po_pic
         uploaded_file.save(os.path.join(app.root_path, 'static', file_name))
         PO.update_po(form.zip.data)
+        
+        PO.dump_to_json()
+        
         flash('Picture for {}, NC submitted!'.format(po.city.title()))
         return redirect(url_for('zip', zip = form.zip.data))
+    
     return render_template('submit.html', title='A new visit!', form=form)
 
 @app.route('/<zip>')

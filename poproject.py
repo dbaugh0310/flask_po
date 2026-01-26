@@ -47,5 +47,18 @@ def set_pass(password):
     db.session.commit()
     click.echo("Admin password updated successfully.")
 
+@app.cli.command("backup-json")
+def backup_json():
+    # 1. Fetch all PO records
+    records = db.session.scalars(sa.select(PO).order_by(PO.city)).all()
     
+    # 2. Use the mixin's method to build the list
+    backup_data = [record.to_dict() for record in records]
+    
+    # 3. Write to file
+    with open('data/po_backup.json', 'w') as f:
+        # indent=4 makes the file human-readable
+        json.dump(backup_data, f, indent=4)
+        
+    print(f"Backed up {len(backup_data)} records to data/po_backup.json")    
     

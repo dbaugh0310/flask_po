@@ -7,8 +7,14 @@ from flask_login import UserMixin
 from werkzeug.security import generate_password_hash, check_password_hash
 from sqlalchemy import func
 import os
+import json
 
-class PO(db.Model):
+class SerializerMixin:
+    def to_dict(self):
+        # self.__table__ exists because this will be mixed into a db.Model
+        return {col.name: getattr(self, col.name) for col in self.__table__.columns}
+
+class PO(SerializerMixin, db.Model):
     zip: so.Mapped[int] = so.mapped_column(primary_key=True)
     city: so.Mapped[str] = so.mapped_column(sa.String(32), index=True, unique=True)
     address: so.Mapped[str] = so.mapped_column(sa.String(64))
@@ -34,6 +40,12 @@ class PO(db.Model):
             po.visited = True
             db.session.commit()
 
+    def dump_to_json():
+        records = db.session.scalars(sa.select(PO)).all()
+        backup_data = [record.to_dict() for record in records]
+        
+        with open('data/po_backup.json', 'w') as f:
+            json.dump(backup_data, f, indent=4)
 
 class User(UserMixin, db.Model):
     id: so.Mapped[int] = so.mapped_column(primary_key=True)
