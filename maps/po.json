@@ -1,0 +1,30 @@
+[
+    {
+        "zip": "28315",
+        "city": "ABERDEEN",
+        "address": "111 S Poplar St",
+        "state": " NC",
+        "visited": "y"
+    },
+    {
+        "zip": "27006",
+        "city": "ADVANCE",
+        "address": "1860 N Carolina Highway 801",
+        "state": " NC",
+        "visited": "n"
+    },
+    {
+        "zip": "27910",
+        "city": "AHOSKIE",
+        "address": "115 Church St W",
+        "state": " NC",
+        "visited": "n"
+    },
+    {
+        "zip": "27201",
+        "city": "ALAMANCE",
+        "address": "4205 S NC HIGHWAY 62",
+        "state": " NC",
+        "visited": "y"
+    }
+]
