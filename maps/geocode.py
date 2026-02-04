@@ -4,7 +4,7 @@ import json
 import time
 
 # calling the Nominatim tool and create Nominatim class
-loc = Nominatim(user_agent="po_app")
+loc = Nominatim(user_agent="po_app", timeout=10)
 
 with open('po.json', 'r') as file:
     # Use json.load() to parse the file content into a Python object
@@ -13,25 +13,34 @@ with open('po.json', 'r') as file:
 dict_of_data = {item['zip']: item for item in data}
 
 for z_code in dict_of_data:
-    inner_dict = dict_of_data[z_code]
-    inner_dict['street'] = inner_dict.pop('address')
 
-    #location = dict_of_data[zip]['street'], dict_of_data[zip]['city'], dict_of_data[zip]['state']
-    location = dict_of_data[z_code]
+    location = {'amenity': 'post_office', "city": dict_of_data[z_code]['city'], "state": dict_of_data[z_code]['state'], "zip": dict_of_data[z_code]['zip']}
+    #location = dict_of_data[z_code]
 
-    print(type(location))
-    print(location)
+    print("Location is of type: ", type(location), "Location = ", location)
 
-    # entering the location name
-    #getLoc = loc.geocode(location)
-    #dict_of_data[zip].update({'latitude': getLoc.latitude, 'longitude': getLoc.longitude})
-
-    # printing address
-    #print('Resulting Address')
-    #print(getLoc.address)
-
+    try: 
+        getLoc = loc.geocode(location)
+        
+        if getLoc:
+            dict_of_data[z_code].update({'latitude': getLoc.latitude, 'longitude': getLoc.longitude,})
+            print('Resulting Address: ', getLoc.address)
+            print("Lat/Long = ", getLoc.latitude, "/", getLoc.longitude)
+            print(dict_of_data[z_code])
+        else:
+            print(f"No match found for {location['city']}")
+            
+    except Exception as e:
+        print(f"Error connecting to service: {e}")    
+ 
     # printing latitude and longitude
-    #print("Latitude = ", getLoc.latitude, "\n")
-    #print("Longitude = ", getLoc.longitude)
-    #print(dict_of_data[zip])
-    #time.sleep(5)
+    time.sleep(1)
+    
+# Convert the dictionary back into a list of objects
+updated_list = list(dict_of_data.values())
+
+# Writing the updated data back to the file
+with open('po_latlong.json', 'w') as file:
+    json.dump(updated_list, file, indent=4)
+
+print("File updated successfully!")

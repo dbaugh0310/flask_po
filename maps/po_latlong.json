@@ -4,343 +4,441 @@
         "city": "ABERDEEN",
         "street": "111 S Poplar St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.131547,
+        "longitude": -79.4294789
     },
     {
         "zip": "27006",
         "city": "ADVANCE",
         "street": "1860 N Carolina Highway 801",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.9412851,
+        "longitude": -80.4096455
     },
     {
         "zip": "27910",
         "city": "AHOSKIE",
         "street": "115 Church St W",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.2855245,
+        "longitude": -76.9857687
     },
     {
         "zip": "27201",
         "city": "ALAMANCE",
         "street": "4205 S NC HIGHWAY 62",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.0351361,
+        "longitude": -79.4858549
     },
     {
         "zip": "28001",
         "city": "ALBEMARLE",
         "street": "320 S 2ND ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.3501426,
+        "longitude": -80.2000578
     },
     {
         "zip": "28508",
         "city": "ALBERTSON",
         "street": "3714 N Nc 903 Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.1143307,
+        "longitude": -77.8188683
     },
     {
         "zip": "28701",
         "city": "ALEXANDER",
         "street": "2350 Old Marshall Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": -28.594787,
+        "longitude": 16.482647
     },
     {
         "zip": "28006",
         "city": "ALEXIS",
         "street": "4226 Charles Raper Jonas Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.399858,
+        "longitude": -81.1178555
     },
     {
         "zip": "28509",
         "city": "ALLIANCE",
         "street": "13144 NC-55 Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.1448881,
+        "longitude": -76.8021556
     },
     {
         "zip": "28702",
         "city": "ALMOND",
         "street": "1940 NC-28 N",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.3698153,
+        "longitude": -83.565164
     },
     {
         "zip": "27202",
         "city": "ALTAMAHAW",
         "street": "3788 Altamahaw Church St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.1843709,
+        "longitude": -79.5072676
     },
     {
         "zip": "28901",
         "city": "ANDREWS",
         "street": "12 CHESTNUT ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2017495,
+        "longitude": -83.8240676
     },
     {
         "zip": "27501",
         "city": "ANGIER",
         "street": "31 W Dupree St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.5071045,
+        "longitude": -78.7391813
     },
     {
         "zip": "28007",
         "city": "ANSONVILLE",
         "street": "8795 US-52 N",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.1045943,
+        "longitude": -80.1092259
     },
     {
         "zip": "27502",
         "city": "APEX",
         "street": "501 W Williams St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.7325352,
+        "longitude": -78.8505516
     },
     {
         "zip": "28510",
         "city": "ARAPAHOE",
         "street": "7706 Kershaw Rd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.0261537,
+        "longitude": -76.8255535
     },
     {
         "zip": "27007",
         "city": "ARARAT",
         "street": "1354 Ararat Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.4040253,
+        "longitude": -80.5606167
     },
     {
         "zip": "27263",
         "city": "ARCHDALE",
         "street": "10193 N Main St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.914581,
+        "longitude": -79.9719831
     },
     {
         "zip": "28704",
         "city": "ARDEN",
         "street": "2385 Hendersonville Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.4661821,
+        "longitude": -82.5164242
     },
     {
         "zip": "28420",
         "city": "ASH",
         "street": "3882 Whiteville Rd NW",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.0668373,
+        "longitude": -78.5263988
     },
     {
         "zip": "27203",
         "city": "ASHEBORO",
         "street": "1030 S Church St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.7079146,
+        "longitude": -79.8136446
     },
     {
         "zip": "28810",
         "city": "ASHEVILLE",
         "street": "33 COXE AVE",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.595363,
+        "longitude": -82.5508407
     },
     {
         "zip": "28421",
         "city": "ATKINSON",
         "street": "105 W Church St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.5285008,
+        "longitude": -78.171107
     },
     {
         "zip": "28511",
         "city": "ATLANTIC",
         "street": "755 Seashore Dr",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.8848864,
+        "longitude": -76.3404708
     },
     {
         "zip": "28512",
         "city": "ATLANTIC BEACH",
         "street": "1516 W FORT MACON RD",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.6990505,
+        "longitude": -76.7402108
     },
     {
         "zip": "27805",
         "city": "AULANDER",
         "street": "107 W Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.2296005,
+        "longitude": -77.1141282
     },
     {
         "zip": "27806",
         "city": "AURORA",
         "street": "186 N 5th St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.3046458,
+        "longitude": -76.7873888
     },
     {
         "zip": "28318",
         "city": "AUTRYVILLE",
         "street": "100 W Williams St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.9979453,
+        "longitude": -78.6425144
     },
     {
         "zip": "27915",
         "city": "AVON",
         "street": "41196 NC-12",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.3522897,
+        "longitude": -75.5032855
     },
     {
         "zip": "28513",
         "city": "AYDEN",
         "street": "452 2nd St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.4711635,
+        "longitude": -77.4175729
     },
     {
         "zip": "27916",
         "city": "AYDLETT",
         "street": "523 Aydlett Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.3259922,
+        "longitude": -75.9068644
     },
     {
         "zip": "28009",
         "city": "BADIN",
         "street": "1 Boyden St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.4059744,
+        "longitude": -80.1167203
     },
     {
         "zip": "27503",
         "city": "BAHAMA",
         "street": "1420 Bahama Rd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.1659763,
+        "longitude": -78.8766738
     },
     {
         "zip": "27807",
         "city": "BAILEY",
         "street": "6171 Deans St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.7789584,
+        "longitude": -78.1151037
     },
     {
         "zip": "28705",
         "city": "BAKERSVILLE",
         "street": "130 Hemlock Dr",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.0156735,
+        "longitude": -82.1587351
     },
     {
         "zip": "28707",
         "city": "BALSAM",
         "street": "103 Cabin Flats Rd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.4267748,
+        "longitude": -83.0852137
     },
     {
         "zip": "28708",
         "city": "BALSAM GROVE",
         "street": "8125 Parkway Rd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.2295509,
+        "longitude": -82.8737421
     },
     {
         "zip": "28604",
         "city": "BANNER ELK",
         "street": "155 Central Way SW",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.1633342,
+        "longitude": -81.8719013
     },
     {
         "zip": "27917",
         "city": "BARCO",
         "street": "3929 CARATOKE HWY",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.3918233,
+        "longitude": -75.9796467
     },
     {
         "zip": "28010",
         "city": "BARIUM SPRINGS",
         "street": "2625 Shelton Ave",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.7190252,
+        "longitude": -80.8981298
     },
     {
         "zip": "28709",
         "city": "BARNARDSVILLE",
         "street": "1664 Barnardsville Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.777612,
+        "longitude": -82.4548511
     },
     {
         "zip": "28710",
         "city": "BAT CAVE",
         "street": "89 Lake Lure Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.4515074,
+        "longitude": -82.2870588
     },
     {
         "zip": "27808",
         "city": "BATH",
         "street": "415 Carteret St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.4771094,
+        "longitude": -76.8116045
     },
     {
         "zip": "27809",
         "city": "BATTLEBORO",
         "street": "241 W Battleboro Ave",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.0490424,
+        "longitude": -77.7491431
     },
     {
         "zip": "28515",
         "city": "BAYBORO",
         "street": "107 Main St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.1429445,
+        "longitude": -76.7702093
     },
     {
         "zip": "27207",
         "city": "BEAR CREEK",
         "street": "14525 NC-902",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.6168118,
+        "longitude": -79.3847432
     },
     {
         "zip": "28516",
         "city": "BEAUFORT",
         "street": "1903 Live Oak St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.7163146,
+        "longitude": -76.6645903
     },
     {
         "zip": "27009",
         "city": "BELEWS CREEK",
         "street": "8540 Belews Creek Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.2445808,
+        "longitude": -80.0697641
     },
     {
         "zip": "27810",
         "city": "BELHAVEN",
         "street": "614 W Old County Rd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.5401653,
+        "longitude": -76.6229874
     },
     {
         "zip": "27811",
@@ -354,812 +452,1044 @@
         "city": "BELMONT",
         "street": "208 GLENWAY ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2438272,
+        "longitude": -81.0377322
     },
     {
         "zip": "27919",
         "city": "BELVIDERE",
         "street": "1517 Belvidere Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.2687674,
+        "longitude": -76.5357774
     },
     {
         "zip": "27208",
         "city": "BENNETT",
         "street": "3859 Chatham St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.5654206,
+        "longitude": -79.5436361
     },
     {
         "zip": "27504",
         "city": "BENSON",
         "street": "402 S MARKET ST",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.3814368,
+        "longitude": -78.5480563
     },
     {
         "zip": "28016",
         "city": "BESSEMER CITY",
         "street": "124 E Alabama Ave",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.284733,
+        "longitude": -81.283906
     },
     {
         "zip": "27010",
         "city": "BETHANIA",
         "street": "5670 Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.1823602,
+        "longitude": -80.3381077
     },
     {
         "zip": "27812",
         "city": "BETHEL",
         "street": "115 East St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.8083064,
+        "longitude": -77.3733428
     },
     {
         "zip": "28518",
         "city": "BEULAVILLE",
         "street": "807 E Main St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 34.9237763,
+        "longitude": -77.7738667
     },
     {
         "zip": "27209",
         "city": "BISCOE",
         "street": "303 S Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.3600553,
+        "longitude": -79.7796559
     },
     {
         "zip": "27813",
         "city": "BLACK CREEK",
         "street": "101 Central Ave",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.6352337,
+        "longitude": -77.9329872
     },
     {
         "zip": "28711",
         "city": "BLACK MOUNTAIN",
         "street": "104 Richardson Blvd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.6176544,
+        "longitude": -82.3205791
     },
     {
         "zip": "28320",
         "city": "BLADENBORO",
         "street": "223 M.L.K. Jr Dr",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.5386768,
+        "longitude": -78.7875887
     },
     {
         "zip": "27814",
         "city": "BLOUNTS CREEK",
         "street": "13746 NC-33",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.3498854,
+        "longitude": -76.9599442
     },
     {
         "zip": "28605",
         "city": "BLOWING ROCK",
         "street": "977 Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.1350245,
+        "longitude": -81.6777907
     },
     {
         "zip": "28017",
         "city": "BOILING SPRINGS",
         "street": "101 N Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.254292,
+        "longitude": -81.6670407
     },
     {
         "zip": "28422",
         "city": "BOLIVIA",
         "street": "3890 Business 17 E",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.0676715,
+        "longitude": -78.1483283
     },
     {
         "zip": "28423",
         "city": "BOLTON",
         "street": "15315 Sam Potts Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.3207243,
+        "longitude": -78.4019497
     },
     {
         "zip": "27213",
         "city": "BONLEE",
         "street": "1010 ELMER MOORE RD",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.6459769,
+        "longitude": -79.4144654
     },
     {
         "zip": "28606",
         "city": "BOOMER",
         "street": "2716 Boomer Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.0673532,
+        "longitude": -81.2536987
     },
     {
         "zip": "28607",
         "city": "BOONE",
         "street": "1544 BLOWING ROCK RD",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.2187873,
+        "longitude": -81.684004
     },
     {
         "zip": "27011",
         "city": "BOONVILLE",
         "street": "202 S Carolina Ave",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.2326362,
+        "longitude": -80.7081209
     },
     {
         "zip": "28018",
         "city": "BOSTIC",
         "street": "1521 Bostic Sunshine Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.362623,
+        "longitude": -81.835657
     },
     {
         "zip": "28902",
         "city": "BRASSTOWN",
         "street": "98 Settawig Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.039895,
+        "longitude": -83.9573948
     },
     {
         "zip": "28712",
         "city": "BREVARD",
         "street": "159 W Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2334472,
+        "longitude": -82.7342919
     },
     {
         "zip": "28519",
         "city": "BRIDGETON",
         "street": "601 N B St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.1215489,
+        "longitude": -77.02078
     },
     {
         "zip": "27505",
         "city": "BROADWAY",
         "street": "101 S Main St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.4579333,
+        "longitude": -79.0530768
     },
     {
         "zip": "27214",
         "city": "BROWNS SUMMIT",
         "street": "7222 Brown Summit Rd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.2126351,
+        "longitude": -79.7136413
     },
     {
         "zip": "28424",
         "city": "BRUNSWICK",
         "street": "1424 Vinson Blvd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.2867996,
+        "longitude": -78.7011356
     },
     {
         "zip": "28713",
         "city": "BRYSON CITY",
         "street": "130 Slope St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.4309291,
+        "longitude": -83.447381
     },
     {
         "zip": "27506",
         "city": "BUIES CREEK",
         "street": "254 Main St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.4132168,
+        "longitude": -78.7355728
     },
     {
         "zip": "27507",
         "city": "BULLOCK",
         "street": "8682 US-15",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.4912537,
+        "longitude": -78.5450002
     },
     {
         "zip": "27508",
         "city": "BUNN",
         "street": "313 Main St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.9606621,
+        "longitude": -78.2536423
     },
     {
         "zip": "28323",
         "city": "BUNNLEVEL",
         "street": "6904 Us 401 S",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.3096063,
+        "longitude": -78.7802994
     },
     {
         "zip": "28425",
         "city": "BURGAW",
         "street": "100 E Satchwell St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.5521113,
+        "longitude": -77.926098
     },
     {
         "zip": "27216",
         "city": "BURLINGTON",
         "street": "405 Maple Ave",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.0956918,
+        "longitude": -79.4377991
     },
     {
         "zip": "28714",
         "city": "BURNSVILLE",
         "street": "670 W MAIN ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.9172243,
+        "longitude": -82.2996695
     },
     {
         "zip": "27509",
         "city": "BUTNER",
         "street": "331 Central Ave",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.1334246,
+        "longitude": -78.7579096
     },
     {
         "zip": "27920",
         "city": "BUXTON",
         "street": "48042 NC-12 Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2676776,
+        "longitude": -75.5423746
     },
     {
         "zip": "28325",
         "city": "CALYPSO",
         "street": "108 W Trade St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.153776,
+        "longitude": -78.105269
     },
     {
         "zip": "27921",
         "city": "CAMDEN",
         "street": "107 U.S. Hwy 158 W E",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.3284897,
+        "longitude": -76.1718764
     },
     {
         "zip": "28326",
         "city": "CAMERON",
         "street": "450 Carthage Street",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.3268226,
+        "longitude": -79.255303
     },
     {
         "zip": "28715",
         "city": "CANDLER",
         "street": "99 Rutherford Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.5444359,
+        "longitude": -82.6838032
     },
     {
         "zip": "27229",
         "city": "CANDOR",
         "street": "405 N Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2951421,
+        "longitude": -79.7453164
     },
     {
         "zip": "28716",
         "city": "CANTON",
         "street": "183 PARK ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.5328838,
+        "longitude": -82.8373558
     },
     {
         "zip": "28019",
         "city": "CAROLEEN",
         "street": "2201 US-221A Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2809558,
+        "longitude": -81.7962123
     },
     {
         "zip": "28428",
         "city": "CAROLINA BEACH",
         "street": "1323 BRIDGE BARRIER RD",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.0351727,
+        "longitude": -77.8935966
     },
     {
         "zip": "27510",
         "city": "CARRBORO",
         "street": "1500 W MAIN ST",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.9099875,
+        "longitude": -79.0752876
     },
     {
         "zip": "28327",
         "city": "CARTHAGE",
         "street": "105 S Ray St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.345802,
+        "longitude": -79.4170543
     },
     {
         "zip": "27511",
         "city": "CARY",
         "street": "205 S ACADEMY ST",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.7882893,
+        "longitude": -78.7812081
     },
     {
         "zip": "28020",
         "city": "CASAR",
         "street": "5801 Casar Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.5123517,
+        "longitude": -81.6173159
     },
     {
         "zip": "28717",
         "city": "CASHIERS",
         "street": "230 FRANK ALLEN RD",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.1112023,
+        "longitude": -83.0980592
     },
     {
         "zip": "27816",
         "city": "CASTALIA",
         "street": "9512 Main St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.0818186,
+        "longitude": -78.0574884
     },
     {
         "zip": "28429",
         "city": "CASTLE HAYNE",
         "street": "4024 Holly Shelter Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.3557241,
+        "longitude": -77.8999864
     },
     {
         "zip": "28609",
         "city": "CATAWBA",
         "street": "100 E Central Ave",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.7073558,
+        "longitude": -81.0756345
     },
     {
         "zip": "27230",
         "city": "CEDAR FALLS",
         "street": "370 LOFLIN POND RD",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.7520815,
+        "longitude": -79.731418
     },
     {
         "zip": "27231",
         "city": "CEDAR GROVE",
         "street": "5206 Efland - Cedar Grove Rd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.1676389,
+        "longitude": -79.167793
     },
     {
         "zip": "28520",
         "city": "CEDAR ISLAND",
         "street": "3553 Cedar Island Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.0082203,
+        "longitude": -76.3160255
     },
     {
         "zip": "28718",
         "city": "CEDAR MOUNTAIN",
         "street": "9515 Greenville Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.1434499,
+        "longitude": -82.6429035
     },
     {
         "zip": "28430",
         "city": "CERRO GORDO",
         "street": "76 Pine St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.3221121,
+        "longitude": -78.9264156
     },
     {
         "zip": "28431",
         "city": "CHADBOURN",
         "street": "601 N Brown St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.3221129,
+        "longitude": -78.8269664
     },
     {
         "zip": "27514",
         "city": "CHAPEL HILL",
         "street": "125 S Estes Dr",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.9131542,
+        "longitude": -79.05578
     },
     {
         "zip": "28204",
         "city": "CHARLOTTE",
         "street": "201 N MCDOWELL ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2272086,
+        "longitude": -80.8430827
     },
     {
         "zip": "28719",
         "city": "CHEROKEE",
         "street": "671 Tsali Blvd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.4766377,
+        "longitude": -83.3189781
     },
     {
         "zip": "28021",
         "city": "CHERRYVILLE",
         "street": "107 N Mulberry St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.3787442,
+        "longitude": -81.3789739
     },
     {
         "zip": "28720",
         "city": "CHIMNEY ROCK",
         "street": "366 Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.4512241,
+        "longitude": -82.2616865
     },
     {
         "zip": "28023",
         "city": "CHINA GROVE",
         "street": "200 S Bostian St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.569306,
+        "longitude": -80.5817318
     },
     {
         "zip": "28521",
         "city": "CHINQUAPIN",
         "street": "2758 S Nc 41 50 Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.8309998,
+        "longitude": -77.8163683
     },
     {
         "zip": "27817",
         "city": "CHOCOWINITY",
         "street": "100 Patrick Ln",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.5125955,
+        "longitude": -77.1009232
     },
     {
         "zip": "28610",
         "city": "CLAREMONT",
         "street": "3327 E Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.7145776,
+        "longitude": -81.1461917
     },
     {
         "zip": "28432",
         "city": "CLARENDON",
         "street": "6337 10 Mile Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.2101689,
+        "longitude": -78.8453007
     },
     {
         "zip": "28433",
         "city": "CLARKTON",
         "street": "31 E Green St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.4873922,
+        "longitude": -78.6561257
     },
     {
         "zip": "27520",
         "city": "CLAYTON",
         "street": "604 E FRONT ST",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.650711,
+        "longitude": -78.4563914
     },
     {
         "zip": "27012",
         "city": "CLEMMONS",
         "street": "3630 CLEMMONS RD",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.0215258,
+        "longitude": -80.3819984
     },
     {
         "zip": "27013",
         "city": "CLEVELAND",
         "street": "105 W Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.7331953,
+        "longitude": -80.6770111
     },
     {
         "zip": "28024",
         "city": "CLIFFSIDE",
         "street": "244 N Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2381785,
+        "longitude": -81.7698229
     },
     {
         "zip": "27233",
         "city": "CLIMAX",
         "street": "1319 NC-62 E",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.9129138,
+        "longitude": -79.7175279
     },
     {
         "zip": "28328",
         "city": "CLINTON",
         "street": "1011 Sunset Ave",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.9979453,
+        "longitude": -78.3233325
     },
     {
         "zip": "28721",
         "city": "CLYDE",
         "street": "8639 Carolina Blvd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.5334379,
+        "longitude": -82.910691
     },
     {
         "zip": "27521",
         "city": "COATS",
         "street": "43 W Main St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.4079393,
+        "longitude": -78.6719592
     },
     {
         "zip": "27922",
         "city": "COFIELD",
         "street": "1240 Ahoskie-Cofield Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.3565436,
+        "longitude": -76.9099577
     },
     {
         "zip": "27923",
         "city": "COINJOCK",
         "street": "183 Worth Guard Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.3439979,
+        "longitude": -75.9530233
     },
     {
         "zip": "27924",
         "city": "COLERAIN",
         "street": "107 W River St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.201268,
+        "longitude": -76.7685616
     },
     {
         "zip": "27235",
         "city": "COLFAX",
         "street": "9052 W Market St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.1126365,
+        "longitude": -80.0144842
     },
     {
         "zip": "28611",
         "city": "COLLETTSVILLE",
         "street": "4323 Collettsville Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.9256856,
+        "longitude": -81.6745456
     },
     {
         "zip": "27925",
         "city": "COLUMBIA",
         "street": "114 S Broad St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.9176633,
+        "longitude": -76.2521521
     },
     {
         "zip": "28722",
         "city": "COLUMBUS",
         "street": "126 Ward St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2531698,
+        "longitude": -82.1970584
     },
     {
         "zip": "28522",
         "city": "COMFORT",
         "street": "4262 NC-41 W",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.0057171,
+        "longitude": -77.5088538
     },
     {
         "zip": "27818",
         "city": "COMO",
         "street": "1226 US Highway 258 N",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.5015414,
+        "longitude": -77.0094074
     },
     {
         "zip": "28025",
         "city": "CONCORD",
         "street": "66 McCachern Blvd SE",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.4094178,
+        "longitude": -80.5800049
     },
     {
         "zip": "27819",
         "city": "CONETOE",
         "street": "206 W Church St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.8157136,
+        "longitude": -77.4558025
     },
     {
         "zip": "28612",
         "city": "CONNELLY SPRINGS",
         "street": "1015 US-70",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.7399645,
+        "longitude": -81.5029788
     },
     {
         "zip": "28613",
         "city": "CONOVER",
         "street": "201 1st St E",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.7065004,
+        "longitude": -81.2184383
     },
     {
         "zip": "27820",
         "city": "CONWAY",
         "street": "205 S Church St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.4370974,
+        "longitude": -77.2288563
     },
     {
         "zip": "27014",
         "city": "COOLEEMEE",
         "street": "7814 NC-801 S",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.810362,
+        "longitude": -80.5561371
     },
     {
         "zip": "27926",
         "city": "CORAPEAKE",
         "street": "1398 NC-32 N",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.5343192,
+        "longitude": -76.5763395
     },
     {
         "zip": "28330",
         "city": "CORDOVA",
         "street": "232 Ledbetter St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 34.9129318,
+        "longitude": -79.8220026
     },
     {
         "zip": "28031",
         "city": "CORNELIUS",
         "street": "20311 Chartwell Center Dr",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.481705,
+        "longitude": -80.8590006
     },
     {
         "zip": "27927",
         "city": "COROLLA",
         "street": "1150 Ocean Trail",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.3847464,
+        "longitude": -75.8286983
     },
     {
         "zip": "28434",
         "city": "COUNCIL",
         "street": "11740 NC-211 E",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.4210031,
+        "longitude": -78.4675067
     },
     {
         "zip": "28523",
         "city": "COVE CITY",
         "street": "201 E Sunset Blvd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.1870308,
+        "longitude": -77.3206495
     },
     {
         "zip": "28032",
         "city": "CRAMERTON",
         "street": "111 Center St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2387504,
+        "longitude": -81.0750757
     },
     {
         "zip": "27522",
         "city": "CREEDMOOR",
         "street": "2157 E Wilton Ave",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.122741,
+        "longitude": -78.6862272
     },
     {
         "zip": "28615",
         "city": "CRESTON",
         "street": "636 3 Top Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.4303076,
+        "longitude": -81.6211661
     },
     {
         "zip": "27928",
         "city": "CRESWELL",
         "street": "201 W Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.8693818,
+        "longitude": -76.393796
     },
     {
         "zip": "28616",
         "city": "CROSSNORE",
         "street": "3 Fountain Cir",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.0217938,
+        "longitude": -81.9295579
     },
     {
         "zip": "28033",
         "city": "CROUSE",
         "street": "150 Crouse Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.4209672,
+        "longitude": -81.3053602
     },
     {
         "zip": "28617",
         "city": "CRUMPLER",
         "street": "9247 Old Hwy 16",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.5040137,
+        "longitude": -81.3942675
     },
     {
         "zip": "28903",
         "city": "CULBERSON",
         "street": "2400 NC-60",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.991749,
+        "longitude": -84.1676921
     },
     {
         "zip": "28723",
         "city": "CULLOWHEE",
         "street": "4710 LITTLE SAVANNAH RD",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.3137739,
+        "longitude": -83.1765814
     },
     {
         "zip": "28331",
         "city": "CUMBERLAND",
         "street": "2304 Wingate Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.0748576,
+        "longitude": -79.7816972
     },
     {
         "zip": "28435",
         "city": "CURRIE",
         "street": "28480 NC-210",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.4626671,
+        "longitude": -78.1011055
     },
     {
         "zip": "28034",
         "city": "DALLAS",
         "street": "3151 Dallas Hgh Shls Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.3160401,
+        "longitude": -81.1764865
     },
     {
         "zip": "28724",
         "city": "DANA",
         "street": "10 Ridge Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.329283,
+        "longitude": -82.3753953
     },
     {
         "zip": "27016",
         "city": "DANBURY",
         "street": "303 N Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.4093047,
+        "longitude": -80.2058831
     },
     {
         "zip": "28036",
         "city": "DAVIDSON",
         "street": "99 JACKSON ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.4992614,
+        "longitude": -80.8485218
     },
     {
         "zip": "28524",
         "city": "DAVIS",
         "street": "272 Horseshoe Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.7021413,
+        "longitude": -78.6877702
     },
     {
         "zip": "28618",
@@ -1173,2443 +1503,3141 @@
         "city": "DEEP RUN",
         "street": "3466 Old Hwy 11",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.1454412,
+        "longitude": -77.7038632
     },
     {
         "zip": "28436",
         "city": "DELCO",
         "street": "30 DELCO PROSPER RD",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.3157241,
+        "longitude": -78.2247211
     },
     {
         "zip": "27239",
         "city": "DENTON",
         "street": "110 W Salisbury St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.6334713,
+        "longitude": -80.1158813
     },
     {
         "zip": "28037",
         "city": "DENVER",
         "street": "3593 Denver Dr",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.5312452,
+        "longitude": -81.0297994
     },
     {
         "zip": "28725",
         "city": "DILLSBORO",
         "street": "385 Haywood Rd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.3700615,
+        "longitude": -83.2506638
     },
     {
         "zip": "27017",
         "city": "DOBSON",
         "street": "214 W Kapp St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.3956891,
+        "longitude": -80.722567
     },
     {
         "zip": "28526",
         "city": "DOVER",
         "street": "115 W Kornegay St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.216274,
+        "longitude": -77.436907
     },
     {
         "zip": "28619",
         "city": "DREXEL",
         "street": "200 Church St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.7579081,
+        "longitude": -81.6042614
     },
     {
         "zip": "28332",
         "city": "DUBLIN",
         "street": "86 Third St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.6568361,
+        "longitude": -78.726407
     },
     {
         "zip": "28333",
         "city": "DUDLEY",
         "street": "4219 S U.S. 117 Alt Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2673857,
+        "longitude": -78.0374891
     },
     {
         "zip": "28334",
         "city": "DUNN",
         "street": "1115 S CLINTON AVE",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.3076902,
+        "longitude": -78.6093257
     },
     {
         "zip": "27701",
         "city": "DURHAM",
         "street": "323 E CHAPEL HILL ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.996653,
+        "longitude": -78.9018053
     },
     {
         "zip": "27242",
         "city": "EAGLE SPRINGS",
         "street": "1984 North Carolina 211",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.5724012,
+        "longitude": -78.7966912
     },
     {
         "zip": "28038",
         "city": "EARL",
         "street": "2719 Blacksburg Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.1934623,
+        "longitude": -81.5331467
     },
     {
         "zip": "27018",
         "city": "EAST BEND",
         "street": "448 E Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.215775,
+        "longitude": -80.5074142
     },
     {
         "zip": "28726",
         "city": "EAST FLAT ROCK",
         "street": "125 W Blue Ridge Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2801069,
+        "longitude": -82.4218962
     },
     {
         "zip": "28039",
         "city": "EAST SPENCER",
         "street": "209 S Long St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.6818059,
+        "longitude": -80.4322801
     },
     {
         "zip": "27288",
         "city": "EDEN",
         "street": "332 N PIERCE ST",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.4884715,
+        "longitude": -79.7667026
     },
     {
         "zip": "27932",
         "city": "EDENTON",
         "street": "100 N BROAD ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.057938,
+        "longitude": -76.6077213
     },
     {
         "zip": "28727",
         "city": "EDNEYVILLE",
         "street": "3979 Chimney Rock Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.3940059,
+        "longitude": -82.3409496
     },
     {
         "zip": "27821",
         "city": "EDWARD",
         "street": "19160 NC-33",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.3250107,
+        "longitude": -76.8802812
     },
     {
         "zip": "27243",
         "city": "EFLAND",
         "street": "3522 US Hwy 70 W",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.0812615,
+        "longitude": -79.1690417
     },
     {
         "zip": "27909",
         "city": "ELIZABETH CITY",
         "street": "1001 W Ehringhaus St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.3010192,
+        "longitude": -76.2203699
     },
     {
         "zip": "28337",
         "city": "ELIZABETHTOWN",
         "street": "209 S Poplar St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.6293372,
+        "longitude": -78.6052899
     },
     {
         "zip": "28622",
         "city": "ELK PARK",
         "street": "153 Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.1574315,
+        "longitude": -81.9802767
     },
     {
         "zip": "28621",
         "city": "ELKIN",
         "street": "213 W MAIN ST",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.2440504,
+        "longitude": -80.8507968
     },
     {
         "zip": "28040",
         "city": "ELLENBORO",
         "street": "131 Depot St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.3287949,
+        "longitude": -81.7587106
     },
     {
         "zip": "28338",
         "city": "ELLERBE",
         "street": "268 2nd St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.0712608,
+        "longitude": -79.7614395
     },
     {
         "zip": "27822",
         "city": "ELM CITY",
         "street": "409 W MAIN ST",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.8065455,
+        "longitude": -77.863315
     },
     {
         "zip": "27244",
         "city": "ELON",
         "street": "105 S Williamson Ave",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.1029132,
+        "longitude": -79.5066895
     },
     {
         "zip": "28594",
         "city": "EMERALD ISLE",
         "street": "142 Eastview Dr",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.6653135,
+        "longitude": -77.0382187
     },
     {
         "zip": "27823",
         "city": "ENFIELD",
         "street": "114 S Dennis St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.1809865,
+        "longitude": -77.6666415
     },
     {
         "zip": "27824",
         "city": "ENGELHARD",
         "street": "34668 US Highway 264",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.5096158,
+        "longitude": -75.9960184
     },
     {
         "zip": "28728",
         "city": "ENKA",
         "street": "1572 Sand Hill Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.5498322,
+        "longitude": -82.6501279
     },
     {
         "zip": "28623",
         "city": "ENNICE",
         "street": "2529 Barrett Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.5534632,
+        "longitude": -80.9959127
     },
     {
         "zip": "28527",
         "city": "ERNUL",
         "street": "1000 Hills Neck Rd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.2526614,
+        "longitude": -77.079671
     },
     {
         "zip": "28339",
         "city": "ERWIN",
         "street": "904 S 13th St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.3268292,
+        "longitude": -78.676128
     },
     {
         "zip": "27247",
         "city": "ETHER",
         "street": "105 Hogan Farm Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.4398606,
+        "longitude": -79.7839262
     },
     {
         "zip": "28729",
         "city": "ETOWAH",
         "street": "123 Etowah Center Dr",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.3176151,
+        "longitude": -82.5942893
     },
     {
         "zip": "27935",
         "city": "EURE",
         "street": "1203 NC-137",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.4273762,
+        "longitude": -76.8532909
     },
     {
         "zip": "27825",
         "city": "EVERETTS",
         "street": "106 N Broad St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.8346231,
+        "longitude": -77.1708347
     },
     {
         "zip": "28438",
         "city": "EVERGREEN",
         "street": "7553 Old Hwy 74",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.766947,
+        "longitude": -78.8273259
     },
     {
         "zip": "28439",
         "city": "FAIR BLUFF",
         "street": "1115 Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.3134996,
+        "longitude": -79.0372544
     },
     {
         "zip": "27826",
         "city": "FAIRFIELD",
         "street": "7089 NC-94",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.8067279,
+        "longitude": -78.6259609
     },
     {
         "zip": "28340",
         "city": "FAIRMONT",
         "street": "100 N Walnut St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.4968311,
+        "longitude": -79.114202
     },
     {
         "zip": "28730",
         "city": "FAIRVIEW",
         "street": "1352 Charlotte Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.5221896,
+        "longitude": -82.3926828
     },
     {
         "zip": "28341",
         "city": "FAISON",
         "street": "110 E Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.1162764,
+        "longitude": -78.1361033
     },
     {
         "zip": "28041",
         "city": "FAITH",
         "street": "1027 Gantt St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.587084,
+        "longitude": -80.4628385
     },
     {
         "zip": "28342",
         "city": "FALCON",
         "street": "7175 S West St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.1898868,
+        "longitude": -78.6483498
     },
     {
         "zip": "27827",
         "city": "FALKLAND",
         "street": "6063 NC-43 N",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.6983006,
+        "longitude": -77.5135397
     },
     {
         "zip": "28042",
         "city": "FALLSTON",
         "street": "771 E Stagecoach Trail",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.4284117,
+        "longitude": -81.5014757
     },
     {
         "zip": "27828",
         "city": "FARMVILLE",
         "street": "3703 N Main St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.5954381,
+        "longitude": -77.5852496
     },
     {
         "zip": "28302",
         "city": "FAYETTEVILLE",
         "street": "6380 CLIFFDALE RD",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.0525759,
+        "longitude": -78.878292
     },
     {
         "zip": "28624",
         "city": "FERGUSON",
         "street": "12650 W NC-268",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.0856861,
+        "longitude": -81.3684261
     },
     {
         "zip": "28731",
         "city": "FLAT ROCK",
         "street": "2687 Greenville Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.271228,
+        "longitude": -82.441508
     },
     {
         "zip": "28626",
         "city": "FLEETWOOD",
         "street": "910 Railroad Grade Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.3062384,
+        "longitude": -81.5134378
     },
     {
         "zip": "28732",
         "city": "FLETCHER",
         "street": "3616 Hendersonville Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.4309336,
+        "longitude": -82.5011239
     },
     {
         "zip": "28733",
         "city": "FONTANA DAM",
         "street": "50 Fontana Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.43338,
+        "longitude": -83.8228813
     },
     {
         "zip": "28043",
         "city": "FOREST CITY",
         "street": "133 S Powell St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.3337279,
+        "longitude": -81.8649245
     },
     {
         "zip": "27829",
         "city": "FOUNTAIN",
         "street": "6738 E Wilson St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.6740478,
+        "longitude": -77.6399741
     },
     {
         "zip": "27524",
         "city": "FOUR OAKS",
         "street": "107 N Railroad St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.4455571,
+        "longitude": -78.4294653
     },
     {
         "zip": "28734",
         "city": "FRANKLIN",
         "street": "250 DEPOT ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.1823171,
+        "longitude": -83.3815429
     },
     {
         "zip": "27525",
         "city": "FRANKLINTON",
         "street": "320 S Main St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.1018163,
+        "longitude": -78.4580543
     },
     {
         "zip": "27248",
         "city": "FRANKLINVILLE",
         "street": "221 Pine St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.7442309,
+        "longitude": -79.6942217
     },
     {
         "zip": "27830",
         "city": "FREMONT",
         "street": "115 E Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.5454378,
+        "longitude": -77.9747087
     },
     {
         "zip": "27936",
         "city": "FRISCO",
         "street": "53590 NC-12",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2344668,
+        "longitude": -75.627529
     },
     {
         "zip": "27526",
         "city": "FUQUAY VARINA",
         "street": "131 N JUDD PKWY NE",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.5843849,
+        "longitude": -78.7998691
     },
     {
         "zip": "28441",
         "city": "GARLAND",
         "street": "107 S Bladen Ave",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.7858352,
+        "longitude": -78.3940736
     },
     {
         "zip": "27529",
         "city": "GARNER",
         "street": "267 Timber Dr",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.7112642,
+        "longitude": -78.6141709
     },
     {
         "zip": "27831",
         "city": "GARYSBURG",
         "street": "213 Old Highway Rd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.450985,
+        "longitude": -77.5588661
     },
     {
         "zip": "27832",
         "city": "GASTON",
         "street": "108 Roanoke Rapids Rd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.5004281,
+        "longitude": -77.6449804
     },
     {
         "zip": "28052",
         "city": "GASTONIA",
         "street": "301 W MAIN AVE",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2622654,
+        "longitude": -81.1838186
     },
     {
         "zip": "27937",
         "city": "GATES",
         "street": "958 NC-37 N",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.5034867,
+        "longitude": -76.7691236
     },
     {
         "zip": "27938",
         "city": "GATESVILLE",
         "street": "106 Court St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.4034878,
+        "longitude": -76.7530098
     },
     {
         "zip": "27019",
         "city": "GERMANTON",
         "street": "3188 Nc 65 Hwy W",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.262771,
+        "longitude": -80.2309735
     },
     {
         "zip": "28735",
         "city": "GERTON",
         "street": "5000 Gerton Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.4792846,
+        "longitude": -82.3481715
     },
     {
         "zip": "28343",
         "city": "GIBSON",
         "street": "4580 Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.7590477,
+        "longitude": -79.6106104
     },
     {
         "zip": "27249",
         "city": "GIBSONVILLE",
         "street": "221 E Main St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.105691,
+        "longitude": -79.5422462
     },
     {
         "zip": "28627",
         "city": "GLADE VALLEY",
         "street": "18 Glade Valley Church Rd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.4719204,
+        "longitude": -81.0515502
     },
     {
         "zip": "28628",
         "city": "GLEN ALPINE",
         "street": "102 Catawba St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.7290168,
+        "longitude": -81.7792661
     },
     {
         "zip": "28629",
         "city": "GLENDALE SPRINGS",
         "street": "7471 NC-16",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.345128,
+        "longitude": -81.3803761
     },
     {
         "zip": "28736",
         "city": "GLENVILLE",
         "street": "4907 N Highway 107",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.1734296,
+        "longitude": -83.129311
     },
     {
         "zip": "28528",
         "city": "GLOUCESTER",
         "street": "310 PIGOTT RD",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.7262735,
+        "longitude": -76.5410354
     },
     {
         "zip": "28344",
         "city": "GODWIN",
         "street": "8817 Main St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.2176639,
+        "longitude": -78.6803668
     },
     {
         "zip": "28071",
         "city": "GOLD HILL",
         "street": "14125 Highway 52",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.9212759,
+        "longitude": -79.1730889
     },
     {
         "zip": "27530",
         "city": "GOLDSBORO",
         "street": "3100 CASHWELL DR",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.3848841,
+        "longitude": -77.9927651
     },
     {
         "zip": "27252",
         "city": "GOLDSTON",
         "street": "50 E Goldbar Ave",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.5932028,
+        "longitude": -79.3283539
     },
     {
         "zip": "27253",
         "city": "GRAHAM",
         "street": "112 S MARSHALL ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.0690258,
+        "longitude": -79.4005756
     },
     {
         "zip": "27939",
         "city": "GRANDY",
         "street": "123 Forbes Loop Unit C",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.2424128,
+        "longitude": -75.8777825
     },
     {
         "zip": "28630",
         "city": "GRANITE FALLS",
         "street": "1 Lakeside Ave",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.7965205,
+        "longitude": -81.4306458
     },
     {
         "zip": "28072",
         "city": "GRANITE QUARRY",
         "street": "222 E Bank St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.6123617,
+        "longitude": -80.4467263
     },
     {
         "zip": "28529",
         "city": "GRANTSBORO",
         "street": "10644 NC-55 Hwy",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.1406429,
+        "longitude": -76.84246
     },
     {
         "zip": "28631",
         "city": "GRASSY CREEK",
         "street": "15500 Old NC-16",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.8823454,
+        "longitude": -82.056782
     },
     {
         "zip": "28740",
         "city": "GREEN MOUNTAIN",
         "street": "273 Toe River Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.9937245,
+        "longitude": -82.2590172
     },
     {
         "zip": "27420",
         "city": "GREENSBORO",
         "street": "5704 W MARKET ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.0726355,
+        "longitude": -79.7919754
     },
     {
         "zip": "27834",
         "city": "GREENVILLE",
         "street": "300 W 2ND ST",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.613224,
+        "longitude": -77.3724593
     },
     {
         "zip": "28530",
         "city": "GRIFTON",
         "street": "466 Queen St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.3728597,
+        "longitude": -77.4355647
     },
     {
         "zip": "27837",
         "city": "GRIMESLAND",
         "street": "7607 Pitt St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.5634956,
+        "longitude": -77.1921806
     },
     {
         "zip": "28073",
         "city": "GROVER",
         "street": "102 Mulberry Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.1745756,
+        "longitude": -81.4498097
     },
     {
         "zip": "27256",
         "city": "GULF",
         "street": "833 Thrift Rd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.5604272,
+        "longitude": -79.2816873
     },
     {
         "zip": "27839",
         "city": "HALIFAX",
         "street": "28 S KING ST",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.3286329,
+        "longitude": -77.5897391
     },
     {
         "zip": "28442",
         "city": "HALLSBORO",
         "street": "4161 Sam Potts Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.3223912,
+        "longitude": -78.5989015
     },
     {
         "zip": "27840",
         "city": "HAMILTON",
         "street": "104 E Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.9441361,
+        "longitude": -77.2087787
     },
     {
         "zip": "28345",
         "city": "HAMLET",
         "street": "105 W MAIN ST",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 34.8863657,
+        "longitude": -79.6972143
     },
     {
         "zip": "28443",
         "city": "HAMPSTEAD",
         "street": "121 Dan Owen Dr",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.3676686,
+        "longitude": -77.7105332
     },
     {
         "zip": "27020",
         "city": "HAMPTONVILLE",
         "street": "2943 Rocky Branch Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.0984684,
+        "longitude": -80.760345
     },
     {
         "zip": "27941",
         "city": "HARBINGER",
         "street": "8732 Caratoke Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.1021072,
+        "longitude": -75.8140752
     },
     {
         "zip": "28531",
         "city": "HARKERS ISLAND",
         "street": "823 Island Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.6951628,
+        "longitude": -76.5593693
     },
     {
         "zip": "28634",
         "city": "HARMONY",
         "street": "3348 Harmony Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.9556911,
+        "longitude": -80.7717346
     },
     {
         "zip": "28444",
         "city": "HARRELLS",
         "street": "218 Tomahawk Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.727551,
+        "longitude": -78.2014464
     },
     {
         "zip": "27942",
         "city": "HARRELLSVILLE",
         "street": "116 E Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.3026868,
+        "longitude": -76.7924773
     },
     {
         "zip": "28074",
         "city": "HARRIS",
         "street": "173 HOGAN RD",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.7743893,
+        "longitude": -78.3678695
     },
     {
         "zip": "28075",
         "city": "HARRISBURG",
         "street": "4258 NC-49 S",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.3258295,
+        "longitude": -80.6454979
     },
     {
         "zip": "27841",
         "city": "HASSELL",
         "street": "1524 E Commerce St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.9079256,
+        "longitude": -77.2785755
     },
     {
         "zip": "27943",
         "city": "HATTERAS",
         "street": "57689 NC-12",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.219464,
+        "longitude": -75.690343
     },
     {
         "zip": "28532",
         "city": "HAVELOCK",
         "street": "133 US HIGHWAY 70 W",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.8785,
+        "longitude": -76.9014457
     },
     {
         "zip": "27258",
         "city": "HAW RIVER",
         "street": "105 Roxboro Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.091526,
+        "longitude": -79.3641862
     },
     {
         "zip": "28904",
         "city": "HAYESVILLE",
         "street": "136 Sanderson St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.0462818,
+        "longitude": -83.8179427
     },
     {
         "zip": "28635",
         "city": "HAYS",
         "street": "5465 Mountain View Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.2498544,
+        "longitude": -81.1156389
     },
     {
         "zip": "27536",
         "city": "HENDERSON",
         "street": "905 S Garnett St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.3273648,
+        "longitude": -78.4027265
     },
     {
         "zip": "28739",
         "city": "HENDERSONVILLE",
         "street": "90 LAKEWOOD RD",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.3187279,
+        "longitude": -82.4609528
     },
     {
         "zip": "27842",
         "city": "HENRICO",
         "street": "1458 RIVER RD",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.5343153,
+        "longitude": -77.8308201
     },
     {
         "zip": "28076",
         "city": "HENRIETTA",
         "street": "2946 Harris Henrietta Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.8579348,
+        "longitude": -77.5827506
     },
     {
         "zip": "27944",
         "city": "HERTFORD",
         "street": "115 W Grubb St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.190158,
+        "longitude": -76.4660519
     },
     {
         "zip": "28601",
         "city": "HICKORY",
         "street": "231 GOVERNMENT AVE SW",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.7333312,
+        "longitude": -81.3442915
     },
     {
         "zip": "28636",
         "city": "HIDDENITE",
         "street": "5181 NC-90 E",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.9037438,
+        "longitude": -81.0906356
     },
     {
         "zip": "27259",
         "city": "HIGH FALLS",
         "street": "1368 NC-22",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.483757,
+        "longitude": -79.5216919
     },
     {
         "zip": "27260",
         "city": "HIGH POINT",
         "street": "315 E GREEN DR",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.9556924,
+        "longitude": -80.0053176
     },
     {
         "zip": "28077",
         "city": "HIGH SHOALS",
         "street": "511 N Lincoln St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.4026352,
+        "longitude": -81.2023016
     },
     {
         "zip": "28741",
         "city": "HIGHLANDS",
         "street": "43 DILLARD RD",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.0525909,
+        "longitude": -83.1968173
     },
     {
         "zip": "28637",
         "city": "HILDEBRAN",
         "street": "511 US Highway 70 W",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.7140208,
+        "longitude": -81.4220334
     },
     {
         "zip": "27278",
         "city": "HILLSBOROUGH",
         "street": "144 E KING ST",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.075382,
+        "longitude": -79.0993958
     },
     {
         "zip": "27946",
         "city": "HOBBSVILLE",
         "street": "385 Hobbsville Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.3470995,
+        "longitude": -76.6046703
     },
     {
         "zip": "27843",
         "city": "HOBGOOD",
         "street": "218 E Commerce St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.0295946,
+        "longitude": -77.3980465
     },
     {
         "zip": "28537",
         "city": "HOBUCKEN",
         "street": "51 School House Loop Rd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.2457225,
+        "longitude": -76.5690939
     },
     {
         "zip": "28347",
         "city": "HOFFMAN",
         "street": "2717 N Us 1 Hwy",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.032378,
+        "longitude": -79.5475437
     },
     {
         "zip": "27844",
         "city": "HOLLISTER",
         "street": "231 Gibbs Ave",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.255984,
+        "longitude": -77.9358183
     },
     {
         "zip": "28445",
         "city": "HOLLY RIDGE",
         "street": "213 Holly St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.4954448,
+        "longitude": -77.5549696
     },
     {
         "zip": "27540",
         "city": "HOLLY SPRINGS",
         "street": "112 3rd St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.6512655,
+        "longitude": -78.8336218
     },
     {
         "zip": "28538",
         "city": "HOOKERTON",
         "street": "116 S 3rd St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.4245947,
+        "longitude": -77.5892958
     },
     {
         "zip": "28348",
         "city": "HOPE MILLS",
         "street": "3215 N MAIN ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.9704419,
+        "longitude": -78.9453056
     },
     {
         "zip": "28742",
         "city": "HORSE SHOE",
         "street": "3740 Brevard Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.3431939,
+        "longitude": -82.5564579
     },
     {
         "zip": "28743",
         "city": "HOT SPRINGS",
         "street": "111 Bridge St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.8923253,
+        "longitude": -82.8290318
     },
     {
         "zip": "28539",
         "city": "HUBERT",
         "street": "382 Hubert Blvd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.7137729,
+        "longitude": -77.2452328
     },
     {
         "zip": "28638",
         "city": "HUDSON",
         "street": "101 Fairway Ave",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.8484645,
+        "longitude": -81.4959267
     },
     {
         "zip": "28078",
         "city": "HUNTERSVILLE",
         "street": "400 GILEAD RD",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.4108278,
+        "longitude": -80.8429304
     },
     {
         "zip": "27541",
         "city": "HURDLE MILLS",
         "street": "9581 Hurdle Mills Rd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.2729159,
+        "longitude": -79.050813
     },
     {
         "zip": "28666",
         "city": "ICARD",
         "street": "3462 Miller Bridge Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.7273539,
+        "longitude": -81.4706462
     },
     {
         "zip": "28079",
         "city": "INDIAN TRAIL",
         "street": "210 Postage Way",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.0768141,
+        "longitude": -80.6692352
     },
     {
         "zip": "28080",
         "city": "IRON STATION",
         "street": "4832 E NC-27",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.4415237,
+        "longitude": -81.1561898
     },
     {
         "zip": "28447",
         "city": "IVANHOE",
         "street": "4109 Ivanhoe Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.6107245,
+        "longitude": -78.2419415
     },
     {
         "zip": "27845",
         "city": "JACKSON",
         "street": "104 Atherton St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.3896747,
+        "longitude": -77.4214855
     },
     {
         "zip": "27281",
         "city": "JACKSON SPRINGS",
         "street": "2411 Jackson Springs Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2095948,
+        "longitude": -79.6258705
     },
     {
         "zip": "28540",
         "city": "JACKSONVILLE",
         "street": "719 NEW BRIDGE ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.7509962,
+        "longitude": -77.4309829
     },
     {
         "zip": "27282",
         "city": "JAMESTOWN",
         "street": "203 E MAIN ST",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.9941053,
+        "longitude": -79.9356589
     },
     {
         "zip": "27846",
         "city": "JAMESVILLE",
         "street": "1840 Main St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.8112719,
+        "longitude": -76.896616
     },
     {
         "zip": "27947",
         "city": "JARVISBURG",
         "street": "7066 CARATOKE HWY",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.202939,
+        "longitude": -75.8665816
     },
     {
         "zip": "28640",
         "city": "JEFFERSON",
         "street": "410 E Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.420403,
+        "longitude": -81.4734376
     },
     {
         "zip": "28641",
         "city": "JONAS RIDGE",
         "street": "9042 NC-181",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.9737044,
+        "longitude": -81.8931167
     },
     {
         "zip": "28642",
         "city": "JONESVILLE",
         "street": "127 N Bridge St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.2393013,
+        "longitude": -80.8445152
     },
     {
         "zip": "27283",
         "city": "JULIAN",
         "street": "6505 Liberty Rd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.9051363,
+        "longitude": -79.660304
     },
     {
         "zip": "28081",
         "city": "KANNAPOLIS",
         "street": "1040 DALE EARNHARDT BLVD",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.4979605,
+        "longitude": -80.6240008
     },
     {
         "zip": "27847",
         "city": "KELFORD",
         "street": "108 S Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.1796007,
+        "longitude": -77.2235757
     },
     {
         "zip": "28448",
         "city": "KELLY",
         "street": "18529 NC-53 E",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.4662797,
+        "longitude": -78.3244457
     },
     {
         "zip": "28349",
         "city": "KENANSVILLE",
         "street": "106 N Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.9623883,
+        "longitude": -77.9622069
     },
     {
         "zip": "27542",
         "city": "KENLY",
         "street": "102 N Gardner Ave",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.5959363,
+        "longitude": -78.1240031
     },
     {
         "zip": "27284",
         "city": "KERNERSVILLE",
         "street": "325 W MOUNTAIN ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.1198589,
+        "longitude": -80.0736533
     },
     {
         "zip": "27948",
         "city": "KILL DEVIL HILLS",
         "street": "302 S Croatan Hwy",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.0321186,
+        "longitude": -75.6776147
     },
     {
         "zip": "27021",
         "city": "KING",
         "street": "603 S MAIN ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.280694,
+        "longitude": -80.3592197
     },
     {
         "zip": "28086",
         "city": "KINGS MOUNTAIN",
         "street": "115 E GOLD ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2450607,
+        "longitude": -81.3410516
     },
     {
         "zip": "28501",
         "city": "KINSTON",
         "street": "208 E CASWELL ST",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.2626635,
+        "longitude": -77.5816353
     },
     {
         "zip": "27543",
         "city": "KIPLING",
         "street": "34 Neill Smith Rd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.4798813,
+        "longitude": -78.8211282
     },
     {
         "zip": "27544",
         "city": "KITTRELL",
         "street": "1400 US Highway 1 S",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.2220919,
+        "longitude": -78.4377758
     },
     {
         "zip": "27949",
         "city": "KITTY HAWK",
         "street": "3841 N CROATAN HWY",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.0664318,
+        "longitude": -75.6935448
     },
     {
         "zip": "27545",
         "city": "KNIGHTDALE",
         "street": "1003 Mulford Ct",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.7878975,
+        "longitude": -78.4822938
     },
     {
         "zip": "27950",
         "city": "KNOTTS ISLAND",
         "street": "407 KNOTTS ISLAND RD",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.5134881,
+        "longitude": -75.9190905
     },
     {
         "zip": "28449",
         "city": "KURE BEACH",
         "street": "237 Fort Fisher Blvd N",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 33.9968399,
+        "longitude": -77.9072081
     },
     {
         "zip": "28551",
         "city": "LA GRANGE",
         "street": "209 S Caswell St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.3068293,
+        "longitude": -77.7880338
     },
     {
         "zip": "28745",
         "city": "LAKE JUNALUSKA",
         "street": "60 Old Clyde Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.5278815,
+        "longitude": -82.9595811
     },
     {
         "zip": "28746",
         "city": "LAKE LURE",
         "street": "2432 Memorial Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.4278969,
+        "longitude": -82.2048343
     },
     {
         "zip": "28747",
         "city": "LAKE TOXAWAY",
         "street": "1320 Blue Ridge Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.1324988,
+        "longitude": -82.9337702
     },
     {
         "zip": "28450",
         "city": "LAKE WACCAMAW",
         "street": "103 Chauncey Town Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.3221707,
+        "longitude": -78.5220264
     },
     {
         "zip": "28350",
         "city": "LAKEVIEW",
         "street": "278 Camp Easter Road",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.739583,
+        "longitude": -80.3697769
     },
     {
         "zip": "28088",
         "city": "LANDIS",
         "street": "230 E Ryder Ave",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.5456947,
+        "longitude": -80.6108998
     },
     {
         "zip": "28643",
         "city": "LANSING",
         "street": "9294 NC-194 N",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.4993936,
+        "longitude": -81.5109852
     },
     {
         "zip": "28089",
         "city": "LATTIMORE",
         "street": "306 E W Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.3181818,
+        "longitude": -81.6606513
     },
     {
         "zip": "28351",
         "city": "LAUREL HILL",
         "street": "9140 Morgan St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.8090479,
+        "longitude": -79.547828
     },
     {
         "zip": "28644",
         "city": "LAUREL SPRINGS",
         "street": "12533 NC-18 S",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.4125434,
+        "longitude": -81.2637157
     },
     {
         "zip": "28352",
         "city": "LAURINBURG",
         "street": "109 S GILL ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.7740495,
+        "longitude": -79.4628248
     },
     {
         "zip": "28090",
         "city": "LAWNDALE",
         "street": "241 E Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.4140187,
+        "longitude": -81.5631474
     },
     {
         "zip": "27022",
         "city": "LAWSONVILLE",
         "street": "3471 Piney Grove Church Road",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.4890273,
+        "longitude": -80.2325519
     },
     {
         "zip": "27291",
         "city": "LEASBURG",
         "street": "7330 U.S. Hwy 158 E",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.394584,
+        "longitude": -79.1544596
     },
     {
         "zip": "28748",
         "city": "LEICESTER",
         "street": "2520 New Leicester Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.6551074,
+        "longitude": -82.6962438
     },
     {
         "zip": "28451",
         "city": "LELAND",
         "street": "1123 Village Rd NE",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.236434,
+        "longitude": -78.0040029
     },
     {
         "zip": "28355",
         "city": "LEMON SPRINGS",
         "street": "7246 Lemon Springs Road",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.3895997,
+        "longitude": -79.1944681
     },
     {
         "zip": "28645",
         "city": "LENOIR",
         "street": "114 RIDGE ST NW",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.9140196,
+        "longitude": -81.5389849
     },
     {
         "zip": "27849",
         "city": "LEWISTON WOODVILLE",
         "street": "125 Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.1229347,
+        "longitude": -77.1766291
     },
     {
         "zip": "27023",
         "city": "LEWISVILLE",
         "street": "6524 Shallowford Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.0970819,
+        "longitude": -80.4192216
     },
     {
         "zip": "27292",
         "city": "LEXINGTON",
         "street": "110 N State St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.8240265,
+        "longitude": -80.2533838
     },
     {
         "zip": "27298",
         "city": "LIBERTY",
         "street": "416 W SWANNANOA AVE",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.8534705,
+        "longitude": -79.5716903
     },
     {
         "zip": "28091",
         "city": "LILESVILLE",
         "street": "103 E Wall St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.9676535,
+        "longitude": -79.9845032
     },
     {
         "zip": "27546",
         "city": "LILLINGTON",
         "street": "901 S 8th St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.399121,
+        "longitude": -78.8156001
     },
     {
         "zip": "28092",
         "city": "LINCOLNTON",
         "street": "326 E MAIN ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.473745,
+        "longitude": -81.2545251
     },
     {
         "zip": "28356",
         "city": "LINDEN",
         "street": "4764 Main St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.2548851,
+        "longitude": -78.7472447
     },
     {
         "zip": "28646",
         "city": "LINVILLE",
         "street": "4235 Mitchell Ave",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.0710389,
+        "longitude": -81.8717145
     },
     {
         "zip": "28647",
         "city": "LINVILLE FALLS",
         "street": "8890 NC-183",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.9592936,
+        "longitude": -81.9428903
     },
     {
         "zip": "27299",
         "city": "LINWOOD",
         "street": "4276 OLD LINWOOD RD",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.7506938,
+        "longitude": -80.3178306
     },
     {
         "zip": "28749",
         "city": "LITTLE SWITZERLAND",
         "street": "9455 NC-226A",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.8492885,
+        "longitude": -82.0903939
     },
     {
         "zip": "27850",
         "city": "LITTLETON",
         "street": "109 Mosby Ave",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.4348946,
+        "longitude": -77.9119615
     },
     {
         "zip": "28097",
         "city": "LOCUST",
         "street": "206 MAIN ST W",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2598655,
+        "longitude": -80.4253426
     },
     {
         "zip": "28452",
         "city": "LONGWOOD",
         "street": "2165 Longwood Rd NW",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.0035047,
+        "longitude": -78.5422326
     },
     {
         "zip": "27549",
         "city": "LOUISBURG",
         "street": "125 N MAIN ST",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.0990393,
+        "longitude": -78.301106
     },
     {
         "zip": "28098",
         "city": "LOWELL",
         "street": "206 E 1st St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2679163,
+        "longitude": -81.1028542
     },
     {
         "zip": "27024",
         "city": "LOWGAP",
         "street": "8855 W PINE ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.5256863,
+        "longitude": -80.8672961
     },
     {
         "zip": "28552",
         "city": "LOWLAND",
         "street": "4232 Lowland Road",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.2990556,
+        "longitude": -76.5643719
     },
     {
         "zip": "27851",
         "city": "LUCAMA",
         "street": "101 S Main St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.6454365,
+        "longitude": -78.0097099
     },
     {
         "zip": "28357",
         "city": "LUMBER BRIDGE",
         "street": "104 S Fayetteville St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.8884971,
+        "longitude": -79.0722541
     },
     {
         "zip": "28358",
         "city": "LUMBERTON",
         "street": "301 E 7TH ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.6183305,
+        "longitude": -79.008205
     },
     {
         "zip": "28750",
         "city": "LYNN",
         "street": "2633 Lynn Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2284471,
+        "longitude": -82.2345592
     },
     {
         "zip": "27852",
         "city": "MACCLESFIELD",
         "street": "115 W Edgecombe St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.7521022,
+        "longitude": -77.6699752
     },
     {
         "zip": "27551",
         "city": "MACON",
         "street": "1608 US Hwy 158 E",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.4387585,
+        "longitude": -78.0838809
     },
     {
         "zip": "27025",
         "city": "MADISON",
         "street": "302 Hwy St Ste 195",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.385422,
+        "longitude": -79.9594689
     },
     {
         "zip": "28751",
         "city": "MAGGIE VALLEY",
         "street": "4280 Soco Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.5181575,
+        "longitude": -83.0976419
     },
     {
         "zip": "28453",
         "city": "MAGNOLIA",
         "street": "215 E Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.8965563,
+        "longitude": -78.0541545
     },
     {
         "zip": "28650",
         "city": "MAIDEN",
         "street": "512 Island Ford Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.5766048,
+        "longitude": -81.2139216
     },
     {
         "zip": "27552",
         "city": "MAMERS",
         "street": "61 Mamers Rd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.4168248,
+        "longitude": -78.9333544
     },
     {
         "zip": "27953",
         "city": "MANNS HARBOR",
         "street": "6941 US-64",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.8857237,
+        "longitude": -75.7626787
     },
     {
         "zip": "27553",
         "city": "MANSON",
         "street": "1402 US Highway 1 S",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.4218122,
+        "longitude": -78.2830508
     },
     {
         "zip": "27954",
         "city": "MANTEO",
         "street": "212B US Highway 64 and 264",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.9082257,
+        "longitude": -75.6757303
     },
     {
         "zip": "27956",
         "city": "MAPLE",
         "street": "3452 Caratoke Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.414878,
+        "longitude": -76.0040925
     },
     {
         "zip": "28454",
         "city": "MAPLE HILL",
         "street": "545 Maple Hill School Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.6612779,
+        "longitude": -77.6963647
     },
     {
         "zip": "28905",
         "city": "MARBLE",
         "street": "189 Marble Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.175086,
+        "longitude": -83.9249052
     },
     {
         "zip": "27853",
         "city": "MARGARETTSVILLE",
         "street": "2717 Tower Rd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.5312627,
+        "longitude": -77.3488608
     },
     {
         "zip": "28362",
         "city": "MARIETTA",
         "street": "2733 Marietta Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.3690764,
+        "longitude": -79.1221944
     },
     {
         "zip": "28752",
         "city": "MARION",
         "street": "215 S MAIN ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.6841022,
+        "longitude": -82.0091028
     },
     {
         "zip": "28754",
         "city": "MARS HILL",
         "street": "65 S MAIN ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.8263793,
+        "longitude": -82.5486848
     },
     {
         "zip": "28753",
         "city": "MARSHALL",
         "street": "100 S Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.7974807,
+        "longitude": -82.6839313
     },
     {
         "zip": "28553",
         "city": "MARSHALLBERG",
         "street": "1160 MARSHALLBERG RD",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.7279403,
+        "longitude": -76.5157565
     },
     {
         "zip": "28103",
         "city": "MARSHVILLE",
         "street": "322 E Union St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.988486,
+        "longitude": -80.3670085
     },
     {
         "zip": "28105",
         "city": "MATTHEWS",
         "street": "301 E JOHN ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.1159532,
+        "longitude": -80.7224386
     },
     {
         "zip": "28554",
         "city": "MAURY",
         "street": "3413 NC-903 N",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.4821062,
+        "longitude": -77.5860822
     },
     {
         "zip": "28364",
         "city": "MAXTON",
         "street": "215 McCaskill Ave",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.7351615,
+        "longitude": -79.3489317
     },
     {
         "zip": "27027",
         "city": "MAYODAN",
         "street": "1000 W Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.4123597,
+        "longitude": -79.9669857
     },
     {
         "zip": "28555",
         "city": "MAYSVILLE",
         "street": "1004 Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.9048814,
+        "longitude": -77.2313436
     },
     {
         "zip": "28101",
         "city": "MCADENVILLE",
         "street": "111 Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2587818,
+        "longitude": -81.0771884
     },
     {
         "zip": "28102",
         "city": "MCFARLAN",
         "street": "12005 US-52 S",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.8123776,
+        "longitude": -79.9758956
     },
     {
         "zip": "28649",
         "city": "MCGRADY",
         "street": "11532 Sparta Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.3326877,
+        "longitude": -81.2266814
     },
     {
         "zip": "27301",
         "city": "MCLEANSVILLE",
         "street": "5711 McLeansville Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.1073575,
+        "longitude": -79.6586383
     },
     {
         "zip": "27302",
         "city": "MEBANE",
         "street": "100 VILLAGE DR",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.0959715,
+        "longitude": -79.2669619
     },
     {
         "zip": "28556",
         "city": "MERRITT",
         "street": "19686 NC-55",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.0979428,
+        "longitude": -76.7143749
     },
     {
         "zip": "27957",
         "city": "MERRY HILL",
         "street": "335 Old Merry Hill Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.0118268,
+        "longitude": -76.7724476
     },
     {
         "zip": "28755",
         "city": "MICAVILLE",
         "street": "551 Micaville Loop",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.9095609,
+        "longitude": -82.2131793
     },
     {
         "zip": "27555",
         "city": "MICRO",
         "street": "101 S Railroad St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.5637705,
+        "longitude": -78.2044405
     },
     {
         "zip": "27556",
         "city": "MIDDLEBURG",
         "street": "69 N Hawkins Ave",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.3999837,
+        "longitude": -78.322989
     },
     {
         "zip": "27557",
         "city": "MIDDLESEX",
         "street": "10286 S Nash St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.7888369,
+        "longitude": -78.2039124
     },
     {
         "zip": "28107",
         "city": "MIDLAND",
         "street": "13379 Highway 601",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2273656,
+        "longitude": -80.5006219
     },
     {
         "zip": "28756",
         "city": "MILL SPRING",
         "street": "50 School Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2976655,
+        "longitude": -82.1610172
     },
     {
         "zip": "28651",
         "city": "MILLERS CREEK",
         "street": "148 Post Office Dr",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.6035723,
+        "longitude": -78.7624767
     },
     {
         "zip": "27305",
         "city": "MILTON",
         "street": "311 Milton Rd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.5388422,
+        "longitude": -79.2065976
     },
     {
         "zip": "28108",
         "city": "MINERAL SPRINGS",
         "street": "5912 Waxhaw Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.9379274,
+        "longitude": -80.6686791
     },
     {
         "zip": "28652",
         "city": "MINNEAPOLIS",
         "street": "2751 Us Highway 19 E",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.0993683,
+        "longitude": -81.9873491
     },
     {
         "zip": "28109",
         "city": "MISENHEIMER",
         "street": "48456 US-52",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.4848625,
+        "longitude": -80.2883904
     },
     {
         "zip": "27028",
         "city": "MOCKSVILLE",
         "street": "1119 Yadkinville Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.8940236,
+        "longitude": -80.5617846
     },
     {
         "zip": "27559",
         "city": "MONCURE",
         "street": "213 Post Office Rd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.6224994,
+        "longitude": -79.0783143
     },
     {
         "zip": "28110",
         "city": "MONROE",
         "street": "101 S CHARLOTTE AVE",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.9854275,
+        "longitude": -80.5495112
     },
     {
         "zip": "28653",
         "city": "MONTEZUMA",
         "street": "380 Old NC Highway 181",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.0651269,
+        "longitude": -81.902613
     },
     {
         "zip": "28757",
         "city": "MONTREAT",
         "street": "301 Assembly Dr",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.6442841,
+        "longitude": -82.3028972
     },
     {
         "zip": "28114",
         "city": "MOORESBORO",
         "street": "104 W Church St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2984942,
+        "longitude": -81.6991073
     },
     {
         "zip": "28115",
         "city": "MOORESVILLE",
         "street": "172 WILLIAMSON RD",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.5848596,
+        "longitude": -80.8100724
     },
     {
         "zip": "28654",
         "city": "MORAVIAN FALLS",
         "street": "1933 Moravian Falls Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.0967982,
+        "longitude": -81.1823072
     },
     {
         "zip": "28557",
         "city": "MOREHEAD CITY",
         "street": "3500 BRIDGES ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.7229391,
+        "longitude": -76.7260436
     },
     {
         "zip": "28655",
         "city": "MORGANTON",
         "street": "320 SANFORD DR",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.7454291,
+        "longitude": -81.6870837
     },
     {
         "zip": "27560",
         "city": "MORRISVILLE",
         "street": "10520 CHAPEL HILL RD",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.824341,
+        "longitude": -78.8300321
     },
     {
         "zip": "28119",
         "city": "MORVEN",
         "street": "108 E Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.8640437,
+        "longitude": -80.0011724
     },
     {
         "zip": "27030",
         "city": "MOUNT AIRY",
         "street": "111 S MAIN ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.4993877,
+        "longitude": -80.6072138
     },
     {
         "zip": "27306",
         "city": "MOUNT GILEAD",
         "street": "106 N SCHOOL ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2148671,
+        "longitude": -80.0022784
     },
     {
         "zip": "28123",
         "city": "MOUNT MOURNE",
         "street": "1519 Mecklenburg Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.5431922,
+        "longitude": -80.8472956
     },
     {
         "zip": "28758",
         "city": "MOUNTAIN HOME",
         "street": "524 Courtland Blvd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.3695608,
+        "longitude": -82.492898
     },
     {
         "zip": "27958",
         "city": "MOYOCK",
         "street": "574 Caratoke Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.5245972,
+        "longitude": -76.1782677
     },
     {
         "zip": "28120",
         "city": "MT HOLLY",
         "street": "806 W Central Ave",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2976298,
+        "longitude": -81.0161686
     },
     {
         "zip": "28365",
         "city": "MT OLIVE",
         "street": "611 N Breazeale Ave",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.1965532,
+        "longitude": -78.0663788
     },
     {
         "zip": "28124",
         "city": "MT PLEASANT",
         "street": "1498 S Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.399308,
+        "longitude": -80.4358963
     },
     {
         "zip": "28125",
         "city": "MT ULLA",
         "street": "775 Grampian Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.6584725,
+        "longitude": -80.7267361
     },
     {
         "zip": "27855",
         "city": "MURFREESBORO",
         "street": "115 N Wynn St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.4423754,
+        "longitude": -77.0985753
     },
     {
         "zip": "28906",
         "city": "MURPHY",
         "street": "388 VALLEY RIVER AVE",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.0878514,
+        "longitude": -84.0342238
     },
     {
         "zip": "27959",
         "city": "NAGS HEAD",
         "street": "100 W Deering St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.9573923,
+        "longitude": -75.624062
     },
     {
         "zip": "28455",
         "city": "NAKINA",
         "street": "7731 7 Creeks Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.1346143,
+        "longitude": -78.6680709
     },
     {
         "zip": "28760",
         "city": "NAPLES",
         "street": "121 S Naples Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.3926161,
+        "longitude": -82.5006759
     },
     {
         "zip": "27856",
         "city": "NASHVILLE",
         "street": "504 S Barnes St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.974598,
+        "longitude": -77.9655406
     },
     {
         "zip": "28761",
         "city": "NEBO",
         "street": "229 Nebo School Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.2170813,
+        "longitude": -80.6545077
     },
     {
         "zip": "28560",
         "city": "NEW BERN",
         "street": "233 Middle St # 101",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.1068428,
+        "longitude": -77.0398762
     },
     {
         "zip": "27562",
         "city": "NEW HILL",
         "street": "3525 Old US 1 Hwy",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.6809856,
+        "longitude": -78.9355668
     },
     {
         "zip": "28127",
         "city": "NEW LONDON",
         "street": "212 S Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.4431965,
+        "longitude": -80.2192225
     },
     {
         "zip": "28126",
         "city": "NEWELL",
         "street": "8105 Old Concord Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2758542,
+        "longitude": -80.7527803
     },
     {
         "zip": "28657",
         "city": "NEWLAND",
         "street": "124 Elk St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.0873484,
+        "longitude": -81.9273363
     },
     {
         "zip": "28570",
         "city": "NEWPORT",
         "street": "337 Howard Blvd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.7865497,
+        "longitude": -76.8591057
     },
     {
         "zip": "28658",
         "city": "NEWTON",
         "street": "218 S MAIN AVE",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.6630887,
+        "longitude": -81.2219363
     },
     {
         "zip": "28366",
         "city": "NEWTON GROVE",
         "street": "208 Fayetteville St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.2454313,
+        "longitude": -78.3543933
     },
     {
         "zip": "27563",
         "city": "NORLINA",
         "street": "306 Liberty St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.4456097,
+        "longitude": -78.1982132
     },
     {
         "zip": "28367",
         "city": "NORMAN",
         "street": "3664 NC Highway 220 N",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.1705641,
+        "longitude": -79.7228453
     },
     {
         "zip": "28659",
         "city": "NORTH WILKESBORO",
         "street": "300 8th St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.1584651,
+        "longitude": -81.1475841
     },
     {
         "zip": "28128",
         "city": "NORWOOD",
         "street": "243 S Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2195898,
+        "longitude": -80.1189477
     },
     {
         "zip": "27857",
         "city": "OAK CITY",
         "street": "100 E Commerce St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.9625971,
+        "longitude": -77.3052352
     },
     {
         "zip": "27310",
         "city": "OAK RIDGE",
         "street": "8323 Linville Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.1736211,
+        "longitude": -79.9892172
     },
     {
         "zip": "28129",
         "city": "OAKBORO",
         "street": "302 N Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2235336,
+        "longitude": -80.3265904
     },
     {
         "zip": "27960",
         "city": "OCRACOKE",
         "street": "1122 Irvin Garrish Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.1145966,
+        "longitude": -75.9809118
     },
     {
         "zip": "28762",
         "city": "OLD FORT",
         "street": "180 E Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.6293365,
+        "longitude": -82.1810827
     },
     {
         "zip": "28660",
         "city": "OLIN",
         "street": "583 Olin Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.9526349,
+        "longitude": -80.8397929
     },
     {
         "zip": "28368",
         "city": "OLIVIA",
         "street": "480 State Road 1207",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.3596014,
+        "longitude": -79.1097466
     },
     {
         "zip": "28571",
         "city": "ORIENTAL",
         "street": "809 Broad St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.0250678,
+        "longitude": -76.6958825
     },
     {
         "zip": "28369",
         "city": "ORRUM",
         "street": "1545 S Creek Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.4658861,
+        "longitude": -79.0090289
     },
     {
         "zip": "28763",
         "city": "OTTO",
         "street": "8491 Georgia Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.0600921,
+        "longitude": -83.3876547
     },
     {
         "zip": "27565",
         "city": "OXFORD",
         "street": "144 MAIN ST",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.3107004,
+        "longitude": -78.5908345
     },
     {
         "zip": "27860",
         "city": "PANTEGO",
         "street": "26022 US-264 ALT",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.5890535,
+        "longitude": -76.6621569
     },
     {
         "zip": "28371",
         "city": "PARKTON",
         "street": "29 S Fayetteville St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.9026635,
+        "longitude": -79.0116971
     },
     {
         "zip": "28661",
         "city": "PATTERSON",
         "street": "2008 ROBY MARTIN RD",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.9992972,
+        "longitude": -81.5639876
     },
     {
         "zip": "28130",
         "city": "PAW CREEK",
         "street": "7400 Old Mt Holly Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2789747,
+        "longitude": -80.9327985
     },
     {
         "zip": "28133",
         "city": "PEACHLAND",
         "street": "14 W Passaic St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.993766,
+        "longitude": -80.2645069
     },
     {
         "zip": "27311",
         "city": "PELHAM",
         "street": "6331 Old U.S. Hwy 29",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.5100403,
+        "longitude": -79.4710261
     },
     {
         "zip": "28372",
         "city": "PEMBROKE",
         "street": "404 E 3rd St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.6800748,
+        "longitude": -79.1933485
     },
     {
         "zip": "27862",
         "city": "PENDLETON",
         "street": "7488 NC-35",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.0929219,
+        "longitude": -80.3058203
     },
     {
         "zip": "28765",
         "city": "PENLAND",
         "street": "1162 Penland Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.9301208,
+        "longitude": -82.1120638
     },
     {
         "zip": "28766",
         "city": "PENROSE",
         "street": "5858 Old Hendersonville Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2723372,
+        "longitude": -82.6390121
     },
     {
         "zip": "27040",
         "city": "PFAFFTOWN",
         "street": "4715 Yadkinville Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.1526379,
+        "longitude": -80.3622753
     },
     {
         "zip": "27863",
         "city": "PIKEVILLE",
         "street": "214 Big Daddy's Rd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.497105,
+        "longitude": -77.9819312
     },
     {
         "zip": "27041",
         "city": "PILOT MOUNTAIN",
         "street": "647K S Key St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.3851349,
+        "longitude": -80.4671211
     },
     {
         "zip": "27042",
         "city": "PINE HALL",
         "street": "1716 Pine Hall Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.3245813,
+        "longitude": -80.0494869
     },
     {
         "zip": "27568",
         "city": "PINE LEVEL",
         "street": "121 W Pine St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.5126923,
+        "longitude": -78.2447432
     },
     {
         "zip": "28373",
         "city": "PINEBLUFF",
         "street": "125 N Walnut St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.1098795,
+        "longitude": -79.4722589
     },
     {
         "zip": "28374",
         "city": "PINEHURST",
         "street": "80 BLAKE BLVD",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.1951981,
+        "longitude": -79.4692796
     },
     {
         "zip": "28662",
         "city": "PINEOLA",
         "street": "2884 Linville Falls Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.0284609,
+        "longitude": -81.891501
     },
     {
         "zip": "27864",
         "city": "PINETOPS",
         "street": "108 SW 1st St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.7911752,
+        "longitude": -77.6375147
     },
     {
         "zip": "27865",
         "city": "PINETOWN",
         "street": "378 Main St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.6104408,
+        "longitude": -76.8613327
     },
     {
         "zip": "28134",
         "city": "PINEVILLE",
         "street": "206 College St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.0855409,
+        "longitude": -80.8871253
     },
     {
         "zip": "28663",
         "city": "PINEY CREEK",
         "street": "4216 Piney Post Office Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.5504032,
+        "longitude": -81.2887072
     },
     {
         "zip": "28572",
         "city": "PINK HILL",
         "street": "5951 NC-11 S",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.0550762,
+        "longitude": -77.7449424
     },
     {
         "zip": "27043",
         "city": "PINNACLE",
         "street": "2870 N Old 52 Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.3293051,
+        "longitude": -80.4331116
     },
     {
         "zip": "28768",
         "city": "PISGAH FOREST",
         "street": "1 Old Hendersonville Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2723358,
+        "longitude": -82.7062357
     },
     {
         "zip": "27312",
         "city": "PITTSBORO",
         "street": "916 East St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.7201229,
+        "longitude": -79.1771539
     },
     {
         "zip": "27313",
         "city": "PLEASANT GARDEN",
         "street": "4621 Pleasant Garden Rd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.9621197,
+        "longitude": -79.762131
     },
     {
         "zip": "27866",
         "city": "PLEASANT HILL",
         "street": "4366 US-301",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.2395745,
+        "longitude": -81.4811997
     },
     {
         "zip": "28664",
         "city": "PLUMTREE",
         "street": "4420 S US Hwy 19E S",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.0270699,
+        "longitude": -82.0078943
     },
     {
         "zip": "27962",
         "city": "PLYMOUTH",
         "street": "113 W Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.8668281,
+        "longitude": -76.7485555
     },
     {
         "zip": "27964",
         "city": "POINT HARBOR",
         "street": "9142 Caratoke Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.0786575,
+        "longitude": -75.7944524
     },
     {
         "zip": "28135",
         "city": "POLKTON",
         "street": "45 W Polk St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.0076546,
+        "longitude": -80.2008947
     },
     {
         "zip": "28136",
         "city": "POLKVILLE",
         "street": "4418 Polkville Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.4176278,
+        "longitude": -81.6428725
     },
     {
         "zip": "28573",
         "city": "POLLOCKSVILLE",
         "street": "125 Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.0059914,
+        "longitude": -77.2210654
     },
     {
         "zip": "27965",
         "city": "POPLAR BRANCH",
         "street": "227 Poplar Branch Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.28016,
+        "longitude": -75.8926962
     },
     {
         "zip": "27867",
         "city": "POTECASI",
         "street": "3185 NC-35",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.3632096,
+        "longitude": -77.2391335
     },
     {
         "zip": "27966",
@@ -3623,1022 +4651,1314 @@
         "city": "POWELLSVILLE",
         "street": "103 Bethlehem Church Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.225712,
+        "longitude": -76.9330114
     },
     {
         "zip": "27569",
         "city": "PRINCETON",
         "street": "107 W Edwards St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.4659942,
+        "longitude": -78.1605497
     },
     {
         "zip": "28375",
         "city": "PROCTORVILLE",
         "street": "101 W Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.4766061,
+        "longitude": -79.0363154
     },
     {
         "zip": "27314",
         "city": "PROSPECT HILL",
         "street": "17 Main St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.2494257,
+        "longitude": -79.1906568
     },
     {
         "zip": "27315",
         "city": "PROVIDENCE",
         "street": "48 Park Springs Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.2543116,
+        "longitude": -78.6616691
     },
     {
         "zip": "28665",
         "city": "PURLEAR",
         "street": "226 Purlear Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.1820751,
+        "longitude": -81.2842576
     },
     {
         "zip": "28376",
         "city": "RAEFORD",
         "street": "122 W ELWOOD AVE STE 102",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.9809996,
+        "longitude": -79.2241998
     },
     {
         "zip": "27611",
         "city": "RALEIGH",
         "street": "311 NEW BERN AVE",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.7803977,
+        "longitude": -78.6390989
     },
     {
         "zip": "27316",
         "city": "RAMSEUR",
         "street": "1514 Main St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.7320752,
+        "longitude": -79.6540926
     },
     {
         "zip": "27317",
         "city": "RANDLEMAN",
         "street": "611 W ACADEMY ST",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.8179143,
+        "longitude": -79.8030873
     },
     {
         "zip": "27868",
         "city": "RED OAK",
         "street": "8382 Red Oak Blvd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.0385169,
+        "longitude": -77.9062762
     },
     {
         "zip": "28377",
         "city": "RED SPRINGS",
         "street": "230 S MAIN ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.815158,
+        "longitude": -79.1837649
     },
     {
         "zip": "27320",
         "city": "REIDSVILLE",
         "street": "201 PIEDMONT ST",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.3548586,
+        "longitude": -79.6644748
     },
     {
         "zip": "28378",
         "city": "REX",
         "street": "1045 Rex Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.854623,
+        "longitude": -79.0484178
     },
     {
         "zip": "28667",
         "city": "RHODHISS",
         "street": "206 Church St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.7740206,
+        "longitude": -81.431201
     },
     {
         "zip": "27869",
         "city": "RICH SQUARE",
         "street": "113 W JACKSON ST",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.2737186,
+        "longitude": -77.2845336
     },
     {
         "zip": "28137",
         "city": "RICHFIELD",
         "street": "212 NC-49 N",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.4701406,
+        "longitude": -80.2578343
     },
     {
         "zip": "28574",
         "city": "RICHLANDS",
         "street": "8201 Richlands Hwy",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 34.8999056,
+        "longitude": -77.5463018
     },
     {
         "zip": "28770",
         "city": "RIDGECREST",
         "street": "2 Tucker Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.6206738,
+        "longitude": -82.2826179
     },
     {
         "zip": "27570",
         "city": "RIDGEWAY",
         "street": "686 US-1 S",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.8048496,
+        "longitude": -78.64144
     },
     {
         "zip": "28456",
         "city": "RIEGELWOOD",
         "street": "208 Riegelwood Shopping Center",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.3398906,
+        "longitude": -78.2252766
     },
     {
         "zip": "27870",
         "city": "ROANOKE RAPIDS",
         "street": "725 Roanoke Ave",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.4558016,
+        "longitude": -77.6573514
     },
     {
         "zip": "28668",
         "city": "ROARING GAP",
         "street": "11370 US-21 S",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.4029099,
+        "longitude": -80.9853554
     },
     {
         "zip": "28669",
         "city": "ROARING RIVER",
         "street": "7953 Elkin Hwy #268",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.206522,
+        "longitude": -81.0036885
     },
     {
         "zip": "27325",
         "city": "ROBBINS",
         "street": "181 N Middleton St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.434034,
+        "longitude": -79.5869735
     },
     {
         "zip": "28771",
         "city": "ROBBINSVILLE",
         "street": "74 Sweetwater Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.3227597,
+        "longitude": -83.8069988
     },
     {
         "zip": "27871",
         "city": "ROBERSONVILLE",
         "street": "113 SW Railroad St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.8239742,
+        "longitude": -77.2534175
     },
     {
         "zip": "28379",
         "city": "ROCKINGHAM",
         "street": "119 W WASHINGTON ST",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 34.9393201,
+        "longitude": -79.7739457
     },
     {
         "zip": "28138",
         "city": "ROCKWELL",
         "street": "100 Broad St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.5512508,
+        "longitude": -80.4064485
     },
     {
         "zip": "27801",
         "city": "ROCKY MOUNT",
         "street": "201 S GEORGE ST",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.9423833,
+        "longitude": -77.7956949
     },
     {
         "zip": "28457",
         "city": "ROCKY POINT",
         "street": "7974 US-117 S",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.4351676,
+        "longitude": -77.8877638
     },
     {
         "zip": "27968",
         "city": "RODANTHE",
         "street": "25969 NC-12",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.5934472,
+        "longitude": -75.4678084
     },
     {
         "zip": "27969",
         "city": "RODUCO",
         "street": "1453 U.S. Hwy 158 W",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.4618204,
+        "longitude": -76.8124572
     },
     {
         "zip": "27571",
         "city": "ROLESVILLE",
         "street": "6470 Rogers Rd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.9232862,
+        "longitude": -78.4573914
     },
     {
         "zip": "28670",
         "city": "RONDA",
         "street": "383 3rd St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.218467,
+        "longitude": -80.9411859
     },
     {
         "zip": "27970",
         "city": "ROPER",
         "street": "101 W US-64",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.8779766,
+        "longitude": -76.6151847
     },
     {
         "zip": "28458",
         "city": "ROSE HILL",
         "street": "128 E Church St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.8237518,
+        "longitude": -78.0286818
     },
     {
         "zip": "28382",
         "city": "ROSEBORO",
         "street": "201 W Pleasant St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.9529475,
+        "longitude": -78.5086181
     },
     {
         "zip": "28772",
         "city": "ROSMAN",
         "street": "272 Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.1436895,
+        "longitude": -82.8220186
     },
     {
         "zip": "27572",
         "city": "ROUGEMONT",
         "street": "12311 N Roxboro St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.2183459,
+        "longitude": -78.9264417
     },
     {
         "zip": "28383",
         "city": "ROWLAND",
         "street": "202 N Bond St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.5365518,
+        "longitude": -79.2914306
     },
     {
         "zip": "27573",
         "city": "ROXBORO",
         "street": "223 S MAIN ST",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.3937519,
+        "longitude": -78.9827881
     },
     {
         "zip": "27872",
         "city": "ROXOBEL",
         "street": "106 W Church St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.2029338,
+        "longitude": -77.2452433
     },
     {
         "zip": "27326",
         "city": "RUFFIN",
         "street": "9682 US Highway 29 Business",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.4470802,
+        "longitude": -79.5438954
     },
     {
         "zip": "27045",
         "city": "RURAL HALL",
         "street": "8201 Broad St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.2404158,
+        "longitude": -80.2933838
     },
     {
         "zip": "28671",
         "city": "RUTHERFORD COLLEGE",
         "street": "721C Malcolm Blvd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.7501398,
+        "longitude": -81.5247859
     },
     {
         "zip": "28139",
         "city": "RUTHERFORDTON",
         "street": "130 E Court St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.3692877,
+        "longitude": -81.9567716
     },
     {
         "zip": "28385",
         "city": "SALEMBURG",
         "street": "108 Clinton St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.0154469,
+        "longitude": -78.5030622
     },
     {
         "zip": "28144",
         "city": "SALISBURY",
         "street": "605 E INNES ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.6709727,
+        "longitude": -80.4742261
     },
     {
         "zip": "28773",
         "city": "SALUDA",
         "street": "102 E Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2362264,
+        "longitude": -82.3492839
     },
     {
         "zip": "27046",
         "city": "SANDY RIDGE",
         "street": "4918 Nc 704 Hwy E",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.1771141,
+        "longitude": -75.7522725
     },
     {
         "zip": "27330",
         "city": "SANFORD",
         "street": "1200 S HORNER BLVD",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.4798757,
+        "longitude": -79.1802994
     },
     {
         "zip": "28774",
         "city": "SAPPHIRE",
         "street": "17740 Rosman Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.1070099,
+        "longitude": -83.0026687
     },
     {
         "zip": "27873",
         "city": "SARATOGA",
         "street": "6744 E Main St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.6536691,
+        "longitude": -77.7756011
     },
     {
         "zip": "27340",
         "city": "SAXAPAHAW",
         "street": "1612 Jordan Dr",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.9472152,
+        "longitude": -79.3215728
     },
     {
         "zip": "28775",
         "city": "SCALY MOUNTAIN",
         "street": "7312 Dillard Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.0117569,
+        "longitude": -83.3162652
     },
     {
         "zip": "27874",
         "city": "SCOTLAND NECK",
         "street": "1015 Main St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.1296002,
+        "longitude": -77.4202475
     },
     {
         "zip": "28699",
         "city": "SCOTTS",
         "street": "4700 Taylorsville Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.8429113,
+        "longitude": -81.0092441
     },
     {
         "zip": "27875",
         "city": "SCRANTON",
         "street": "500 OLD US HIGHWAY 264",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.4971111,
+        "longitude": -76.4513135
     },
     {
         "zip": "27876",
         "city": "SEABOARD",
         "street": "204 S Main St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.4901519,
+        "longitude": -77.4413634
     },
     {
         "zip": "27341",
         "city": "SEAGROVE",
         "street": "231 N Broad St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.5408425,
+        "longitude": -79.7778859
     },
     {
         "zip": "28577",
         "city": "SEALEVEL",
         "street": "751 Hwy 70 Sea Level",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.8623857,
+        "longitude": -76.3876956
     },
     {
         "zip": "27342",
         "city": "SEDALIA",
         "street": "6151 Burlington Rd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.0673577,
+        "longitude": -79.6205812
     },
     {
         "zip": "27576",
         "city": "SELMA",
         "street": "308 N Raiford St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.5365485,
+        "longitude": -78.2844435
     },
     {
         "zip": "27343",
         "city": "SEMORA",
         "street": "14757 NC-119 N",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.4984737,
+        "longitude": -79.148904
     },
     {
         "zip": "28578",
         "city": "SEVEN SPRINGS",
         "street": "301 Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2266001,
+        "longitude": -77.8465107
     },
     {
         "zip": "27877",
         "city": "SEVERN",
         "street": "410 Main St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.5151521,
+        "longitude": -77.1896894
     },
     {
         "zip": "28459",
         "city": "SHALLOTTE",
         "street": "209 Smith Ave",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 33.9732275,
+        "longitude": -78.3858371
     },
     {
         "zip": "28386",
         "city": "SHANNON",
         "street": "14654 NC-71",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.8479415,
+        "longitude": -79.1369782
     },
     {
         "zip": "27878",
         "city": "SHARPSBURG",
         "street": "4241 S Hathaway Blvd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.8679409,
+        "longitude": -77.8293443
     },
     {
         "zip": "27973",
         "city": "SHAWBORO",
         "street": "814 SHAWBORO RD",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.4054333,
+        "longitude": -76.0940962
     },
     {
         "zip": "28150",
         "city": "SHELBY",
         "street": "405 S DEKALB ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2923513,
+        "longitude": -81.5356463
     },
     {
         "zip": "28673",
         "city": "SHERRILLS FORD",
         "street": "8220 Sherrills Ford Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.6204121,
+        "longitude": -80.9864655
     },
     {
         "zip": "27974",
         "city": "SHILOH",
         "street": "928 N Carolina Hwy 343 S",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.5512242,
+        "longitude": -82.5326236
     },
     {
         "zip": "27344",
         "city": "SILER CITY",
         "street": "116 E RALEIGH ST",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.7234734,
+        "longitude": -79.4622431
     },
     {
         "zip": "27047",
         "city": "SILOAM",
         "street": "7051 Siloam Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.2859714,
+        "longitude": -80.5625602
     },
     {
         "zip": "27879",
         "city": "SIMPSON",
         "street": "2806 Edwards Dr",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.5751619,
+        "longitude": -77.278573
     },
     {
         "zip": "27880",
         "city": "SIMS",
         "street": "6404 Main St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.76074,
+        "longitude": -78.0594124
     },
     {
         "zip": "28776",
         "city": "SKYLAND",
         "street": "1950 Hendersonville Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.4892809,
+        "longitude": -82.524288
     },
     {
         "zip": "27577",
         "city": "SMITHFIELD",
         "street": "201 N 3rd St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.5111996,
+        "longitude": -78.346102
     },
     {
         "zip": "28579",
         "city": "SMYRNA",
         "street": "467 US HIGHWAY 70 SMYRNA",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.7588803,
+        "longitude": -76.527583
     },
     {
         "zip": "28460",
         "city": "SNEADS FERRY",
         "street": "2001 NC-172",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.5526655,
+        "longitude": -77.3971839
     },
     {
         "zip": "27349",
         "city": "SNOW CAMP",
         "street": "130 W Greensboro Chapel Hill Rd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.8934716,
+        "longitude": -79.4300199
     },
     {
         "zip": "28580",
         "city": "SNOW HILL",
         "street": "911 SE 2nd St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.4553556,
+        "longitude": -77.6707275
     },
     {
         "zip": "27350",
         "city": "SOPHIA",
         "street": "5814 US-311",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.823192,
+        "longitude": -79.8608677
     },
     {
         "zip": "27976",
         "city": "SOUTH MILLS",
         "street": "215 Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.4457093,
+        "longitude": -76.3274398
     },
     {
         "zip": "28387",
         "city": "SOUTHERN PINES",
         "street": "190 SW BROAD ST",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.1740471,
+        "longitude": -79.3922539
     },
     {
         "zip": "27351",
         "city": "SOUTHMONT",
         "street": "10584 NC HIGHWAY 8 S",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.0440245,
+        "longitude": -79.8100314
     },
     {
         "zip": "28461",
         "city": "SOUTHPORT",
         "street": "206 E NASH ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 33.921563,
+        "longitude": -78.0202677
     },
     {
         "zip": "28675",
         "city": "SPARTA",
         "street": "79 S GRAYSON ST",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.5054718,
+        "longitude": -81.1207633
     },
     {
         "zip": "27881",
         "city": "SPEED",
         "street": "100 MAIN ST",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.9689505,
+        "longitude": -77.4436379
     },
     {
         "zip": "28159",
         "city": "SPENCER",
         "street": "110 4th St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.6920144,
+        "longitude": -80.4347596
     },
     {
         "zip": "28160",
         "city": "SPINDALE",
         "street": "124 Tanner St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.3574856,
+        "longitude": -81.9312068
     },
     {
         "zip": "27882",
         "city": "SPRING HOPE",
         "street": "107 E Branch St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.9451536,
+        "longitude": -78.1119345
     },
     {
         "zip": "28390",
         "city": "SPRING LAKE",
         "street": "225 N Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.1679396,
+        "longitude": -78.9728056
     },
     {
         "zip": "28777",
         "city": "SPRUCE PINE",
         "street": "899 Oak Ave",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.9147787,
+        "longitude": -82.066411
     },
     {
         "zip": "28384",
         "city": "ST PAULS",
         "street": "320 W Broad St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.8070226,
+        "longitude": -78.9707787
     },
     {
         "zip": "27355",
         "city": "STALEY",
         "street": "229 W FRANKLINVILLE ST",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.7959711,
+        "longitude": -79.551412
     },
     {
         "zip": "28163",
         "city": "STANFIELD",
         "street": "213 W Stanly St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2334772,
+        "longitude": -80.4270094
     },
     {
         "zip": "28164",
         "city": "STANLEY",
         "street": "301 Old Mt Holly Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.3590256,
+        "longitude": -81.0970214
     },
     {
         "zip": "27883",
         "city": "STANTONSBURG",
         "street": "200 S MAIN ST",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.6068259,
+        "longitude": -77.8233139
     },
     {
         "zip": "27356",
         "city": "STAR",
         "street": "202 S Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.4020838,
+        "longitude": -79.7842049
     },
     {
         "zip": "28676",
         "city": "STATE RD",
         "street": "950 Klondike Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.3259668,
+        "longitude": -80.8675723
     },
     {
         "zip": "28677",
         "city": "STATESVILLE",
         "street": "301 S OAKLAND AVE",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.7827676,
+        "longitude": -80.8873574
     },
     {
         "zip": "28391",
         "city": "STEDMAN",
         "street": "7519 Clinton Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.0134999,
+        "longitude": -78.6939063
     },
     {
         "zip": "28582",
         "city": "STELLA",
         "street": "125 Wetherington Landing Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.7743276,
+        "longitude": -77.1505072
     },
     {
         "zip": "27581",
         "city": "STEM",
         "street": "104 E Tally Ho Rd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.199867,
+        "longitude": -78.7222261
     },
     {
         "zip": "27884",
         "city": "STOKES",
         "street": "2817 NC-903 N",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.7165488,
+        "longitude": -77.2646852
     },
     {
         "zip": "27357",
         "city": "STOKESDALE",
         "street": "8210 U.S. Hwy 158 E",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.2372048,
+        "longitude": -79.9793529
     },
     {
         "zip": "27048",
         "city": "STONEVILLE",
         "street": "106 E Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.4665269,
+        "longitude": -79.9069847
     },
     {
         "zip": "28583",
         "city": "STONEWALL",
         "street": "16375 NC-55 Hwy",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.1373893,
+        "longitude": -76.7477081
     },
     {
         "zip": "28678",
         "city": "STONY POINT",
         "street": "8814 NC-90 E",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.8634665,
+        "longitude": -81.0473008
     },
     {
         "zip": "27582",
         "city": "STOVALL",
         "street": "102 Main St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.4481986,
+        "longitude": -78.5702786
     },
     {
         "zip": "28679",
         "city": "SUGAR GROVE",
         "street": "1205 US-321 N",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.2579045,
+        "longitude": -81.7881668
     },
     {
         "zip": "27358",
         "city": "SUMMERFIELD",
         "street": "7412 Summerfield Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.2087468,
+        "longitude": -79.9047583
     },
     {
         "zip": "27979",
         "city": "SUNBURY",
         "street": "990 U.S. Hwy 158 E",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.4412853,
+        "longitude": -76.6105402
     },
     {
         "zip": "28462",
         "city": "SUPPLY",
         "street": "25 Blanton Rd SE",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.0176717,
+        "longitude": -78.267499
     },
     {
         "zip": "28778",
         "city": "SWANNANOA",
         "street": "2311 US-70",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.5998286,
+        "longitude": -82.4033934
     },
     {
         "zip": "27885",
         "city": "SWANQUARTER",
         "street": "1271 Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.4062781,
+        "longitude": -76.3290861
     },
     {
         "zip": "28584",
         "city": "SWANSBORO",
         "street": "664 W Corbett Ave",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.6896728,
+        "longitude": -77.1232174
     },
     {
         "zip": "27359",
         "city": "SWEPSONVILLE",
         "street": "112 S Marshall St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.0212488,
+        "longitude": -79.3614076
     },
     {
         "zip": "28779",
         "city": "SYLVA",
         "street": "271 Jackson Plaza",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.3737293,
+        "longitude": -83.2259222
     },
     {
         "zip": "28463",
         "city": "TABOR CITY",
         "street": "200 E 5th St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.1487804,
+        "longitude": -78.8766916
     },
     {
         "zip": "28392",
         "city": "TAR HEEL",
         "street": "14548 NC-87 W",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.7331708,
+        "longitude": -78.7904075
     },
     {
         "zip": "27886",
         "city": "TARBORO",
         "street": "525 N MAIN ST",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.8968236,
+        "longitude": -77.5358049
     },
     {
         "zip": "28681",
         "city": "TAYLORSVILLE",
         "street": "220 1ST AVE SW",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.9219402,
+        "longitude": -81.1763421
     },
     {
         "zip": "28464",
         "city": "TEACHEY",
         "street": "103 N West Ave",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.7682241,
+        "longitude": -78.0080407
     },
     {
         "zip": "28682",
         "city": "TERRELL",
         "street": "7985 NC-150 E",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.5893012,
+        "longitude": -80.9781318
     },
     {
         "zip": "27360",
         "city": "THOMASVILLE",
         "street": "101 W MAIN ST",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.8831786,
+        "longitude": -80.081817
     },
     {
         "zip": "28683",
         "city": "THURMOND",
         "street": "2301 Thurmond Rd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.3665216,
+        "longitude": -80.9284083
     },
     {
         "zip": "27887",
         "city": "TILLERY",
         "street": "45 NC-481",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.2516802,
+        "longitude": -77.4850979
     },
     {
         "zip": "27583",
         "city": "TIMBERLAKE",
         "street": "545 Helena Moriah Rd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 34.9737749,
+        "longitude": -78.9794735
     },
     {
         "zip": "27049",
         "city": "TOAST",
         "street": "1110 W Pine St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.5004114,
+        "longitude": -80.6264533
     },
     {
         "zip": "27050",
         "city": "TOBACCOVILLE",
         "street": "6900 Doral Dr",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.2261575,
+        "longitude": -80.3416042
     },
     {
         "zip": "28684",
         "city": "TODD",
         "street": "4021 Todd Railroad Grade Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.3087137,
+        "longitude": -81.5957623
     },
     {
         "zip": "28781",
         "city": "TOPTON",
         "street": "23979 US-19",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2470348,
+        "longitude": -83.7032269
     },
     {
         "zip": "27584",
         "city": "TOWNSVILLE",
         "street": "12525 NC-39",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.4945877,
+        "longitude": -78.4236089
     },
     {
         "zip": "28685",
         "city": "TRAPHILL",
         "street": "9550 Traphill Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.3464519,
+        "longitude": -81.0326381
     },
     {
         "zip": "28585",
         "city": "TRENTON",
         "street": "115 MARKET ST",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.0636588,
+        "longitude": -77.3534758
     },
     {
         "zip": "27370",
         "city": "TRINITY",
         "street": "7259 NC-62",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.8947375,
+        "longitude": -79.9909647
     },
     {
         "zip": "28166",
         "city": "TROUTMAN",
         "street": "189 Wagner St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.7005832,
+        "longitude": -80.8882314
     },
     {
         "zip": "27371",
         "city": "TROY",
         "street": "601 N Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.3584743,
+        "longitude": -79.8944901
     },
     {
         "zip": "28782",
         "city": "TRYON",
         "street": "95 Pacolet St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2081695,
+        "longitude": -82.2384479
     },
     {
         "zip": "28783",
         "city": "TUCKASEGEE",
         "street": "26 Canada Rd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.2703778,
+        "longitude": -83.1226416
     },
     {
         "zip": "28393",
         "city": "TURKEY",
         "street": "54 Union Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.9923888,
+        "longitude": -78.183049
     },
     {
         "zip": "28688",
         "city": "TURNERSBURG",
         "street": "2223 Turnersburg Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.9084693,
+        "longitude": -80.8072921
     },
     {
         "zip": "27980",
@@ -4652,447 +5972,575 @@
         "city": "UNION GROVE",
         "street": "1501 UNION GROVE RD",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.6651645,
+        "longitude": -76.6091017
     },
     {
         "zip": "28167",
         "city": "UNION MILLS",
         "street": "6269 Hudlow Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.487902,
+        "longitude": -81.9634361
     },
     {
         "zip": "28690",
         "city": "VALDESE",
         "street": "300 Rodoret St S",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.7431562,
+        "longitude": -81.5633738
     },
     {
         "zip": "28168",
         "city": "VALE",
         "street": "6070 Reepsville Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.5398549,
+        "longitude": -81.3973087
     },
     {
         "zip": "28586",
         "city": "VANCEBORO",
         "street": "8134 Main St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.2995434,
+        "longitude": -77.1522321
     },
     {
         "zip": "28587",
         "city": "VANDEMERE",
         "street": "13144 NC-55 Hwy",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.1840563,
+        "longitude": -76.6635394
     },
     {
         "zip": "28394",
         "city": "VASS",
         "street": "120 Seaboard Street",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.2562684,
+        "longitude": -79.2822491
     },
     {
         "zip": "28692",
         "city": "VILAS",
         "street": "6141 US HIGHWAY 421 N",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.245683,
+        "longitude": -81.7676104
     },
     {
         "zip": "28169",
         "city": "WACO",
         "street": "100 N Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.36172,
+        "longitude": -81.428486
     },
     {
         "zip": "28395",
         "city": "WADE",
         "street": "6927 Wade-Stedman Rd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.1629419,
+        "longitude": -78.7361323
     },
     {
         "zip": "28170",
         "city": "WADESBORO",
         "street": "105 E MARTIN ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.9681767,
+        "longitude": -80.07674
     },
     {
         "zip": "28396",
         "city": "WAGRAM",
         "street": "24100 N MAIN ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.8879397,
+        "longitude": -79.3661515
     },
     {
         "zip": "27587",
         "city": "WAKE FOREST",
         "street": "224 E HOLDING AVE",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.9803138,
+        "longitude": -78.5103731
     },
     {
         "zip": "27051",
         "city": "WALKERTOWN",
         "street": "4970 US-311 N",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.1748265,
+        "longitude": -80.1521587
     },
     {
         "zip": "28466",
         "city": "WALLACE",
         "street": "202 E SOUTHERLAND ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.7348655,
+        "longitude": -77.9960816
     },
     {
         "zip": "27373",
         "city": "WALLBURG",
         "street": "8590 N NC-109",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.0101371,
+        "longitude": -80.1392118
     },
     {
         "zip": "27052",
         "city": "WALNUT COVE",
         "street": "217 N Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.295415,
+        "longitude": -80.1417121
     },
     {
         "zip": "27888",
         "city": "WALSTONBURG",
         "street": "108 N Wilson St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.5946041,
+        "longitude": -77.6969203
     },
     {
         "zip": "27981",
         "city": "WANCHESE",
         "street": "3525 Mill Landing Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.8426729,
+        "longitude": -75.6385055
     },
     {
         "zip": "28909",
         "city": "WARNE",
         "street": "4731 Old Hwy 64 W",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.9948537,
+        "longitude": -83.8929947
     },
     {
         "zip": "28693",
         "city": "WARRENSVILLE",
         "street": "122 NW School Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.4606793,
+        "longitude": -81.5189957
     },
     {
         "zip": "27589",
         "city": "WARRENTON",
         "street": "143 N MAIN ST",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.3984804,
+        "longitude": -78.1552706
     },
     {
         "zip": "28398",
         "city": "WARSAW",
         "street": "116 W Hill St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.999716,
+        "longitude": -78.0939655
     },
     {
         "zip": "27889",
         "city": "WASHINGTON",
         "street": "222 W 2ND ST",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.5420908,
+        "longitude": -77.055071
     },
     {
         "zip": "28173",
         "city": "WAXHAW",
         "street": "100 Waxhaw Pkwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.9248125,
+        "longitude": -80.7440174
     },
     {
         "zip": "28786",
         "city": "WAYNESVILLE",
         "street": "523 S HAYWOOD ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.4887476,
+        "longitude": -82.9888725
     },
     {
         "zip": "28787",
         "city": "WEAVERVILLE",
         "street": "270 N MAIN ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.6967238,
+        "longitude": -82.5603625
     },
     {
         "zip": "28788",
         "city": "WEBSTER",
         "street": "1345 Webster Rd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.346211,
+        "longitude": -83.2193132
     },
     {
         "zip": "27374",
         "city": "WELCOME",
         "street": "6325 Old U.S. Hwy 52",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.9029152,
+        "longitude": -80.2569949
     },
     {
         "zip": "27890",
         "city": "WELDON",
         "street": "401 WASHINGTON AVE",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.4265558,
+        "longitude": -77.5967348
     },
     {
         "zip": "27591",
         "city": "WENDELL",
         "street": "40 Hanor Ln",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.780987,
+        "longitude": -78.3697213
     },
     {
         "zip": "27375",
         "city": "WENTWORTH",
         "street": "200 County Home Rd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.4001371,
+        "longitude": -79.7744792
     },
     {
         "zip": "27376",
         "city": "WEST END",
         "street": "5161 NC HIGHWAY 211",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.9099875,
+        "longitude": -79.0752876
     },
     {
         "zip": "28694",
         "city": "WEST JEFFERSON",
         "street": "419 E 2nd St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.4037364,
+        "longitude": -81.4928829
     },
     {
         "zip": "27053",
         "city": "WESTFIELD",
         "street": "6648 Westfield Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.7762668,
+        "longitude": -78.8068278
     },
     {
         "zip": "27891",
         "city": "WHITAKERS",
         "street": "102 NW Railroad St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.1055662,
+        "longitude": -77.7126101
     },
     {
         "zip": "28399",
         "city": "WHITE OAK",
         "street": "10384 NC-53 W",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.8205116,
+        "longitude": -78.6417117
     },
     {
         "zip": "28472",
         "city": "WHITEVILLE",
         "street": "107 S LEE ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.3217345,
+        "longitude": -78.703148
     },
     {
         "zip": "27377",
         "city": "WHITSETT",
         "street": "1001 NC-61",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.0712466,
+        "longitude": -79.5644686
     },
     {
         "zip": "28789",
         "city": "WHITTIER",
         "street": "22 Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.4350977,
+        "longitude": -83.3601542
     },
     {
         "zip": "28697",
         "city": "WILKESBORO",
         "street": "207 W Main St Ste 102",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.1483916,
+        "longitude": -81.1517636
     },
     {
         "zip": "28478",
         "city": "WILLARD",
         "street": "130 Willard Railroad St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.690168,
+        "longitude": -77.9797079
     },
     {
         "zip": "27892",
         "city": "WILLIAMSTON",
         "street": "121 E MAIN ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.8546039,
+        "longitude": -77.0555114
     },
     {
         "zip": "27592",
         "city": "WILLOW SPRING",
         "street": "6805 Dwight Rowland Rd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.5957129,
+        "longitude": -78.7313999
     },
     {
         "zip": "28401",
         "city": "WILMINGTON",
         "street": "152 N FRONT ST",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.2352853,
+        "longitude": -77.9487284
     },
     {
         "zip": "27893",
         "city": "WILSON",
         "street": "501 MERCER ST SW",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.7241718,
+        "longitude": -77.9115243
     },
     {
         "zip": "27593",
         "city": "WILSONS MILLS",
         "street": "71 Fire Dept Rd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.5829914,
+        "longitude": -78.3554751
     },
     {
         "zip": "27983",
         "city": "WINDSOR",
         "street": "130 N King St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.9984925,
+        "longitude": -76.9460641
     },
     {
         "zip": "27985",
         "city": "WINFALL",
         "street": "317 Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.2193034,
+        "longitude": -76.4635102
     },
     {
         "zip": "28174",
         "city": "WINGATE",
         "street": "212 N Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.9843176,
+        "longitude": -80.4492319
     },
     {
         "zip": "28479",
         "city": "WINNABOW",
         "street": "6351 Ocean Hwy E",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.1493374,
+        "longitude": -78.0936046
     },
     {
         "zip": "27102",
         "city": "WINSTON SALEM",
         "street": "1500 N PATTERSON AVE",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.0998131,
+        "longitude": -80.2440518
     },
     {
         "zip": "28590",
         "city": "WINTERVILLE",
         "street": "467 Main St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.5282267,
+        "longitude": -77.4022447
     },
     {
         "zip": "27986",
         "city": "WINTON",
         "street": "406 N Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.3957098,
+        "longitude": -76.9319035
     },
     {
         "zip": "27594",
         "city": "WISE",
         "street": "1728 US-1",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.4865346,
+        "longitude": -78.1708272
     },
     {
         "zip": "27897",
         "city": "WOODLAND",
         "street": "106 W Main St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.3315434,
+        "longitude": -77.2127436
     },
     {
         "zip": "27054",
         "city": "WOODLEAF",
         "street": "4220 Potneck Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.7690282,
+        "longitude": -80.590896
     },
     {
         "zip": "28480",
         "city": "WRIGHTSVILLE BEACH",
         "street": "206 Causeway Dr",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 34.2079917,
+        "longitude": -77.7955907
     },
     {
         "zip": "27055",
         "city": "YADKINVILLE",
         "street": "315 W Main St",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.1345807,
+        "longitude": -80.6595079
     },
     {
         "zip": "27379",
         "city": "YANCEYVILLE",
         "street": "146 Main St W",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.4040273,
+        "longitude": -79.3361314
     },
     {
         "zip": "27596",
         "city": "YOUNGSVILLE",
         "street": "112 E Persimmon St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 36.0247769,
+        "longitude": -78.4767034
     },
     {
         "zip": "27597",
         "city": "ZEBULON",
         "street": "139 E Vance St",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.8212013,
+        "longitude": -78.3126798
     },
     {
         "zip": "28698",
         "city": "ZIONVILLE",
         "street": "12416 US-421 N",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.3348472,
+        "longitude": -81.7431667
     },
     {
         "zip": "28790",
         "city": "ZIRCONIA",
         "street": "5576 Greenville Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 35.2417832,
+        "longitude": -82.4162298
     }
 ]
