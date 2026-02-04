@@ -17,7 +17,7 @@ class SerializerMixin:
 class PO(SerializerMixin, db.Model):
     zip: so.Mapped[int] = so.mapped_column(primary_key=True)
     city: so.Mapped[str] = so.mapped_column(sa.String(32), index=True, unique=True)
-    address: so.Mapped[str] = so.mapped_column(sa.String(64))
+    street: so.Mapped[str] = so.mapped_column(sa.String(64))
     state: so.Mapped[str] = so.mapped_column(sa.String(2))
     visited: so.Mapped[bool] = so.mapped_column(index=True)
 
