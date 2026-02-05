@@ -39,6 +39,16 @@ def iframe():
     m = folium.Map(location=(35.53126396839661, -79.52843330891112), zoom_start=6)
     folium.GeoJson(geo_json_data).add_to(m)
 
+    with open('data/po.json', 'r') as f:
+        data = json.load(f)
+        for item in data:
+ 
+            folium.Marker(
+                location=[item[latitude], item[longitude]],
+                tooltip=item[city],
+                popup=item[city],
+            ).add_to(m)
+
     # set the iframe width and height
     m.get_root().width = "800px"
     m.get_root().height = "600px"
