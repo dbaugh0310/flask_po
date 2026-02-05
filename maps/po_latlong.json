@@ -445,7 +445,9 @@
         "city": "BELLARTHUR",
         "street": "2643B Firehouse Rd",
         "state": "NC",
-        "visited": "true"
+        "visited": "true",
+        "latitude": 35.590603909815336,
+        "longitude": -77.51292161349284
     },
     {
         "zip": "28012",
@@ -1496,7 +1498,9 @@
         "city": "DEEP GAP",
         "street": "7378 OLD 421 S",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.238919055588184,
+        "longitude": -81.52377294174188
     },
     {
         "zip": "28525",
@@ -4644,7 +4648,9 @@
         "city": "POWELLS POINT",
         "street": "7664 Caratoke Hwy",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.16228561006836, 
+        "longitude": -75.8592351724961
     },
     {
         "zip": "27967",
@@ -5965,7 +5971,9 @@
         "city": "TYNER",
         "street": "630 Center Hill Rd",
         "state": "NC",
-        "visited": "false"
+        "visited": "false",
+        "latitude": 36.21473376914038,
+        "longitude": -76.61145331967855
     },
     {
         "zip": "28689",
