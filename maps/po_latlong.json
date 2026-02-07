@@ -4,7 +4,7 @@
         "city": "ABERDEEN",
         "street": "111 S Poplar St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.131547,
         "longitude": -79.4294789
     },
@@ -13,7 +13,7 @@
         "city": "ADVANCE",
         "street": "1860 N Carolina Highway 801",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.9412851,
         "longitude": -80.4096455
     },
@@ -22,7 +22,7 @@
         "city": "AHOSKIE",
         "street": "115 Church St W",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.2855245,
         "longitude": -76.9857687
     },
@@ -31,7 +31,7 @@
         "city": "ALAMANCE",
         "street": "4205 S NC HIGHWAY 62",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.0351361,
         "longitude": -79.4858549
     },
@@ -40,7 +40,7 @@
         "city": "ALBEMARLE",
         "street": "320 S 2ND ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.3501426,
         "longitude": -80.2000578
     },
@@ -49,7 +49,7 @@
         "city": "ALBERTSON",
         "street": "3714 N Nc 903 Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.1143307,
         "longitude": -77.8188683
     },
@@ -58,7 +58,7 @@
         "city": "ALEXANDER",
         "street": "2350 Old Marshall Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": -28.594787,
         "longitude": 16.482647
     },
@@ -67,7 +67,7 @@
         "city": "ALEXIS",
         "street": "4226 Charles Raper Jonas Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.399858,
         "longitude": -81.1178555
     },
@@ -76,7 +76,7 @@
         "city": "ALLIANCE",
         "street": "13144 NC-55 Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.1448881,
         "longitude": -76.8021556
     },
@@ -85,7 +85,7 @@
         "city": "ALMOND",
         "street": "1940 NC-28 N",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.3698153,
         "longitude": -83.565164
     },
@@ -94,7 +94,7 @@
         "city": "ALTAMAHAW",
         "street": "3788 Altamahaw Church St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.1843709,
         "longitude": -79.5072676
     },
@@ -103,7 +103,7 @@
         "city": "ANDREWS",
         "street": "12 CHESTNUT ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2017495,
         "longitude": -83.8240676
     },
@@ -112,7 +112,7 @@
         "city": "ANGIER",
         "street": "31 W Dupree St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.5071045,
         "longitude": -78.7391813
     },
@@ -121,7 +121,7 @@
         "city": "ANSONVILLE",
         "street": "8795 US-52 N",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.1045943,
         "longitude": -80.1092259
     },
@@ -130,7 +130,7 @@
         "city": "APEX",
         "street": "501 W Williams St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.7325352,
         "longitude": -78.8505516
     },
@@ -139,7 +139,7 @@
         "city": "ARAPAHOE",
         "street": "7706 Kershaw Rd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.0261537,
         "longitude": -76.8255535
     },
@@ -148,7 +148,7 @@
         "city": "ARARAT",
         "street": "1354 Ararat Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.4040253,
         "longitude": -80.5606167
     },
@@ -157,7 +157,7 @@
         "city": "ARCHDALE",
         "street": "10193 N Main St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.914581,
         "longitude": -79.9719831
     },
@@ -166,7 +166,7 @@
         "city": "ARDEN",
         "street": "2385 Hendersonville Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.4661821,
         "longitude": -82.5164242
     },
@@ -175,7 +175,7 @@
         "city": "ASH",
         "street": "3882 Whiteville Rd NW",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.0668373,
         "longitude": -78.5263988
     },
@@ -184,7 +184,7 @@
         "city": "ASHEBORO",
         "street": "1030 S Church St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.7079146,
         "longitude": -79.8136446
     },
@@ -193,7 +193,7 @@
         "city": "ASHEVILLE",
         "street": "33 COXE AVE",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.595363,
         "longitude": -82.5508407
     },
@@ -202,7 +202,7 @@
         "city": "ATKINSON",
         "street": "105 W Church St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.5285008,
         "longitude": -78.171107
     },
@@ -211,7 +211,7 @@
         "city": "ATLANTIC",
         "street": "755 Seashore Dr",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.8848864,
         "longitude": -76.3404708
     },
@@ -220,7 +220,7 @@
         "city": "ATLANTIC BEACH",
         "street": "1516 W FORT MACON RD",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.6990505,
         "longitude": -76.7402108
     },
@@ -229,7 +229,7 @@
         "city": "AULANDER",
         "street": "107 W Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.2296005,
         "longitude": -77.1141282
     },
@@ -238,7 +238,7 @@
         "city": "AURORA",
         "street": "186 N 5th St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.3046458,
         "longitude": -76.7873888
     },
@@ -247,7 +247,7 @@
         "city": "AUTRYVILLE",
         "street": "100 W Williams St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.9979453,
         "longitude": -78.6425144
     },
@@ -256,7 +256,7 @@
         "city": "AVON",
         "street": "41196 NC-12",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.3522897,
         "longitude": -75.5032855
     },
@@ -265,7 +265,7 @@
         "city": "AYDEN",
         "street": "452 2nd St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.4711635,
         "longitude": -77.4175729
     },
@@ -274,7 +274,7 @@
         "city": "AYDLETT",
         "street": "523 Aydlett Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.3259922,
         "longitude": -75.9068644
     },
@@ -283,7 +283,7 @@
         "city": "BADIN",
         "street": "1 Boyden St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.4059744,
         "longitude": -80.1167203
     },
@@ -292,7 +292,7 @@
         "city": "BAHAMA",
         "street": "1420 Bahama Rd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.1659763,
         "longitude": -78.8766738
     },
@@ -301,7 +301,7 @@
         "city": "BAILEY",
         "street": "6171 Deans St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.7789584,
         "longitude": -78.1151037
     },
@@ -310,7 +310,7 @@
         "city": "BAKERSVILLE",
         "street": "130 Hemlock Dr",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.0156735,
         "longitude": -82.1587351
     },
@@ -319,7 +319,7 @@
         "city": "BALSAM",
         "street": "103 Cabin Flats Rd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.4267748,
         "longitude": -83.0852137
     },
@@ -328,7 +328,7 @@
         "city": "BALSAM GROVE",
         "street": "8125 Parkway Rd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.2295509,
         "longitude": -82.8737421
     },
@@ -337,7 +337,7 @@
         "city": "BANNER ELK",
         "street": "155 Central Way SW",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.1633342,
         "longitude": -81.8719013
     },
@@ -346,7 +346,7 @@
         "city": "BARCO",
         "street": "3929 CARATOKE HWY",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.3918233,
         "longitude": -75.9796467
     },
@@ -355,7 +355,7 @@
         "city": "BARIUM SPRINGS",
         "street": "2625 Shelton Ave",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.7190252,
         "longitude": -80.8981298
     },
@@ -364,7 +364,7 @@
         "city": "BARNARDSVILLE",
         "street": "1664 Barnardsville Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.777612,
         "longitude": -82.4548511
     },
@@ -373,7 +373,7 @@
         "city": "BAT CAVE",
         "street": "89 Lake Lure Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.4515074,
         "longitude": -82.2870588
     },
@@ -382,7 +382,7 @@
         "city": "BATH",
         "street": "415 Carteret St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.4771094,
         "longitude": -76.8116045
     },
@@ -391,7 +391,7 @@
         "city": "BATTLEBORO",
         "street": "241 W Battleboro Ave",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.0490424,
         "longitude": -77.7491431
     },
@@ -400,7 +400,7 @@
         "city": "BAYBORO",
         "street": "107 Main St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.1429445,
         "longitude": -76.7702093
     },
@@ -409,7 +409,7 @@
         "city": "BEAR CREEK",
         "street": "14525 NC-902",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.6168118,
         "longitude": -79.3847432
     },
@@ -418,7 +418,7 @@
         "city": "BEAUFORT",
         "street": "1903 Live Oak St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.7163146,
         "longitude": -76.6645903
     },
@@ -427,7 +427,7 @@
         "city": "BELEWS CREEK",
         "street": "8540 Belews Creek Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.2445808,
         "longitude": -80.0697641
     },
@@ -436,7 +436,7 @@
         "city": "BELHAVEN",
         "street": "614 W Old County Rd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.5401653,
         "longitude": -76.6229874
     },
@@ -445,7 +445,7 @@
         "city": "BELLARTHUR",
         "street": "2643B Firehouse Rd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.590603909815336,
         "longitude": -77.51292161349284
     },
@@ -454,7 +454,7 @@
         "city": "BELMONT",
         "street": "208 GLENWAY ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2438272,
         "longitude": -81.0377322
     },
@@ -463,7 +463,7 @@
         "city": "BELVIDERE",
         "street": "1517 Belvidere Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.2687674,
         "longitude": -76.5357774
     },
@@ -472,7 +472,7 @@
         "city": "BENNETT",
         "street": "3859 Chatham St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.5654206,
         "longitude": -79.5436361
     },
@@ -481,7 +481,7 @@
         "city": "BENSON",
         "street": "402 S MARKET ST",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.3814368,
         "longitude": -78.5480563
     },
@@ -490,7 +490,7 @@
         "city": "BESSEMER CITY",
         "street": "124 E Alabama Ave",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.284733,
         "longitude": -81.283906
     },
@@ -499,7 +499,7 @@
         "city": "BETHANIA",
         "street": "5670 Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.1823602,
         "longitude": -80.3381077
     },
@@ -508,7 +508,7 @@
         "city": "BETHEL",
         "street": "115 East St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.8083064,
         "longitude": -77.3733428
     },
@@ -517,7 +517,7 @@
         "city": "BEULAVILLE",
         "street": "807 E Main St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 34.9237763,
         "longitude": -77.7738667
     },
@@ -526,7 +526,7 @@
         "city": "BISCOE",
         "street": "303 S Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.3600553,
         "longitude": -79.7796559
     },
@@ -535,7 +535,7 @@
         "city": "BLACK CREEK",
         "street": "101 Central Ave",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.6352337,
         "longitude": -77.9329872
     },
@@ -544,7 +544,7 @@
         "city": "BLACK MOUNTAIN",
         "street": "104 Richardson Blvd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.6176544,
         "longitude": -82.3205791
     },
@@ -553,7 +553,7 @@
         "city": "BLADENBORO",
         "street": "223 M.L.K. Jr Dr",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.5386768,
         "longitude": -78.7875887
     },
@@ -562,7 +562,7 @@
         "city": "BLOUNTS CREEK",
         "street": "13746 NC-33",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.3498854,
         "longitude": -76.9599442
     },
@@ -571,7 +571,7 @@
         "city": "BLOWING ROCK",
         "street": "977 Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.1350245,
         "longitude": -81.6777907
     },
@@ -580,7 +580,7 @@
         "city": "BOILING SPRINGS",
         "street": "101 N Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.254292,
         "longitude": -81.6670407
     },
@@ -589,7 +589,7 @@
         "city": "BOLIVIA",
         "street": "3890 Business 17 E",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.0676715,
         "longitude": -78.1483283
     },
@@ -598,7 +598,7 @@
         "city": "BOLTON",
         "street": "15315 Sam Potts Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.3207243,
         "longitude": -78.4019497
     },
@@ -607,7 +607,7 @@
         "city": "BONLEE",
         "street": "1010 ELMER MOORE RD",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.6459769,
         "longitude": -79.4144654
     },
@@ -616,7 +616,7 @@
         "city": "BOOMER",
         "street": "2716 Boomer Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.0673532,
         "longitude": -81.2536987
     },
@@ -625,7 +625,7 @@
         "city": "BOONE",
         "street": "1544 BLOWING ROCK RD",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.2187873,
         "longitude": -81.684004
     },
@@ -634,7 +634,7 @@
         "city": "BOONVILLE",
         "street": "202 S Carolina Ave",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.2326362,
         "longitude": -80.7081209
     },
@@ -643,7 +643,7 @@
         "city": "BOSTIC",
         "street": "1521 Bostic Sunshine Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.362623,
         "longitude": -81.835657
     },
@@ -652,7 +652,7 @@
         "city": "BRASSTOWN",
         "street": "98 Settawig Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.039895,
         "longitude": -83.9573948
     },
@@ -661,7 +661,7 @@
         "city": "BREVARD",
         "street": "159 W Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2334472,
         "longitude": -82.7342919
     },
@@ -670,7 +670,7 @@
         "city": "BRIDGETON",
         "street": "601 N B St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.1215489,
         "longitude": -77.02078
     },
@@ -679,7 +679,7 @@
         "city": "BROADWAY",
         "street": "101 S Main St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.4579333,
         "longitude": -79.0530768
     },
@@ -688,7 +688,7 @@
         "city": "BROWNS SUMMIT",
         "street": "7222 Brown Summit Rd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.2126351,
         "longitude": -79.7136413
     },
@@ -697,7 +697,7 @@
         "city": "BRUNSWICK",
         "street": "1424 Vinson Blvd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.2867996,
         "longitude": -78.7011356
     },
@@ -706,7 +706,7 @@
         "city": "BRYSON CITY",
         "street": "130 Slope St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.4309291,
         "longitude": -83.447381
     },
@@ -715,7 +715,7 @@
         "city": "BUIES CREEK",
         "street": "254 Main St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.4132168,
         "longitude": -78.7355728
     },
@@ -724,7 +724,7 @@
         "city": "BULLOCK",
         "street": "8682 US-15",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.4912537,
         "longitude": -78.5450002
     },
@@ -733,7 +733,7 @@
         "city": "BUNN",
         "street": "313 Main St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.9606621,
         "longitude": -78.2536423
     },
@@ -742,7 +742,7 @@
         "city": "BUNNLEVEL",
         "street": "6904 Us 401 S",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.3096063,
         "longitude": -78.7802994
     },
@@ -751,7 +751,7 @@
         "city": "BURGAW",
         "street": "100 E Satchwell St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.5521113,
         "longitude": -77.926098
     },
@@ -760,7 +760,7 @@
         "city": "BURLINGTON",
         "street": "405 Maple Ave",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.0956918,
         "longitude": -79.4377991
     },
@@ -769,7 +769,7 @@
         "city": "BURNSVILLE",
         "street": "670 W MAIN ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.9172243,
         "longitude": -82.2996695
     },
@@ -778,7 +778,7 @@
         "city": "BUTNER",
         "street": "331 Central Ave",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.1334246,
         "longitude": -78.7579096
     },
@@ -787,7 +787,7 @@
         "city": "BUXTON",
         "street": "48042 NC-12 Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2676776,
         "longitude": -75.5423746
     },
@@ -796,7 +796,7 @@
         "city": "CALYPSO",
         "street": "108 W Trade St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.153776,
         "longitude": -78.105269
     },
@@ -805,7 +805,7 @@
         "city": "CAMDEN",
         "street": "107 U.S. Hwy 158 W E",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.3284897,
         "longitude": -76.1718764
     },
@@ -814,7 +814,7 @@
         "city": "CAMERON",
         "street": "450 Carthage Street",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.3268226,
         "longitude": -79.255303
     },
@@ -823,7 +823,7 @@
         "city": "CANDLER",
         "street": "99 Rutherford Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.5444359,
         "longitude": -82.6838032
     },
@@ -832,7 +832,7 @@
         "city": "CANDOR",
         "street": "405 N Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2951421,
         "longitude": -79.7453164
     },
@@ -841,7 +841,7 @@
         "city": "CANTON",
         "street": "183 PARK ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.5328838,
         "longitude": -82.8373558
     },
@@ -850,7 +850,7 @@
         "city": "CAROLEEN",
         "street": "2201 US-221A Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2809558,
         "longitude": -81.7962123
     },
@@ -859,7 +859,7 @@
         "city": "CAROLINA BEACH",
         "street": "1323 BRIDGE BARRIER RD",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.0351727,
         "longitude": -77.8935966
     },
@@ -868,7 +868,7 @@
         "city": "CARRBORO",
         "street": "1500 W MAIN ST",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.9099875,
         "longitude": -79.0752876
     },
@@ -877,7 +877,7 @@
         "city": "CARTHAGE",
         "street": "105 S Ray St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.345802,
         "longitude": -79.4170543
     },
@@ -886,7 +886,7 @@
         "city": "CARY",
         "street": "205 S ACADEMY ST",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.7882893,
         "longitude": -78.7812081
     },
@@ -895,7 +895,7 @@
         "city": "CASAR",
         "street": "5801 Casar Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.5123517,
         "longitude": -81.6173159
     },
@@ -904,7 +904,7 @@
         "city": "CASHIERS",
         "street": "230 FRANK ALLEN RD",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.1112023,
         "longitude": -83.0980592
     },
@@ -913,7 +913,7 @@
         "city": "CASTALIA",
         "street": "9512 Main St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.0818186,
         "longitude": -78.0574884
     },
@@ -922,7 +922,7 @@
         "city": "CASTLE HAYNE",
         "street": "4024 Holly Shelter Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.3557241,
         "longitude": -77.8999864
     },
@@ -931,7 +931,7 @@
         "city": "CATAWBA",
         "street": "100 E Central Ave",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.7073558,
         "longitude": -81.0756345
     },
@@ -940,7 +940,7 @@
         "city": "CEDAR FALLS",
         "street": "370 LOFLIN POND RD",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.7520815,
         "longitude": -79.731418
     },
@@ -949,7 +949,7 @@
         "city": "CEDAR GROVE",
         "street": "5206 Efland - Cedar Grove Rd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.1676389,
         "longitude": -79.167793
     },
@@ -958,7 +958,7 @@
         "city": "CEDAR ISLAND",
         "street": "3553 Cedar Island Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.0082203,
         "longitude": -76.3160255
     },
@@ -967,7 +967,7 @@
         "city": "CEDAR MOUNTAIN",
         "street": "9515 Greenville Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.1434499,
         "longitude": -82.6429035
     },
@@ -976,7 +976,7 @@
         "city": "CERRO GORDO",
         "street": "76 Pine St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.3221121,
         "longitude": -78.9264156
     },
@@ -985,7 +985,7 @@
         "city": "CHADBOURN",
         "street": "601 N Brown St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.3221129,
         "longitude": -78.8269664
     },
@@ -994,7 +994,7 @@
         "city": "CHAPEL HILL",
         "street": "125 S Estes Dr",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.9131542,
         "longitude": -79.05578
     },
@@ -1003,7 +1003,7 @@
         "city": "CHARLOTTE",
         "street": "201 N MCDOWELL ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2272086,
         "longitude": -80.8430827
     },
@@ -1012,7 +1012,7 @@
         "city": "CHEROKEE",
         "street": "671 Tsali Blvd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.4766377,
         "longitude": -83.3189781
     },
@@ -1021,7 +1021,7 @@
         "city": "CHERRYVILLE",
         "street": "107 N Mulberry St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.3787442,
         "longitude": -81.3789739
     },
@@ -1030,7 +1030,7 @@
         "city": "CHIMNEY ROCK",
         "street": "366 Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.4512241,
         "longitude": -82.2616865
     },
@@ -1039,7 +1039,7 @@
         "city": "CHINA GROVE",
         "street": "200 S Bostian St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.569306,
         "longitude": -80.5817318
     },
@@ -1048,7 +1048,7 @@
         "city": "CHINQUAPIN",
         "street": "2758 S Nc 41 50 Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.8309998,
         "longitude": -77.8163683
     },
@@ -1057,7 +1057,7 @@
         "city": "CHOCOWINITY",
         "street": "100 Patrick Ln",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.5125955,
         "longitude": -77.1009232
     },
@@ -1066,7 +1066,7 @@
         "city": "CLAREMONT",
         "street": "3327 E Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.7145776,
         "longitude": -81.1461917
     },
@@ -1075,7 +1075,7 @@
         "city": "CLARENDON",
         "street": "6337 10 Mile Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.2101689,
         "longitude": -78.8453007
     },
@@ -1084,7 +1084,7 @@
         "city": "CLARKTON",
         "street": "31 E Green St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.4873922,
         "longitude": -78.6561257
     },
@@ -1093,7 +1093,7 @@
         "city": "CLAYTON",
         "street": "604 E FRONT ST",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.650711,
         "longitude": -78.4563914
     },
@@ -1102,7 +1102,7 @@
         "city": "CLEMMONS",
         "street": "3630 CLEMMONS RD",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.0215258,
         "longitude": -80.3819984
     },
@@ -1111,7 +1111,7 @@
         "city": "CLEVELAND",
         "street": "105 W Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.7331953,
         "longitude": -80.6770111
     },
@@ -1120,7 +1120,7 @@
         "city": "CLIFFSIDE",
         "street": "244 N Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2381785,
         "longitude": -81.7698229
     },
@@ -1129,7 +1129,7 @@
         "city": "CLIMAX",
         "street": "1319 NC-62 E",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.9129138,
         "longitude": -79.7175279
     },
@@ -1138,7 +1138,7 @@
         "city": "CLINTON",
         "street": "1011 Sunset Ave",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.9979453,
         "longitude": -78.3233325
     },
@@ -1147,7 +1147,7 @@
         "city": "CLYDE",
         "street": "8639 Carolina Blvd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.5334379,
         "longitude": -82.910691
     },
@@ -1156,7 +1156,7 @@
         "city": "COATS",
         "street": "43 W Main St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.4079393,
         "longitude": -78.6719592
     },
@@ -1165,7 +1165,7 @@
         "city": "COFIELD",
         "street": "1240 Ahoskie-Cofield Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.3565436,
         "longitude": -76.9099577
     },
@@ -1174,7 +1174,7 @@
         "city": "COINJOCK",
         "street": "183 Worth Guard Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.3439979,
         "longitude": -75.9530233
     },
@@ -1183,7 +1183,7 @@
         "city": "COLERAIN",
         "street": "107 W River St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.201268,
         "longitude": -76.7685616
     },
@@ -1192,7 +1192,7 @@
         "city": "COLFAX",
         "street": "9052 W Market St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.1126365,
         "longitude": -80.0144842
     },
@@ -1201,7 +1201,7 @@
         "city": "COLLETTSVILLE",
         "street": "4323 Collettsville Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.9256856,
         "longitude": -81.6745456
     },
@@ -1210,7 +1210,7 @@
         "city": "COLUMBIA",
         "street": "114 S Broad St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.9176633,
         "longitude": -76.2521521
     },
@@ -1219,7 +1219,7 @@
         "city": "COLUMBUS",
         "street": "126 Ward St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2531698,
         "longitude": -82.1970584
     },
@@ -1228,7 +1228,7 @@
         "city": "COMFORT",
         "street": "4262 NC-41 W",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.0057171,
         "longitude": -77.5088538
     },
@@ -1237,7 +1237,7 @@
         "city": "COMO",
         "street": "1226 US Highway 258 N",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.5015414,
         "longitude": -77.0094074
     },
@@ -1246,7 +1246,7 @@
         "city": "CONCORD",
         "street": "66 McCachern Blvd SE",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.4094178,
         "longitude": -80.5800049
     },
@@ -1255,7 +1255,7 @@
         "city": "CONETOE",
         "street": "206 W Church St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.8157136,
         "longitude": -77.4558025
     },
@@ -1264,7 +1264,7 @@
         "city": "CONNELLY SPRINGS",
         "street": "1015 US-70",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.7399645,
         "longitude": -81.5029788
     },
@@ -1273,7 +1273,7 @@
         "city": "CONOVER",
         "street": "201 1st St E",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.7065004,
         "longitude": -81.2184383
     },
@@ -1282,7 +1282,7 @@
         "city": "CONWAY",
         "street": "205 S Church St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.4370974,
         "longitude": -77.2288563
     },
@@ -1291,7 +1291,7 @@
         "city": "COOLEEMEE",
         "street": "7814 NC-801 S",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.810362,
         "longitude": -80.5561371
     },
@@ -1300,7 +1300,7 @@
         "city": "CORAPEAKE",
         "street": "1398 NC-32 N",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.5343192,
         "longitude": -76.5763395
     },
@@ -1309,7 +1309,7 @@
         "city": "CORDOVA",
         "street": "232 Ledbetter St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 34.9129318,
         "longitude": -79.8220026
     },
@@ -1318,7 +1318,7 @@
         "city": "CORNELIUS",
         "street": "20311 Chartwell Center Dr",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.481705,
         "longitude": -80.8590006
     },
@@ -1327,7 +1327,7 @@
         "city": "COROLLA",
         "street": "1150 Ocean Trail",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.3847464,
         "longitude": -75.8286983
     },
@@ -1336,7 +1336,7 @@
         "city": "COUNCIL",
         "street": "11740 NC-211 E",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.4210031,
         "longitude": -78.4675067
     },
@@ -1345,7 +1345,7 @@
         "city": "COVE CITY",
         "street": "201 E Sunset Blvd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.1870308,
         "longitude": -77.3206495
     },
@@ -1354,7 +1354,7 @@
         "city": "CRAMERTON",
         "street": "111 Center St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2387504,
         "longitude": -81.0750757
     },
@@ -1363,7 +1363,7 @@
         "city": "CREEDMOOR",
         "street": "2157 E Wilton Ave",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.122741,
         "longitude": -78.6862272
     },
@@ -1372,7 +1372,7 @@
         "city": "CRESTON",
         "street": "636 3 Top Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.4303076,
         "longitude": -81.6211661
     },
@@ -1381,7 +1381,7 @@
         "city": "CRESWELL",
         "street": "201 W Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.8693818,
         "longitude": -76.393796
     },
@@ -1390,7 +1390,7 @@
         "city": "CROSSNORE",
         "street": "3 Fountain Cir",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.0217938,
         "longitude": -81.9295579
     },
@@ -1399,7 +1399,7 @@
         "city": "CROUSE",
         "street": "150 Crouse Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.4209672,
         "longitude": -81.3053602
     },
@@ -1408,7 +1408,7 @@
         "city": "CRUMPLER",
         "street": "9247 Old Hwy 16",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.5040137,
         "longitude": -81.3942675
     },
@@ -1417,7 +1417,7 @@
         "city": "CULBERSON",
         "street": "2400 NC-60",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.991749,
         "longitude": -84.1676921
     },
@@ -1426,7 +1426,7 @@
         "city": "CULLOWHEE",
         "street": "4710 LITTLE SAVANNAH RD",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.3137739,
         "longitude": -83.1765814
     },
@@ -1435,7 +1435,7 @@
         "city": "CUMBERLAND",
         "street": "2304 Wingate Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.0748576,
         "longitude": -79.7816972
     },
@@ -1444,7 +1444,7 @@
         "city": "CURRIE",
         "street": "28480 NC-210",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.4626671,
         "longitude": -78.1011055
     },
@@ -1453,7 +1453,7 @@
         "city": "DALLAS",
         "street": "3151 Dallas Hgh Shls Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.3160401,
         "longitude": -81.1764865
     },
@@ -1462,7 +1462,7 @@
         "city": "DANA",
         "street": "10 Ridge Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.329283,
         "longitude": -82.3753953
     },
@@ -1471,7 +1471,7 @@
         "city": "DANBURY",
         "street": "303 N Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.4093047,
         "longitude": -80.2058831
     },
@@ -1480,7 +1480,7 @@
         "city": "DAVIDSON",
         "street": "99 JACKSON ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.4992614,
         "longitude": -80.8485218
     },
@@ -1489,7 +1489,7 @@
         "city": "DAVIS",
         "street": "272 Horseshoe Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.7021413,
         "longitude": -78.6877702
     },
@@ -1498,7 +1498,7 @@
         "city": "DEEP GAP",
         "street": "7378 OLD 421 S",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.238919055588184,
         "longitude": -81.52377294174188
     },
@@ -1507,7 +1507,7 @@
         "city": "DEEP RUN",
         "street": "3466 Old Hwy 11",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.1454412,
         "longitude": -77.7038632
     },
@@ -1516,7 +1516,7 @@
         "city": "DELCO",
         "street": "30 DELCO PROSPER RD",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.3157241,
         "longitude": -78.2247211
     },
@@ -1525,7 +1525,7 @@
         "city": "DENTON",
         "street": "110 W Salisbury St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.6334713,
         "longitude": -80.1158813
     },
@@ -1534,7 +1534,7 @@
         "city": "DENVER",
         "street": "3593 Denver Dr",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.5312452,
         "longitude": -81.0297994
     },
@@ -1543,7 +1543,7 @@
         "city": "DILLSBORO",
         "street": "385 Haywood Rd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.3700615,
         "longitude": -83.2506638
     },
@@ -1552,7 +1552,7 @@
         "city": "DOBSON",
         "street": "214 W Kapp St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.3956891,
         "longitude": -80.722567
     },
@@ -1561,7 +1561,7 @@
         "city": "DOVER",
         "street": "115 W Kornegay St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.216274,
         "longitude": -77.436907
     },
@@ -1570,7 +1570,7 @@
         "city": "DREXEL",
         "street": "200 Church St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.7579081,
         "longitude": -81.6042614
     },
@@ -1579,7 +1579,7 @@
         "city": "DUBLIN",
         "street": "86 Third St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.6568361,
         "longitude": -78.726407
     },
@@ -1588,7 +1588,7 @@
         "city": "DUDLEY",
         "street": "4219 S U.S. 117 Alt Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2673857,
         "longitude": -78.0374891
     },
@@ -1597,7 +1597,7 @@
         "city": "DUNN",
         "street": "1115 S CLINTON AVE",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.3076902,
         "longitude": -78.6093257
     },
@@ -1606,7 +1606,7 @@
         "city": "DURHAM",
         "street": "323 E CHAPEL HILL ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.996653,
         "longitude": -78.9018053
     },
@@ -1615,7 +1615,7 @@
         "city": "EAGLE SPRINGS",
         "street": "1984 North Carolina 211",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.5724012,
         "longitude": -78.7966912
     },
@@ -1624,7 +1624,7 @@
         "city": "EARL",
         "street": "2719 Blacksburg Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.1934623,
         "longitude": -81.5331467
     },
@@ -1633,7 +1633,7 @@
         "city": "EAST BEND",
         "street": "448 E Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.215775,
         "longitude": -80.5074142
     },
@@ -1642,7 +1642,7 @@
         "city": "EAST FLAT ROCK",
         "street": "125 W Blue Ridge Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2801069,
         "longitude": -82.4218962
     },
@@ -1651,7 +1651,7 @@
         "city": "EAST SPENCER",
         "street": "209 S Long St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.6818059,
         "longitude": -80.4322801
     },
@@ -1660,7 +1660,7 @@
         "city": "EDEN",
         "street": "332 N PIERCE ST",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.4884715,
         "longitude": -79.7667026
     },
@@ -1669,7 +1669,7 @@
         "city": "EDENTON",
         "street": "100 N BROAD ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.057938,
         "longitude": -76.6077213
     },
@@ -1678,7 +1678,7 @@
         "city": "EDNEYVILLE",
         "street": "3979 Chimney Rock Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.3940059,
         "longitude": -82.3409496
     },
@@ -1687,7 +1687,7 @@
         "city": "EDWARD",
         "street": "19160 NC-33",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.3250107,
         "longitude": -76.8802812
     },
@@ -1696,7 +1696,7 @@
         "city": "EFLAND",
         "street": "3522 US Hwy 70 W",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.0812615,
         "longitude": -79.1690417
     },
@@ -1705,7 +1705,7 @@
         "city": "ELIZABETH CITY",
         "street": "1001 W Ehringhaus St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.3010192,
         "longitude": -76.2203699
     },
@@ -1714,7 +1714,7 @@
         "city": "ELIZABETHTOWN",
         "street": "209 S Poplar St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.6293372,
         "longitude": -78.6052899
     },
@@ -1723,7 +1723,7 @@
         "city": "ELK PARK",
         "street": "153 Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.1574315,
         "longitude": -81.9802767
     },
@@ -1732,7 +1732,7 @@
         "city": "ELKIN",
         "street": "213 W MAIN ST",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.2440504,
         "longitude": -80.8507968
     },
@@ -1741,7 +1741,7 @@
         "city": "ELLENBORO",
         "street": "131 Depot St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.3287949,
         "longitude": -81.7587106
     },
@@ -1750,7 +1750,7 @@
         "city": "ELLERBE",
         "street": "268 2nd St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.0712608,
         "longitude": -79.7614395
     },
@@ -1759,7 +1759,7 @@
         "city": "ELM CITY",
         "street": "409 W MAIN ST",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.8065455,
         "longitude": -77.863315
     },
@@ -1768,7 +1768,7 @@
         "city": "ELON",
         "street": "105 S Williamson Ave",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.1029132,
         "longitude": -79.5066895
     },
@@ -1777,7 +1777,7 @@
         "city": "EMERALD ISLE",
         "street": "142 Eastview Dr",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.6653135,
         "longitude": -77.0382187
     },
@@ -1786,7 +1786,7 @@
         "city": "ENFIELD",
         "street": "114 S Dennis St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.1809865,
         "longitude": -77.6666415
     },
@@ -1795,7 +1795,7 @@
         "city": "ENGELHARD",
         "street": "34668 US Highway 264",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.5096158,
         "longitude": -75.9960184
     },
@@ -1804,7 +1804,7 @@
         "city": "ENKA",
         "street": "1572 Sand Hill Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.5498322,
         "longitude": -82.6501279
     },
@@ -1813,7 +1813,7 @@
         "city": "ENNICE",
         "street": "2529 Barrett Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.5534632,
         "longitude": -80.9959127
     },
@@ -1822,7 +1822,7 @@
         "city": "ERNUL",
         "street": "1000 Hills Neck Rd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.2526614,
         "longitude": -77.079671
     },
@@ -1831,7 +1831,7 @@
         "city": "ERWIN",
         "street": "904 S 13th St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.3268292,
         "longitude": -78.676128
     },
@@ -1840,7 +1840,7 @@
         "city": "ETHER",
         "street": "105 Hogan Farm Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.4398606,
         "longitude": -79.7839262
     },
@@ -1849,7 +1849,7 @@
         "city": "ETOWAH",
         "street": "123 Etowah Center Dr",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.3176151,
         "longitude": -82.5942893
     },
@@ -1858,7 +1858,7 @@
         "city": "EURE",
         "street": "1203 NC-137",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.4273762,
         "longitude": -76.8532909
     },
@@ -1867,7 +1867,7 @@
         "city": "EVERETTS",
         "street": "106 N Broad St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.8346231,
         "longitude": -77.1708347
     },
@@ -1876,7 +1876,7 @@
         "city": "EVERGREEN",
         "street": "7553 Old Hwy 74",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.766947,
         "longitude": -78.8273259
     },
@@ -1885,7 +1885,7 @@
         "city": "FAIR BLUFF",
         "street": "1115 Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.3134996,
         "longitude": -79.0372544
     },
@@ -1894,7 +1894,7 @@
         "city": "FAIRFIELD",
         "street": "7089 NC-94",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.8067279,
         "longitude": -78.6259609
     },
@@ -1903,7 +1903,7 @@
         "city": "FAIRMONT",
         "street": "100 N Walnut St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.4968311,
         "longitude": -79.114202
     },
@@ -1912,7 +1912,7 @@
         "city": "FAIRVIEW",
         "street": "1352 Charlotte Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.5221896,
         "longitude": -82.3926828
     },
@@ -1921,7 +1921,7 @@
         "city": "FAISON",
         "street": "110 E Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.1162764,
         "longitude": -78.1361033
     },
@@ -1930,7 +1930,7 @@
         "city": "FAITH",
         "street": "1027 Gantt St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.587084,
         "longitude": -80.4628385
     },
@@ -1939,7 +1939,7 @@
         "city": "FALCON",
         "street": "7175 S West St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.1898868,
         "longitude": -78.6483498
     },
@@ -1948,7 +1948,7 @@
         "city": "FALKLAND",
         "street": "6063 NC-43 N",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.6983006,
         "longitude": -77.5135397
     },
@@ -1957,7 +1957,7 @@
         "city": "FALLSTON",
         "street": "771 E Stagecoach Trail",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.4284117,
         "longitude": -81.5014757
     },
@@ -1966,7 +1966,7 @@
         "city": "FARMVILLE",
         "street": "3703 N Main St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.5954381,
         "longitude": -77.5852496
     },
@@ -1975,7 +1975,7 @@
         "city": "FAYETTEVILLE",
         "street": "6380 CLIFFDALE RD",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.0525759,
         "longitude": -78.878292
     },
@@ -1984,7 +1984,7 @@
         "city": "FERGUSON",
         "street": "12650 W NC-268",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.0856861,
         "longitude": -81.3684261
     },
@@ -1993,7 +1993,7 @@
         "city": "FLAT ROCK",
         "street": "2687 Greenville Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.271228,
         "longitude": -82.441508
     },
@@ -2002,7 +2002,7 @@
         "city": "FLEETWOOD",
         "street": "910 Railroad Grade Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.3062384,
         "longitude": -81.5134378
     },
@@ -2011,7 +2011,7 @@
         "city": "FLETCHER",
         "street": "3616 Hendersonville Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.4309336,
         "longitude": -82.5011239
     },
@@ -2020,7 +2020,7 @@
         "city": "FONTANA DAM",
         "street": "50 Fontana Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.43338,
         "longitude": -83.8228813
     },
@@ -2029,7 +2029,7 @@
         "city": "FOREST CITY",
         "street": "133 S Powell St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.3337279,
         "longitude": -81.8649245
     },
@@ -2038,7 +2038,7 @@
         "city": "FOUNTAIN",
         "street": "6738 E Wilson St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.6740478,
         "longitude": -77.6399741
     },
@@ -2047,7 +2047,7 @@
         "city": "FOUR OAKS",
         "street": "107 N Railroad St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.4455571,
         "longitude": -78.4294653
     },
@@ -2056,7 +2056,7 @@
         "city": "FRANKLIN",
         "street": "250 DEPOT ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.1823171,
         "longitude": -83.3815429
     },
@@ -2065,7 +2065,7 @@
         "city": "FRANKLINTON",
         "street": "320 S Main St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.1018163,
         "longitude": -78.4580543
     },
@@ -2074,7 +2074,7 @@
         "city": "FRANKLINVILLE",
         "street": "221 Pine St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.7442309,
         "longitude": -79.6942217
     },
@@ -2083,7 +2083,7 @@
         "city": "FREMONT",
         "street": "115 E Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.5454378,
         "longitude": -77.9747087
     },
@@ -2092,7 +2092,7 @@
         "city": "FRISCO",
         "street": "53590 NC-12",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2344668,
         "longitude": -75.627529
     },
@@ -2101,7 +2101,7 @@
         "city": "FUQUAY VARINA",
         "street": "131 N JUDD PKWY NE",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.5843849,
         "longitude": -78.7998691
     },
@@ -2110,7 +2110,7 @@
         "city": "GARLAND",
         "street": "107 S Bladen Ave",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.7858352,
         "longitude": -78.3940736
     },
@@ -2119,7 +2119,7 @@
         "city": "GARNER",
         "street": "267 Timber Dr",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.7112642,
         "longitude": -78.6141709
     },
@@ -2128,7 +2128,7 @@
         "city": "GARYSBURG",
         "street": "213 Old Highway Rd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.450985,
         "longitude": -77.5588661
     },
@@ -2137,7 +2137,7 @@
         "city": "GASTON",
         "street": "108 Roanoke Rapids Rd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.5004281,
         "longitude": -77.6449804
     },
@@ -2146,7 +2146,7 @@
         "city": "GASTONIA",
         "street": "301 W MAIN AVE",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2622654,
         "longitude": -81.1838186
     },
@@ -2155,7 +2155,7 @@
         "city": "GATES",
         "street": "958 NC-37 N",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.5034867,
         "longitude": -76.7691236
     },
@@ -2164,7 +2164,7 @@
         "city": "GATESVILLE",
         "street": "106 Court St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.4034878,
         "longitude": -76.7530098
     },
@@ -2173,7 +2173,7 @@
         "city": "GERMANTON",
         "street": "3188 Nc 65 Hwy W",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.262771,
         "longitude": -80.2309735
     },
@@ -2182,7 +2182,7 @@
         "city": "GERTON",
         "street": "5000 Gerton Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.4792846,
         "longitude": -82.3481715
     },
@@ -2191,7 +2191,7 @@
         "city": "GIBSON",
         "street": "4580 Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.7590477,
         "longitude": -79.6106104
     },
@@ -2200,7 +2200,7 @@
         "city": "GIBSONVILLE",
         "street": "221 E Main St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.105691,
         "longitude": -79.5422462
     },
@@ -2209,7 +2209,7 @@
         "city": "GLADE VALLEY",
         "street": "18 Glade Valley Church Rd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.4719204,
         "longitude": -81.0515502
     },
@@ -2218,7 +2218,7 @@
         "city": "GLEN ALPINE",
         "street": "102 Catawba St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.7290168,
         "longitude": -81.7792661
     },
@@ -2227,7 +2227,7 @@
         "city": "GLENDALE SPRINGS",
         "street": "7471 NC-16",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.345128,
         "longitude": -81.3803761
     },
@@ -2236,7 +2236,7 @@
         "city": "GLENVILLE",
         "street": "4907 N Highway 107",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.1734296,
         "longitude": -83.129311
     },
@@ -2245,7 +2245,7 @@
         "city": "GLOUCESTER",
         "street": "310 PIGOTT RD",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.7262735,
         "longitude": -76.5410354
     },
@@ -2254,7 +2254,7 @@
         "city": "GODWIN",
         "street": "8817 Main St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.2176639,
         "longitude": -78.6803668
     },
@@ -2263,7 +2263,7 @@
         "city": "GOLD HILL",
         "street": "14125 Highway 52",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.9212759,
         "longitude": -79.1730889
     },
@@ -2272,7 +2272,7 @@
         "city": "GOLDSBORO",
         "street": "3100 CASHWELL DR",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.3848841,
         "longitude": -77.9927651
     },
@@ -2281,7 +2281,7 @@
         "city": "GOLDSTON",
         "street": "50 E Goldbar Ave",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.5932028,
         "longitude": -79.3283539
     },
@@ -2290,7 +2290,7 @@
         "city": "GRAHAM",
         "street": "112 S MARSHALL ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.0690258,
         "longitude": -79.4005756
     },
@@ -2299,7 +2299,7 @@
         "city": "GRANDY",
         "street": "123 Forbes Loop Unit C",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.2424128,
         "longitude": -75.8777825
     },
@@ -2308,7 +2308,7 @@
         "city": "GRANITE FALLS",
         "street": "1 Lakeside Ave",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.7965205,
         "longitude": -81.4306458
     },
@@ -2317,7 +2317,7 @@
         "city": "GRANITE QUARRY",
         "street": "222 E Bank St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.6123617,
         "longitude": -80.4467263
     },
@@ -2326,7 +2326,7 @@
         "city": "GRANTSBORO",
         "street": "10644 NC-55 Hwy",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.1406429,
         "longitude": -76.84246
     },
@@ -2335,7 +2335,7 @@
         "city": "GRASSY CREEK",
         "street": "15500 Old NC-16",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.8823454,
         "longitude": -82.056782
     },
@@ -2344,7 +2344,7 @@
         "city": "GREEN MOUNTAIN",
         "street": "273 Toe River Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.9937245,
         "longitude": -82.2590172
     },
@@ -2353,7 +2353,7 @@
         "city": "GREENSBORO",
         "street": "5704 W MARKET ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.0726355,
         "longitude": -79.7919754
     },
@@ -2362,7 +2362,7 @@
         "city": "GREENVILLE",
         "street": "300 W 2ND ST",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.613224,
         "longitude": -77.3724593
     },
@@ -2371,7 +2371,7 @@
         "city": "GRIFTON",
         "street": "466 Queen St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.3728597,
         "longitude": -77.4355647
     },
@@ -2380,7 +2380,7 @@
         "city": "GRIMESLAND",
         "street": "7607 Pitt St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.5634956,
         "longitude": -77.1921806
     },
@@ -2389,7 +2389,7 @@
         "city": "GROVER",
         "street": "102 Mulberry Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.1745756,
         "longitude": -81.4498097
     },
@@ -2398,7 +2398,7 @@
         "city": "GULF",
         "street": "833 Thrift Rd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.5604272,
         "longitude": -79.2816873
     },
@@ -2407,7 +2407,7 @@
         "city": "HALIFAX",
         "street": "28 S KING ST",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.3286329,
         "longitude": -77.5897391
     },
@@ -2416,7 +2416,7 @@
         "city": "HALLSBORO",
         "street": "4161 Sam Potts Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.3223912,
         "longitude": -78.5989015
     },
@@ -2425,7 +2425,7 @@
         "city": "HAMILTON",
         "street": "104 E Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.9441361,
         "longitude": -77.2087787
     },
@@ -2434,7 +2434,7 @@
         "city": "HAMLET",
         "street": "105 W MAIN ST",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 34.8863657,
         "longitude": -79.6972143
     },
@@ -2443,7 +2443,7 @@
         "city": "HAMPSTEAD",
         "street": "121 Dan Owen Dr",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.3676686,
         "longitude": -77.7105332
     },
@@ -2452,7 +2452,7 @@
         "city": "HAMPTONVILLE",
         "street": "2943 Rocky Branch Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.0984684,
         "longitude": -80.760345
     },
@@ -2461,7 +2461,7 @@
         "city": "HARBINGER",
         "street": "8732 Caratoke Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.1021072,
         "longitude": -75.8140752
     },
@@ -2470,7 +2470,7 @@
         "city": "HARKERS ISLAND",
         "street": "823 Island Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.6951628,
         "longitude": -76.5593693
     },
@@ -2479,7 +2479,7 @@
         "city": "HARMONY",
         "street": "3348 Harmony Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.9556911,
         "longitude": -80.7717346
     },
@@ -2488,7 +2488,7 @@
         "city": "HARRELLS",
         "street": "218 Tomahawk Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.727551,
         "longitude": -78.2014464
     },
@@ -2497,7 +2497,7 @@
         "city": "HARRELLSVILLE",
         "street": "116 E Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.3026868,
         "longitude": -76.7924773
     },
@@ -2506,7 +2506,7 @@
         "city": "HARRIS",
         "street": "173 HOGAN RD",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.7743893,
         "longitude": -78.3678695
     },
@@ -2515,7 +2515,7 @@
         "city": "HARRISBURG",
         "street": "4258 NC-49 S",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.3258295,
         "longitude": -80.6454979
     },
@@ -2524,7 +2524,7 @@
         "city": "HASSELL",
         "street": "1524 E Commerce St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.9079256,
         "longitude": -77.2785755
     },
@@ -2533,7 +2533,7 @@
         "city": "HATTERAS",
         "street": "57689 NC-12",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.219464,
         "longitude": -75.690343
     },
@@ -2542,7 +2542,7 @@
         "city": "HAVELOCK",
         "street": "133 US HIGHWAY 70 W",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.8785,
         "longitude": -76.9014457
     },
@@ -2551,7 +2551,7 @@
         "city": "HAW RIVER",
         "street": "105 Roxboro Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.091526,
         "longitude": -79.3641862
     },
@@ -2560,7 +2560,7 @@
         "city": "HAYESVILLE",
         "street": "136 Sanderson St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.0462818,
         "longitude": -83.8179427
     },
@@ -2569,7 +2569,7 @@
         "city": "HAYS",
         "street": "5465 Mountain View Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.2498544,
         "longitude": -81.1156389
     },
@@ -2578,7 +2578,7 @@
         "city": "HENDERSON",
         "street": "905 S Garnett St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.3273648,
         "longitude": -78.4027265
     },
@@ -2587,7 +2587,7 @@
         "city": "HENDERSONVILLE",
         "street": "90 LAKEWOOD RD",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.3187279,
         "longitude": -82.4609528
     },
@@ -2596,7 +2596,7 @@
         "city": "HENRICO",
         "street": "1458 RIVER RD",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.5343153,
         "longitude": -77.8308201
     },
@@ -2605,7 +2605,7 @@
         "city": "HENRIETTA",
         "street": "2946 Harris Henrietta Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.8579348,
         "longitude": -77.5827506
     },
@@ -2614,7 +2614,7 @@
         "city": "HERTFORD",
         "street": "115 W Grubb St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.190158,
         "longitude": -76.4660519
     },
@@ -2623,7 +2623,7 @@
         "city": "HICKORY",
         "street": "231 GOVERNMENT AVE SW",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.7333312,
         "longitude": -81.3442915
     },
@@ -2632,7 +2632,7 @@
         "city": "HIDDENITE",
         "street": "5181 NC-90 E",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.9037438,
         "longitude": -81.0906356
     },
@@ -2641,7 +2641,7 @@
         "city": "HIGH FALLS",
         "street": "1368 NC-22",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.483757,
         "longitude": -79.5216919
     },
@@ -2650,7 +2650,7 @@
         "city": "HIGH POINT",
         "street": "315 E GREEN DR",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.9556924,
         "longitude": -80.0053176
     },
@@ -2659,7 +2659,7 @@
         "city": "HIGH SHOALS",
         "street": "511 N Lincoln St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.4026352,
         "longitude": -81.2023016
     },
@@ -2668,7 +2668,7 @@
         "city": "HIGHLANDS",
         "street": "43 DILLARD RD",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.0525909,
         "longitude": -83.1968173
     },
@@ -2677,7 +2677,7 @@
         "city": "HILDEBRAN",
         "street": "511 US Highway 70 W",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.7140208,
         "longitude": -81.4220334
     },
@@ -2686,7 +2686,7 @@
         "city": "HILLSBOROUGH",
         "street": "144 E KING ST",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.075382,
         "longitude": -79.0993958
     },
@@ -2695,7 +2695,7 @@
         "city": "HOBBSVILLE",
         "street": "385 Hobbsville Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.3470995,
         "longitude": -76.6046703
     },
@@ -2704,7 +2704,7 @@
         "city": "HOBGOOD",
         "street": "218 E Commerce St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.0295946,
         "longitude": -77.3980465
     },
@@ -2713,7 +2713,7 @@
         "city": "HOBUCKEN",
         "street": "51 School House Loop Rd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.2457225,
         "longitude": -76.5690939
     },
@@ -2722,7 +2722,7 @@
         "city": "HOFFMAN",
         "street": "2717 N Us 1 Hwy",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.032378,
         "longitude": -79.5475437
     },
@@ -2731,7 +2731,7 @@
         "city": "HOLLISTER",
         "street": "231 Gibbs Ave",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.255984,
         "longitude": -77.9358183
     },
@@ -2740,7 +2740,7 @@
         "city": "HOLLY RIDGE",
         "street": "213 Holly St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.4954448,
         "longitude": -77.5549696
     },
@@ -2749,7 +2749,7 @@
         "city": "HOLLY SPRINGS",
         "street": "112 3rd St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.6512655,
         "longitude": -78.8336218
     },
@@ -2758,7 +2758,7 @@
         "city": "HOOKERTON",
         "street": "116 S 3rd St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.4245947,
         "longitude": -77.5892958
     },
@@ -2767,7 +2767,7 @@
         "city": "HOPE MILLS",
         "street": "3215 N MAIN ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.9704419,
         "longitude": -78.9453056
     },
@@ -2776,7 +2776,7 @@
         "city": "HORSE SHOE",
         "street": "3740 Brevard Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.3431939,
         "longitude": -82.5564579
     },
@@ -2785,7 +2785,7 @@
         "city": "HOT SPRINGS",
         "street": "111 Bridge St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.8923253,
         "longitude": -82.8290318
     },
@@ -2794,7 +2794,7 @@
         "city": "HUBERT",
         "street": "382 Hubert Blvd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.7137729,
         "longitude": -77.2452328
     },
@@ -2803,7 +2803,7 @@
         "city": "HUDSON",
         "street": "101 Fairway Ave",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.8484645,
         "longitude": -81.4959267
     },
@@ -2812,7 +2812,7 @@
         "city": "HUNTERSVILLE",
         "street": "400 GILEAD RD",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.4108278,
         "longitude": -80.8429304
     },
@@ -2821,7 +2821,7 @@
         "city": "HURDLE MILLS",
         "street": "9581 Hurdle Mills Rd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.2729159,
         "longitude": -79.050813
     },
@@ -2830,7 +2830,7 @@
         "city": "ICARD",
         "street": "3462 Miller Bridge Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.7273539,
         "longitude": -81.4706462
     },
@@ -2839,7 +2839,7 @@
         "city": "INDIAN TRAIL",
         "street": "210 Postage Way",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.0768141,
         "longitude": -80.6692352
     },
@@ -2848,7 +2848,7 @@
         "city": "IRON STATION",
         "street": "4832 E NC-27",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.4415237,
         "longitude": -81.1561898
     },
@@ -2857,7 +2857,7 @@
         "city": "IVANHOE",
         "street": "4109 Ivanhoe Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.6107245,
         "longitude": -78.2419415
     },
@@ -2866,7 +2866,7 @@
         "city": "JACKSON",
         "street": "104 Atherton St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.3896747,
         "longitude": -77.4214855
     },
@@ -2875,7 +2875,7 @@
         "city": "JACKSON SPRINGS",
         "street": "2411 Jackson Springs Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2095948,
         "longitude": -79.6258705
     },
@@ -2884,7 +2884,7 @@
         "city": "JACKSONVILLE",
         "street": "719 NEW BRIDGE ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.7509962,
         "longitude": -77.4309829
     },
@@ -2893,7 +2893,7 @@
         "city": "JAMESTOWN",
         "street": "203 E MAIN ST",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.9941053,
         "longitude": -79.9356589
     },
@@ -2902,7 +2902,7 @@
         "city": "JAMESVILLE",
         "street": "1840 Main St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.8112719,
         "longitude": -76.896616
     },
@@ -2911,7 +2911,7 @@
         "city": "JARVISBURG",
         "street": "7066 CARATOKE HWY",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.202939,
         "longitude": -75.8665816
     },
@@ -2920,7 +2920,7 @@
         "city": "JEFFERSON",
         "street": "410 E Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.420403,
         "longitude": -81.4734376
     },
@@ -2929,7 +2929,7 @@
         "city": "JONAS RIDGE",
         "street": "9042 NC-181",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.9737044,
         "longitude": -81.8931167
     },
@@ -2938,7 +2938,7 @@
         "city": "JONESVILLE",
         "street": "127 N Bridge St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.2393013,
         "longitude": -80.8445152
     },
@@ -2947,7 +2947,7 @@
         "city": "JULIAN",
         "street": "6505 Liberty Rd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.9051363,
         "longitude": -79.660304
     },
@@ -2956,7 +2956,7 @@
         "city": "KANNAPOLIS",
         "street": "1040 DALE EARNHARDT BLVD",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.4979605,
         "longitude": -80.6240008
     },
@@ -2965,7 +2965,7 @@
         "city": "KELFORD",
         "street": "108 S Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.1796007,
         "longitude": -77.2235757
     },
@@ -2974,7 +2974,7 @@
         "city": "KELLY",
         "street": "18529 NC-53 E",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.4662797,
         "longitude": -78.3244457
     },
@@ -2983,7 +2983,7 @@
         "city": "KENANSVILLE",
         "street": "106 N Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.9623883,
         "longitude": -77.9622069
     },
@@ -2992,7 +2992,7 @@
         "city": "KENLY",
         "street": "102 N Gardner Ave",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.5959363,
         "longitude": -78.1240031
     },
@@ -3001,7 +3001,7 @@
         "city": "KERNERSVILLE",
         "street": "325 W MOUNTAIN ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.1198589,
         "longitude": -80.0736533
     },
@@ -3010,7 +3010,7 @@
         "city": "KILL DEVIL HILLS",
         "street": "302 S Croatan Hwy",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.0321186,
         "longitude": -75.6776147
     },
@@ -3019,7 +3019,7 @@
         "city": "KING",
         "street": "603 S MAIN ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.280694,
         "longitude": -80.3592197
     },
@@ -3028,7 +3028,7 @@
         "city": "KINGS MOUNTAIN",
         "street": "115 E GOLD ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2450607,
         "longitude": -81.3410516
     },
@@ -3037,7 +3037,7 @@
         "city": "KINSTON",
         "street": "208 E CASWELL ST",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.2626635,
         "longitude": -77.5816353
     },
@@ -3046,7 +3046,7 @@
         "city": "KIPLING",
         "street": "34 Neill Smith Rd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.4798813,
         "longitude": -78.8211282
     },
@@ -3055,7 +3055,7 @@
         "city": "KITTRELL",
         "street": "1400 US Highway 1 S",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.2220919,
         "longitude": -78.4377758
     },
@@ -3064,7 +3064,7 @@
         "city": "KITTY HAWK",
         "street": "3841 N CROATAN HWY",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.0664318,
         "longitude": -75.6935448
     },
@@ -3073,7 +3073,7 @@
         "city": "KNIGHTDALE",
         "street": "1003 Mulford Ct",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.7878975,
         "longitude": -78.4822938
     },
@@ -3082,7 +3082,7 @@
         "city": "KNOTTS ISLAND",
         "street": "407 KNOTTS ISLAND RD",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.5134881,
         "longitude": -75.9190905
     },
@@ -3091,7 +3091,7 @@
         "city": "KURE BEACH",
         "street": "237 Fort Fisher Blvd N",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 33.9968399,
         "longitude": -77.9072081
     },
@@ -3100,7 +3100,7 @@
         "city": "LA GRANGE",
         "street": "209 S Caswell St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.3068293,
         "longitude": -77.7880338
     },
@@ -3109,7 +3109,7 @@
         "city": "LAKE JUNALUSKA",
         "street": "60 Old Clyde Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.5278815,
         "longitude": -82.9595811
     },
@@ -3118,7 +3118,7 @@
         "city": "LAKE LURE",
         "street": "2432 Memorial Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.4278969,
         "longitude": -82.2048343
     },
@@ -3127,7 +3127,7 @@
         "city": "LAKE TOXAWAY",
         "street": "1320 Blue Ridge Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.1324988,
         "longitude": -82.9337702
     },
@@ -3136,7 +3136,7 @@
         "city": "LAKE WACCAMAW",
         "street": "103 Chauncey Town Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.3221707,
         "longitude": -78.5220264
     },
@@ -3145,7 +3145,7 @@
         "city": "LAKEVIEW",
         "street": "278 Camp Easter Road",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.739583,
         "longitude": -80.3697769
     },
@@ -3154,7 +3154,7 @@
         "city": "LANDIS",
         "street": "230 E Ryder Ave",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.5456947,
         "longitude": -80.6108998
     },
@@ -3163,7 +3163,7 @@
         "city": "LANSING",
         "street": "9294 NC-194 N",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.4993936,
         "longitude": -81.5109852
     },
@@ -3172,7 +3172,7 @@
         "city": "LATTIMORE",
         "street": "306 E W Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.3181818,
         "longitude": -81.6606513
     },
@@ -3181,7 +3181,7 @@
         "city": "LAUREL HILL",
         "street": "9140 Morgan St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.8090479,
         "longitude": -79.547828
     },
@@ -3190,7 +3190,7 @@
         "city": "LAUREL SPRINGS",
         "street": "12533 NC-18 S",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.4125434,
         "longitude": -81.2637157
     },
@@ -3199,7 +3199,7 @@
         "city": "LAURINBURG",
         "street": "109 S GILL ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.7740495,
         "longitude": -79.4628248
     },
@@ -3208,7 +3208,7 @@
         "city": "LAWNDALE",
         "street": "241 E Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.4140187,
         "longitude": -81.5631474
     },
@@ -3217,7 +3217,7 @@
         "city": "LAWSONVILLE",
         "street": "3471 Piney Grove Church Road",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.4890273,
         "longitude": -80.2325519
     },
@@ -3226,7 +3226,7 @@
         "city": "LEASBURG",
         "street": "7330 U.S. Hwy 158 E",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.394584,
         "longitude": -79.1544596
     },
@@ -3235,7 +3235,7 @@
         "city": "LEICESTER",
         "street": "2520 New Leicester Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.6551074,
         "longitude": -82.6962438
     },
@@ -3244,7 +3244,7 @@
         "city": "LELAND",
         "street": "1123 Village Rd NE",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.236434,
         "longitude": -78.0040029
     },
@@ -3253,7 +3253,7 @@
         "city": "LEMON SPRINGS",
         "street": "7246 Lemon Springs Road",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.3895997,
         "longitude": -79.1944681
     },
@@ -3262,7 +3262,7 @@
         "city": "LENOIR",
         "street": "114 RIDGE ST NW",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.9140196,
         "longitude": -81.5389849
     },
@@ -3271,7 +3271,7 @@
         "city": "LEWISTON WOODVILLE",
         "street": "125 Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.1229347,
         "longitude": -77.1766291
     },
@@ -3280,7 +3280,7 @@
         "city": "LEWISVILLE",
         "street": "6524 Shallowford Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.0970819,
         "longitude": -80.4192216
     },
@@ -3289,7 +3289,7 @@
         "city": "LEXINGTON",
         "street": "110 N State St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.8240265,
         "longitude": -80.2533838
     },
@@ -3298,7 +3298,7 @@
         "city": "LIBERTY",
         "street": "416 W SWANNANOA AVE",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.8534705,
         "longitude": -79.5716903
     },
@@ -3307,7 +3307,7 @@
         "city": "LILESVILLE",
         "street": "103 E Wall St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.9676535,
         "longitude": -79.9845032
     },
@@ -3316,7 +3316,7 @@
         "city": "LILLINGTON",
         "street": "901 S 8th St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.399121,
         "longitude": -78.8156001
     },
@@ -3325,7 +3325,7 @@
         "city": "LINCOLNTON",
         "street": "326 E MAIN ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.473745,
         "longitude": -81.2545251
     },
@@ -3334,7 +3334,7 @@
         "city": "LINDEN",
         "street": "4764 Main St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.2548851,
         "longitude": -78.7472447
     },
@@ -3343,7 +3343,7 @@
         "city": "LINVILLE",
         "street": "4235 Mitchell Ave",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.0710389,
         "longitude": -81.8717145
     },
@@ -3352,7 +3352,7 @@
         "city": "LINVILLE FALLS",
         "street": "8890 NC-183",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.9592936,
         "longitude": -81.9428903
     },
@@ -3361,7 +3361,7 @@
         "city": "LINWOOD",
         "street": "4276 OLD LINWOOD RD",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.7506938,
         "longitude": -80.3178306
     },
@@ -3370,7 +3370,7 @@
         "city": "LITTLE SWITZERLAND",
         "street": "9455 NC-226A",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.8492885,
         "longitude": -82.0903939
     },
@@ -3379,7 +3379,7 @@
         "city": "LITTLETON",
         "street": "109 Mosby Ave",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.4348946,
         "longitude": -77.9119615
     },
@@ -3388,7 +3388,7 @@
         "city": "LOCUST",
         "street": "206 MAIN ST W",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2598655,
         "longitude": -80.4253426
     },
@@ -3397,7 +3397,7 @@
         "city": "LONGWOOD",
         "street": "2165 Longwood Rd NW",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.0035047,
         "longitude": -78.5422326
     },
@@ -3406,7 +3406,7 @@
         "city": "LOUISBURG",
         "street": "125 N MAIN ST",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.0990393,
         "longitude": -78.301106
     },
@@ -3415,7 +3415,7 @@
         "city": "LOWELL",
         "street": "206 E 1st St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2679163,
         "longitude": -81.1028542
     },
@@ -3424,7 +3424,7 @@
         "city": "LOWGAP",
         "street": "8855 W PINE ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.5256863,
         "longitude": -80.8672961
     },
@@ -3433,7 +3433,7 @@
         "city": "LOWLAND",
         "street": "4232 Lowland Road",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.2990556,
         "longitude": -76.5643719
     },
@@ -3442,7 +3442,7 @@
         "city": "LUCAMA",
         "street": "101 S Main St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.6454365,
         "longitude": -78.0097099
     },
@@ -3451,7 +3451,7 @@
         "city": "LUMBER BRIDGE",
         "street": "104 S Fayetteville St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.8884971,
         "longitude": -79.0722541
     },
@@ -3460,7 +3460,7 @@
         "city": "LUMBERTON",
         "street": "301 E 7TH ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.6183305,
         "longitude": -79.008205
     },
@@ -3469,7 +3469,7 @@
         "city": "LYNN",
         "street": "2633 Lynn Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2284471,
         "longitude": -82.2345592
     },
@@ -3478,7 +3478,7 @@
         "city": "MACCLESFIELD",
         "street": "115 W Edgecombe St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.7521022,
         "longitude": -77.6699752
     },
@@ -3487,7 +3487,7 @@
         "city": "MACON",
         "street": "1608 US Hwy 158 E",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.4387585,
         "longitude": -78.0838809
     },
@@ -3496,7 +3496,7 @@
         "city": "MADISON",
         "street": "302 Hwy St Ste 195",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.385422,
         "longitude": -79.9594689
     },
@@ -3505,7 +3505,7 @@
         "city": "MAGGIE VALLEY",
         "street": "4280 Soco Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.5181575,
         "longitude": -83.0976419
     },
@@ -3514,7 +3514,7 @@
         "city": "MAGNOLIA",
         "street": "215 E Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.8965563,
         "longitude": -78.0541545
     },
@@ -3523,7 +3523,7 @@
         "city": "MAIDEN",
         "street": "512 Island Ford Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.5766048,
         "longitude": -81.2139216
     },
@@ -3532,7 +3532,7 @@
         "city": "MAMERS",
         "street": "61 Mamers Rd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.4168248,
         "longitude": -78.9333544
     },
@@ -3541,7 +3541,7 @@
         "city": "MANNS HARBOR",
         "street": "6941 US-64",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.8857237,
         "longitude": -75.7626787
     },
@@ -3550,7 +3550,7 @@
         "city": "MANSON",
         "street": "1402 US Highway 1 S",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.4218122,
         "longitude": -78.2830508
     },
@@ -3559,7 +3559,7 @@
         "city": "MANTEO",
         "street": "212B US Highway 64 and 264",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.9082257,
         "longitude": -75.6757303
     },
@@ -3568,7 +3568,7 @@
         "city": "MAPLE",
         "street": "3452 Caratoke Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.414878,
         "longitude": -76.0040925
     },
@@ -3577,7 +3577,7 @@
         "city": "MAPLE HILL",
         "street": "545 Maple Hill School Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.6612779,
         "longitude": -77.6963647
     },
@@ -3586,7 +3586,7 @@
         "city": "MARBLE",
         "street": "189 Marble Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.175086,
         "longitude": -83.9249052
     },
@@ -3595,7 +3595,7 @@
         "city": "MARGARETTSVILLE",
         "street": "2717 Tower Rd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.5312627,
         "longitude": -77.3488608
     },
@@ -3604,7 +3604,7 @@
         "city": "MARIETTA",
         "street": "2733 Marietta Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.3690764,
         "longitude": -79.1221944
     },
@@ -3613,7 +3613,7 @@
         "city": "MARION",
         "street": "215 S MAIN ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.6841022,
         "longitude": -82.0091028
     },
@@ -3622,7 +3622,7 @@
         "city": "MARS HILL",
         "street": "65 S MAIN ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.8263793,
         "longitude": -82.5486848
     },
@@ -3631,7 +3631,7 @@
         "city": "MARSHALL",
         "street": "100 S Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.7974807,
         "longitude": -82.6839313
     },
@@ -3640,7 +3640,7 @@
         "city": "MARSHALLBERG",
         "street": "1160 MARSHALLBERG RD",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.7279403,
         "longitude": -76.5157565
     },
@@ -3649,7 +3649,7 @@
         "city": "MARSHVILLE",
         "street": "322 E Union St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.988486,
         "longitude": -80.3670085
     },
@@ -3658,7 +3658,7 @@
         "city": "MATTHEWS",
         "street": "301 E JOHN ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.1159532,
         "longitude": -80.7224386
     },
@@ -3667,7 +3667,7 @@
         "city": "MAURY",
         "street": "3413 NC-903 N",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.4821062,
         "longitude": -77.5860822
     },
@@ -3676,7 +3676,7 @@
         "city": "MAXTON",
         "street": "215 McCaskill Ave",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.7351615,
         "longitude": -79.3489317
     },
@@ -3685,7 +3685,7 @@
         "city": "MAYODAN",
         "street": "1000 W Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.4123597,
         "longitude": -79.9669857
     },
@@ -3694,7 +3694,7 @@
         "city": "MAYSVILLE",
         "street": "1004 Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.9048814,
         "longitude": -77.2313436
     },
@@ -3703,7 +3703,7 @@
         "city": "MCADENVILLE",
         "street": "111 Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2587818,
         "longitude": -81.0771884
     },
@@ -3712,7 +3712,7 @@
         "city": "MCFARLAN",
         "street": "12005 US-52 S",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.8123776,
         "longitude": -79.9758956
     },
@@ -3721,7 +3721,7 @@
         "city": "MCGRADY",
         "street": "11532 Sparta Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.3326877,
         "longitude": -81.2266814
     },
@@ -3730,7 +3730,7 @@
         "city": "MCLEANSVILLE",
         "street": "5711 McLeansville Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.1073575,
         "longitude": -79.6586383
     },
@@ -3739,7 +3739,7 @@
         "city": "MEBANE",
         "street": "100 VILLAGE DR",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.0959715,
         "longitude": -79.2669619
     },
@@ -3748,7 +3748,7 @@
         "city": "MERRITT",
         "street": "19686 NC-55",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.0979428,
         "longitude": -76.7143749
     },
@@ -3757,7 +3757,7 @@
         "city": "MERRY HILL",
         "street": "335 Old Merry Hill Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.0118268,
         "longitude": -76.7724476
     },
@@ -3766,7 +3766,7 @@
         "city": "MICAVILLE",
         "street": "551 Micaville Loop",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.9095609,
         "longitude": -82.2131793
     },
@@ -3775,7 +3775,7 @@
         "city": "MICRO",
         "street": "101 S Railroad St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.5637705,
         "longitude": -78.2044405
     },
@@ -3784,7 +3784,7 @@
         "city": "MIDDLEBURG",
         "street": "69 N Hawkins Ave",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.3999837,
         "longitude": -78.322989
     },
@@ -3793,7 +3793,7 @@
         "city": "MIDDLESEX",
         "street": "10286 S Nash St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.7888369,
         "longitude": -78.2039124
     },
@@ -3802,7 +3802,7 @@
         "city": "MIDLAND",
         "street": "13379 Highway 601",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2273656,
         "longitude": -80.5006219
     },
@@ -3811,7 +3811,7 @@
         "city": "MILL SPRING",
         "street": "50 School Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2976655,
         "longitude": -82.1610172
     },
@@ -3820,7 +3820,7 @@
         "city": "MILLERS CREEK",
         "street": "148 Post Office Dr",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.6035723,
         "longitude": -78.7624767
     },
@@ -3829,7 +3829,7 @@
         "city": "MILTON",
         "street": "311 Milton Rd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.5388422,
         "longitude": -79.2065976
     },
@@ -3838,7 +3838,7 @@
         "city": "MINERAL SPRINGS",
         "street": "5912 Waxhaw Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.9379274,
         "longitude": -80.6686791
     },
@@ -3847,7 +3847,7 @@
         "city": "MINNEAPOLIS",
         "street": "2751 Us Highway 19 E",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.0993683,
         "longitude": -81.9873491
     },
@@ -3856,7 +3856,7 @@
         "city": "MISENHEIMER",
         "street": "48456 US-52",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.4848625,
         "longitude": -80.2883904
     },
@@ -3865,7 +3865,7 @@
         "city": "MOCKSVILLE",
         "street": "1119 Yadkinville Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.8940236,
         "longitude": -80.5617846
     },
@@ -3874,7 +3874,7 @@
         "city": "MONCURE",
         "street": "213 Post Office Rd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.6224994,
         "longitude": -79.0783143
     },
@@ -3883,7 +3883,7 @@
         "city": "MONROE",
         "street": "101 S CHARLOTTE AVE",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.9854275,
         "longitude": -80.5495112
     },
@@ -3892,7 +3892,7 @@
         "city": "MONTEZUMA",
         "street": "380 Old NC Highway 181",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.0651269,
         "longitude": -81.902613
     },
@@ -3901,7 +3901,7 @@
         "city": "MONTREAT",
         "street": "301 Assembly Dr",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.6442841,
         "longitude": -82.3028972
     },
@@ -3910,7 +3910,7 @@
         "city": "MOORESBORO",
         "street": "104 W Church St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2984942,
         "longitude": -81.6991073
     },
@@ -3919,7 +3919,7 @@
         "city": "MOORESVILLE",
         "street": "172 WILLIAMSON RD",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.5848596,
         "longitude": -80.8100724
     },
@@ -3928,7 +3928,7 @@
         "city": "MORAVIAN FALLS",
         "street": "1933 Moravian Falls Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.0967982,
         "longitude": -81.1823072
     },
@@ -3937,7 +3937,7 @@
         "city": "MOREHEAD CITY",
         "street": "3500 BRIDGES ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.7229391,
         "longitude": -76.7260436
     },
@@ -3946,7 +3946,7 @@
         "city": "MORGANTON",
         "street": "320 SANFORD DR",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.7454291,
         "longitude": -81.6870837
     },
@@ -3955,7 +3955,7 @@
         "city": "MORRISVILLE",
         "street": "10520 CHAPEL HILL RD",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.824341,
         "longitude": -78.8300321
     },
@@ -3964,7 +3964,7 @@
         "city": "MORVEN",
         "street": "108 E Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.8640437,
         "longitude": -80.0011724
     },
@@ -3973,7 +3973,7 @@
         "city": "MOUNT AIRY",
         "street": "111 S MAIN ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.4993877,
         "longitude": -80.6072138
     },
@@ -3982,7 +3982,7 @@
         "city": "MOUNT GILEAD",
         "street": "106 N SCHOOL ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2148671,
         "longitude": -80.0022784
     },
@@ -3991,7 +3991,7 @@
         "city": "MOUNT MOURNE",
         "street": "1519 Mecklenburg Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.5431922,
         "longitude": -80.8472956
     },
@@ -4000,7 +4000,7 @@
         "city": "MOUNTAIN HOME",
         "street": "524 Courtland Blvd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.3695608,
         "longitude": -82.492898
     },
@@ -4009,7 +4009,7 @@
         "city": "MOYOCK",
         "street": "574 Caratoke Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.5245972,
         "longitude": -76.1782677
     },
@@ -4018,7 +4018,7 @@
         "city": "MT HOLLY",
         "street": "806 W Central Ave",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2976298,
         "longitude": -81.0161686
     },
@@ -4027,7 +4027,7 @@
         "city": "MT OLIVE",
         "street": "611 N Breazeale Ave",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.1965532,
         "longitude": -78.0663788
     },
@@ -4036,7 +4036,7 @@
         "city": "MT PLEASANT",
         "street": "1498 S Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.399308,
         "longitude": -80.4358963
     },
@@ -4045,7 +4045,7 @@
         "city": "MT ULLA",
         "street": "775 Grampian Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.6584725,
         "longitude": -80.7267361
     },
@@ -4054,7 +4054,7 @@
         "city": "MURFREESBORO",
         "street": "115 N Wynn St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.4423754,
         "longitude": -77.0985753
     },
@@ -4063,7 +4063,7 @@
         "city": "MURPHY",
         "street": "388 VALLEY RIVER AVE",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.0878514,
         "longitude": -84.0342238
     },
@@ -4072,7 +4072,7 @@
         "city": "NAGS HEAD",
         "street": "100 W Deering St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.9573923,
         "longitude": -75.624062
     },
@@ -4081,7 +4081,7 @@
         "city": "NAKINA",
         "street": "7731 7 Creeks Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.1346143,
         "longitude": -78.6680709
     },
@@ -4090,7 +4090,7 @@
         "city": "NAPLES",
         "street": "121 S Naples Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.3926161,
         "longitude": -82.5006759
     },
@@ -4099,7 +4099,7 @@
         "city": "NASHVILLE",
         "street": "504 S Barnes St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.974598,
         "longitude": -77.9655406
     },
@@ -4108,7 +4108,7 @@
         "city": "NEBO",
         "street": "229 Nebo School Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.2170813,
         "longitude": -80.6545077
     },
@@ -4117,7 +4117,7 @@
         "city": "NEW BERN",
         "street": "233 Middle St # 101",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.1068428,
         "longitude": -77.0398762
     },
@@ -4126,7 +4126,7 @@
         "city": "NEW HILL",
         "street": "3525 Old US 1 Hwy",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.6809856,
         "longitude": -78.9355668
     },
@@ -4135,7 +4135,7 @@
         "city": "NEW LONDON",
         "street": "212 S Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.4431965,
         "longitude": -80.2192225
     },
@@ -4144,7 +4144,7 @@
         "city": "NEWELL",
         "street": "8105 Old Concord Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2758542,
         "longitude": -80.7527803
     },
@@ -4153,7 +4153,7 @@
         "city": "NEWLAND",
         "street": "124 Elk St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.0873484,
         "longitude": -81.9273363
     },
@@ -4162,7 +4162,7 @@
         "city": "NEWPORT",
         "street": "337 Howard Blvd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.7865497,
         "longitude": -76.8591057
     },
@@ -4171,7 +4171,7 @@
         "city": "NEWTON",
         "street": "218 S MAIN AVE",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.6630887,
         "longitude": -81.2219363
     },
@@ -4180,7 +4180,7 @@
         "city": "NEWTON GROVE",
         "street": "208 Fayetteville St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.2454313,
         "longitude": -78.3543933
     },
@@ -4189,7 +4189,7 @@
         "city": "NORLINA",
         "street": "306 Liberty St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.4456097,
         "longitude": -78.1982132
     },
@@ -4198,7 +4198,7 @@
         "city": "NORMAN",
         "street": "3664 NC Highway 220 N",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.1705641,
         "longitude": -79.7228453
     },
@@ -4207,7 +4207,7 @@
         "city": "NORTH WILKESBORO",
         "street": "300 8th St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.1584651,
         "longitude": -81.1475841
     },
@@ -4216,7 +4216,7 @@
         "city": "NORWOOD",
         "street": "243 S Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2195898,
         "longitude": -80.1189477
     },
@@ -4225,7 +4225,7 @@
         "city": "OAK CITY",
         "street": "100 E Commerce St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.9625971,
         "longitude": -77.3052352
     },
@@ -4234,7 +4234,7 @@
         "city": "OAK RIDGE",
         "street": "8323 Linville Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.1736211,
         "longitude": -79.9892172
     },
@@ -4243,7 +4243,7 @@
         "city": "OAKBORO",
         "street": "302 N Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2235336,
         "longitude": -80.3265904
     },
@@ -4252,7 +4252,7 @@
         "city": "OCRACOKE",
         "street": "1122 Irvin Garrish Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.1145966,
         "longitude": -75.9809118
     },
@@ -4261,7 +4261,7 @@
         "city": "OLD FORT",
         "street": "180 E Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.6293365,
         "longitude": -82.1810827
     },
@@ -4270,7 +4270,7 @@
         "city": "OLIN",
         "street": "583 Olin Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.9526349,
         "longitude": -80.8397929
     },
@@ -4279,7 +4279,7 @@
         "city": "OLIVIA",
         "street": "480 State Road 1207",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.3596014,
         "longitude": -79.1097466
     },
@@ -4288,7 +4288,7 @@
         "city": "ORIENTAL",
         "street": "809 Broad St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.0250678,
         "longitude": -76.6958825
     },
@@ -4297,7 +4297,7 @@
         "city": "ORRUM",
         "street": "1545 S Creek Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.4658861,
         "longitude": -79.0090289
     },
@@ -4306,7 +4306,7 @@
         "city": "OTTO",
         "street": "8491 Georgia Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.0600921,
         "longitude": -83.3876547
     },
@@ -4315,7 +4315,7 @@
         "city": "OXFORD",
         "street": "144 MAIN ST",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.3107004,
         "longitude": -78.5908345
     },
@@ -4324,7 +4324,7 @@
         "city": "PANTEGO",
         "street": "26022 US-264 ALT",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.5890535,
         "longitude": -76.6621569
     },
@@ -4333,7 +4333,7 @@
         "city": "PARKTON",
         "street": "29 S Fayetteville St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.9026635,
         "longitude": -79.0116971
     },
@@ -4342,7 +4342,7 @@
         "city": "PATTERSON",
         "street": "2008 ROBY MARTIN RD",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.9992972,
         "longitude": -81.5639876
     },
@@ -4351,7 +4351,7 @@
         "city": "PAW CREEK",
         "street": "7400 Old Mt Holly Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2789747,
         "longitude": -80.9327985
     },
@@ -4360,7 +4360,7 @@
         "city": "PEACHLAND",
         "street": "14 W Passaic St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.993766,
         "longitude": -80.2645069
     },
@@ -4369,7 +4369,7 @@
         "city": "PELHAM",
         "street": "6331 Old U.S. Hwy 29",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.5100403,
         "longitude": -79.4710261
     },
@@ -4378,7 +4378,7 @@
         "city": "PEMBROKE",
         "street": "404 E 3rd St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.6800748,
         "longitude": -79.1933485
     },
@@ -4387,7 +4387,7 @@
         "city": "PENDLETON",
         "street": "7488 NC-35",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.0929219,
         "longitude": -80.3058203
     },
@@ -4396,7 +4396,7 @@
         "city": "PENLAND",
         "street": "1162 Penland Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.9301208,
         "longitude": -82.1120638
     },
@@ -4405,7 +4405,7 @@
         "city": "PENROSE",
         "street": "5858 Old Hendersonville Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2723372,
         "longitude": -82.6390121
     },
@@ -4414,7 +4414,7 @@
         "city": "PFAFFTOWN",
         "street": "4715 Yadkinville Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.1526379,
         "longitude": -80.3622753
     },
@@ -4423,7 +4423,7 @@
         "city": "PIKEVILLE",
         "street": "214 Big Daddy's Rd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.497105,
         "longitude": -77.9819312
     },
@@ -4432,7 +4432,7 @@
         "city": "PILOT MOUNTAIN",
         "street": "647K S Key St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.3851349,
         "longitude": -80.4671211
     },
@@ -4441,7 +4441,7 @@
         "city": "PINE HALL",
         "street": "1716 Pine Hall Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.3245813,
         "longitude": -80.0494869
     },
@@ -4450,7 +4450,7 @@
         "city": "PINE LEVEL",
         "street": "121 W Pine St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.5126923,
         "longitude": -78.2447432
     },
@@ -4459,7 +4459,7 @@
         "city": "PINEBLUFF",
         "street": "125 N Walnut St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.1098795,
         "longitude": -79.4722589
     },
@@ -4468,7 +4468,7 @@
         "city": "PINEHURST",
         "street": "80 BLAKE BLVD",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.1951981,
         "longitude": -79.4692796
     },
@@ -4477,7 +4477,7 @@
         "city": "PINEOLA",
         "street": "2884 Linville Falls Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.0284609,
         "longitude": -81.891501
     },
@@ -4486,7 +4486,7 @@
         "city": "PINETOPS",
         "street": "108 SW 1st St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.7911752,
         "longitude": -77.6375147
     },
@@ -4495,7 +4495,7 @@
         "city": "PINETOWN",
         "street": "378 Main St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.6104408,
         "longitude": -76.8613327
     },
@@ -4504,7 +4504,7 @@
         "city": "PINEVILLE",
         "street": "206 College St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.0855409,
         "longitude": -80.8871253
     },
@@ -4513,7 +4513,7 @@
         "city": "PINEY CREEK",
         "street": "4216 Piney Post Office Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.5504032,
         "longitude": -81.2887072
     },
@@ -4522,7 +4522,7 @@
         "city": "PINK HILL",
         "street": "5951 NC-11 S",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.0550762,
         "longitude": -77.7449424
     },
@@ -4531,7 +4531,7 @@
         "city": "PINNACLE",
         "street": "2870 N Old 52 Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.3293051,
         "longitude": -80.4331116
     },
@@ -4540,7 +4540,7 @@
         "city": "PISGAH FOREST",
         "street": "1 Old Hendersonville Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2723358,
         "longitude": -82.7062357
     },
@@ -4549,7 +4549,7 @@
         "city": "PITTSBORO",
         "street": "916 East St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.7201229,
         "longitude": -79.1771539
     },
@@ -4558,7 +4558,7 @@
         "city": "PLEASANT GARDEN",
         "street": "4621 Pleasant Garden Rd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.9621197,
         "longitude": -79.762131
     },
@@ -4567,7 +4567,7 @@
         "city": "PLEASANT HILL",
         "street": "4366 US-301",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.2395745,
         "longitude": -81.4811997
     },
@@ -4576,7 +4576,7 @@
         "city": "PLUMTREE",
         "street": "4420 S US Hwy 19E S",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.0270699,
         "longitude": -82.0078943
     },
@@ -4585,7 +4585,7 @@
         "city": "PLYMOUTH",
         "street": "113 W Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.8668281,
         "longitude": -76.7485555
     },
@@ -4594,7 +4594,7 @@
         "city": "POINT HARBOR",
         "street": "9142 Caratoke Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.0786575,
         "longitude": -75.7944524
     },
@@ -4603,7 +4603,7 @@
         "city": "POLKTON",
         "street": "45 W Polk St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.0076546,
         "longitude": -80.2008947
     },
@@ -4612,7 +4612,7 @@
         "city": "POLKVILLE",
         "street": "4418 Polkville Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.4176278,
         "longitude": -81.6428725
     },
@@ -4621,7 +4621,7 @@
         "city": "POLLOCKSVILLE",
         "street": "125 Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.0059914,
         "longitude": -77.2210654
     },
@@ -4630,7 +4630,7 @@
         "city": "POPLAR BRANCH",
         "street": "227 Poplar Branch Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.28016,
         "longitude": -75.8926962
     },
@@ -4639,7 +4639,7 @@
         "city": "POTECASI",
         "street": "3185 NC-35",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.3632096,
         "longitude": -77.2391335
     },
@@ -4648,7 +4648,7 @@
         "city": "POWELLS POINT",
         "street": "7664 Caratoke Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.16228561006836, 
         "longitude": -75.8592351724961
     },
@@ -4657,7 +4657,7 @@
         "city": "POWELLSVILLE",
         "street": "103 Bethlehem Church Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.225712,
         "longitude": -76.9330114
     },
@@ -4666,7 +4666,7 @@
         "city": "PRINCETON",
         "street": "107 W Edwards St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.4659942,
         "longitude": -78.1605497
     },
@@ -4675,7 +4675,7 @@
         "city": "PROCTORVILLE",
         "street": "101 W Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.4766061,
         "longitude": -79.0363154
     },
@@ -4684,7 +4684,7 @@
         "city": "PROSPECT HILL",
         "street": "17 Main St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.2494257,
         "longitude": -79.1906568
     },
@@ -4693,7 +4693,7 @@
         "city": "PROVIDENCE",
         "street": "48 Park Springs Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.2543116,
         "longitude": -78.6616691
     },
@@ -4702,7 +4702,7 @@
         "city": "PURLEAR",
         "street": "226 Purlear Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.1820751,
         "longitude": -81.2842576
     },
@@ -4711,7 +4711,7 @@
         "city": "RAEFORD",
         "street": "122 W ELWOOD AVE STE 102",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.9809996,
         "longitude": -79.2241998
     },
@@ -4720,7 +4720,7 @@
         "city": "RALEIGH",
         "street": "311 NEW BERN AVE",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.7803977,
         "longitude": -78.6390989
     },
@@ -4729,7 +4729,7 @@
         "city": "RAMSEUR",
         "street": "1514 Main St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.7320752,
         "longitude": -79.6540926
     },
@@ -4738,7 +4738,7 @@
         "city": "RANDLEMAN",
         "street": "611 W ACADEMY ST",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.8179143,
         "longitude": -79.8030873
     },
@@ -4747,7 +4747,7 @@
         "city": "RED OAK",
         "street": "8382 Red Oak Blvd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.0385169,
         "longitude": -77.9062762
     },
@@ -4756,7 +4756,7 @@
         "city": "RED SPRINGS",
         "street": "230 S MAIN ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.815158,
         "longitude": -79.1837649
     },
@@ -4765,7 +4765,7 @@
         "city": "REIDSVILLE",
         "street": "201 PIEDMONT ST",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.3548586,
         "longitude": -79.6644748
     },
@@ -4774,7 +4774,7 @@
         "city": "REX",
         "street": "1045 Rex Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.854623,
         "longitude": -79.0484178
     },
@@ -4783,7 +4783,7 @@
         "city": "RHODHISS",
         "street": "206 Church St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.7740206,
         "longitude": -81.431201
     },
@@ -4792,7 +4792,7 @@
         "city": "RICH SQUARE",
         "street": "113 W JACKSON ST",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.2737186,
         "longitude": -77.2845336
     },
@@ -4801,7 +4801,7 @@
         "city": "RICHFIELD",
         "street": "212 NC-49 N",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.4701406,
         "longitude": -80.2578343
     },
@@ -4810,7 +4810,7 @@
         "city": "RICHLANDS",
         "street": "8201 Richlands Hwy",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 34.8999056,
         "longitude": -77.5463018
     },
@@ -4819,7 +4819,7 @@
         "city": "RIDGECREST",
         "street": "2 Tucker Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.6206738,
         "longitude": -82.2826179
     },
@@ -4828,7 +4828,7 @@
         "city": "RIDGEWAY",
         "street": "686 US-1 S",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.8048496,
         "longitude": -78.64144
     },
@@ -4837,7 +4837,7 @@
         "city": "RIEGELWOOD",
         "street": "208 Riegelwood Shopping Center",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.3398906,
         "longitude": -78.2252766
     },
@@ -4846,7 +4846,7 @@
         "city": "ROANOKE RAPIDS",
         "street": "725 Roanoke Ave",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.4558016,
         "longitude": -77.6573514
     },
@@ -4855,7 +4855,7 @@
         "city": "ROARING GAP",
         "street": "11370 US-21 S",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.4029099,
         "longitude": -80.9853554
     },
@@ -4864,7 +4864,7 @@
         "city": "ROARING RIVER",
         "street": "7953 Elkin Hwy #268",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.206522,
         "longitude": -81.0036885
     },
@@ -4873,7 +4873,7 @@
         "city": "ROBBINS",
         "street": "181 N Middleton St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.434034,
         "longitude": -79.5869735
     },
@@ -4882,7 +4882,7 @@
         "city": "ROBBINSVILLE",
         "street": "74 Sweetwater Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.3227597,
         "longitude": -83.8069988
     },
@@ -4891,7 +4891,7 @@
         "city": "ROBERSONVILLE",
         "street": "113 SW Railroad St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.8239742,
         "longitude": -77.2534175
     },
@@ -4900,7 +4900,7 @@
         "city": "ROCKINGHAM",
         "street": "119 W WASHINGTON ST",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 34.9393201,
         "longitude": -79.7739457
     },
@@ -4909,7 +4909,7 @@
         "city": "ROCKWELL",
         "street": "100 Broad St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.5512508,
         "longitude": -80.4064485
     },
@@ -4918,7 +4918,7 @@
         "city": "ROCKY MOUNT",
         "street": "201 S GEORGE ST",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.9423833,
         "longitude": -77.7956949
     },
@@ -4927,7 +4927,7 @@
         "city": "ROCKY POINT",
         "street": "7974 US-117 S",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.4351676,
         "longitude": -77.8877638
     },
@@ -4936,7 +4936,7 @@
         "city": "RODANTHE",
         "street": "25969 NC-12",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.5934472,
         "longitude": -75.4678084
     },
@@ -4945,7 +4945,7 @@
         "city": "RODUCO",
         "street": "1453 U.S. Hwy 158 W",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.4618204,
         "longitude": -76.8124572
     },
@@ -4954,7 +4954,7 @@
         "city": "ROLESVILLE",
         "street": "6470 Rogers Rd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.9232862,
         "longitude": -78.4573914
     },
@@ -4963,7 +4963,7 @@
         "city": "RONDA",
         "street": "383 3rd St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.218467,
         "longitude": -80.9411859
     },
@@ -4972,7 +4972,7 @@
         "city": "ROPER",
         "street": "101 W US-64",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.8779766,
         "longitude": -76.6151847
     },
@@ -4981,7 +4981,7 @@
         "city": "ROSE HILL",
         "street": "128 E Church St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.8237518,
         "longitude": -78.0286818
     },
@@ -4990,7 +4990,7 @@
         "city": "ROSEBORO",
         "street": "201 W Pleasant St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.9529475,
         "longitude": -78.5086181
     },
@@ -4999,7 +4999,7 @@
         "city": "ROSMAN",
         "street": "272 Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.1436895,
         "longitude": -82.8220186
     },
@@ -5008,7 +5008,7 @@
         "city": "ROUGEMONT",
         "street": "12311 N Roxboro St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.2183459,
         "longitude": -78.9264417
     },
@@ -5017,7 +5017,7 @@
         "city": "ROWLAND",
         "street": "202 N Bond St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.5365518,
         "longitude": -79.2914306
     },
@@ -5026,7 +5026,7 @@
         "city": "ROXBORO",
         "street": "223 S MAIN ST",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.3937519,
         "longitude": -78.9827881
     },
@@ -5035,7 +5035,7 @@
         "city": "ROXOBEL",
         "street": "106 W Church St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.2029338,
         "longitude": -77.2452433
     },
@@ -5044,7 +5044,7 @@
         "city": "RUFFIN",
         "street": "9682 US Highway 29 Business",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.4470802,
         "longitude": -79.5438954
     },
@@ -5053,7 +5053,7 @@
         "city": "RURAL HALL",
         "street": "8201 Broad St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.2404158,
         "longitude": -80.2933838
     },
@@ -5062,7 +5062,7 @@
         "city": "RUTHERFORD COLLEGE",
         "street": "721C Malcolm Blvd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.7501398,
         "longitude": -81.5247859
     },
@@ -5071,7 +5071,7 @@
         "city": "RUTHERFORDTON",
         "street": "130 E Court St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.3692877,
         "longitude": -81.9567716
     },
@@ -5080,7 +5080,7 @@
         "city": "SALEMBURG",
         "street": "108 Clinton St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.0154469,
         "longitude": -78.5030622
     },
@@ -5089,7 +5089,7 @@
         "city": "SALISBURY",
         "street": "605 E INNES ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.6709727,
         "longitude": -80.4742261
     },
@@ -5098,7 +5098,7 @@
         "city": "SALUDA",
         "street": "102 E Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2362264,
         "longitude": -82.3492839
     },
@@ -5107,7 +5107,7 @@
         "city": "SANDY RIDGE",
         "street": "4918 Nc 704 Hwy E",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.1771141,
         "longitude": -75.7522725
     },
@@ -5116,7 +5116,7 @@
         "city": "SANFORD",
         "street": "1200 S HORNER BLVD",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.4798757,
         "longitude": -79.1802994
     },
@@ -5125,7 +5125,7 @@
         "city": "SAPPHIRE",
         "street": "17740 Rosman Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.1070099,
         "longitude": -83.0026687
     },
@@ -5134,7 +5134,7 @@
         "city": "SARATOGA",
         "street": "6744 E Main St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.6536691,
         "longitude": -77.7756011
     },
@@ -5143,7 +5143,7 @@
         "city": "SAXAPAHAW",
         "street": "1612 Jordan Dr",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.9472152,
         "longitude": -79.3215728
     },
@@ -5152,7 +5152,7 @@
         "city": "SCALY MOUNTAIN",
         "street": "7312 Dillard Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.0117569,
         "longitude": -83.3162652
     },
@@ -5161,7 +5161,7 @@
         "city": "SCOTLAND NECK",
         "street": "1015 Main St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.1296002,
         "longitude": -77.4202475
     },
@@ -5170,7 +5170,7 @@
         "city": "SCOTTS",
         "street": "4700 Taylorsville Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.8429113,
         "longitude": -81.0092441
     },
@@ -5179,7 +5179,7 @@
         "city": "SCRANTON",
         "street": "500 OLD US HIGHWAY 264",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.4971111,
         "longitude": -76.4513135
     },
@@ -5188,7 +5188,7 @@
         "city": "SEABOARD",
         "street": "204 S Main St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.4901519,
         "longitude": -77.4413634
     },
@@ -5197,7 +5197,7 @@
         "city": "SEAGROVE",
         "street": "231 N Broad St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.5408425,
         "longitude": -79.7778859
     },
@@ -5206,7 +5206,7 @@
         "city": "SEALEVEL",
         "street": "751 Hwy 70 Sea Level",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.8623857,
         "longitude": -76.3876956
     },
@@ -5215,7 +5215,7 @@
         "city": "SEDALIA",
         "street": "6151 Burlington Rd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.0673577,
         "longitude": -79.6205812
     },
@@ -5224,7 +5224,7 @@
         "city": "SELMA",
         "street": "308 N Raiford St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.5365485,
         "longitude": -78.2844435
     },
@@ -5233,7 +5233,7 @@
         "city": "SEMORA",
         "street": "14757 NC-119 N",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.4984737,
         "longitude": -79.148904
     },
@@ -5242,7 +5242,7 @@
         "city": "SEVEN SPRINGS",
         "street": "301 Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2266001,
         "longitude": -77.8465107
     },
@@ -5251,7 +5251,7 @@
         "city": "SEVERN",
         "street": "410 Main St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.5151521,
         "longitude": -77.1896894
     },
@@ -5260,7 +5260,7 @@
         "city": "SHALLOTTE",
         "street": "209 Smith Ave",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 33.9732275,
         "longitude": -78.3858371
     },
@@ -5269,7 +5269,7 @@
         "city": "SHANNON",
         "street": "14654 NC-71",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.8479415,
         "longitude": -79.1369782
     },
@@ -5278,7 +5278,7 @@
         "city": "SHARPSBURG",
         "street": "4241 S Hathaway Blvd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.8679409,
         "longitude": -77.8293443
     },
@@ -5287,7 +5287,7 @@
         "city": "SHAWBORO",
         "street": "814 SHAWBORO RD",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.4054333,
         "longitude": -76.0940962
     },
@@ -5296,7 +5296,7 @@
         "city": "SHELBY",
         "street": "405 S DEKALB ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2923513,
         "longitude": -81.5356463
     },
@@ -5305,7 +5305,7 @@
         "city": "SHERRILLS FORD",
         "street": "8220 Sherrills Ford Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.6204121,
         "longitude": -80.9864655
     },
@@ -5314,7 +5314,7 @@
         "city": "SHILOH",
         "street": "928 N Carolina Hwy 343 S",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.5512242,
         "longitude": -82.5326236
     },
@@ -5323,7 +5323,7 @@
         "city": "SILER CITY",
         "street": "116 E RALEIGH ST",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.7234734,
         "longitude": -79.4622431
     },
@@ -5332,7 +5332,7 @@
         "city": "SILOAM",
         "street": "7051 Siloam Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.2859714,
         "longitude": -80.5625602
     },
@@ -5341,7 +5341,7 @@
         "city": "SIMPSON",
         "street": "2806 Edwards Dr",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.5751619,
         "longitude": -77.278573
     },
@@ -5350,7 +5350,7 @@
         "city": "SIMS",
         "street": "6404 Main St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.76074,
         "longitude": -78.0594124
     },
@@ -5359,7 +5359,7 @@
         "city": "SKYLAND",
         "street": "1950 Hendersonville Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.4892809,
         "longitude": -82.524288
     },
@@ -5368,7 +5368,7 @@
         "city": "SMITHFIELD",
         "street": "201 N 3rd St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.5111996,
         "longitude": -78.346102
     },
@@ -5377,7 +5377,7 @@
         "city": "SMYRNA",
         "street": "467 US HIGHWAY 70 SMYRNA",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.7588803,
         "longitude": -76.527583
     },
@@ -5386,7 +5386,7 @@
         "city": "SNEADS FERRY",
         "street": "2001 NC-172",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.5526655,
         "longitude": -77.3971839
     },
@@ -5395,7 +5395,7 @@
         "city": "SNOW CAMP",
         "street": "130 W Greensboro Chapel Hill Rd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.8934716,
         "longitude": -79.4300199
     },
@@ -5404,7 +5404,7 @@
         "city": "SNOW HILL",
         "street": "911 SE 2nd St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.4553556,
         "longitude": -77.6707275
     },
@@ -5413,7 +5413,7 @@
         "city": "SOPHIA",
         "street": "5814 US-311",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.823192,
         "longitude": -79.8608677
     },
@@ -5422,7 +5422,7 @@
         "city": "SOUTH MILLS",
         "street": "215 Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.4457093,
         "longitude": -76.3274398
     },
@@ -5431,7 +5431,7 @@
         "city": "SOUTHERN PINES",
         "street": "190 SW BROAD ST",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.1740471,
         "longitude": -79.3922539
     },
@@ -5440,7 +5440,7 @@
         "city": "SOUTHMONT",
         "street": "10584 NC HIGHWAY 8 S",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.0440245,
         "longitude": -79.8100314
     },
@@ -5449,7 +5449,7 @@
         "city": "SOUTHPORT",
         "street": "206 E NASH ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 33.921563,
         "longitude": -78.0202677
     },
@@ -5458,7 +5458,7 @@
         "city": "SPARTA",
         "street": "79 S GRAYSON ST",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.5054718,
         "longitude": -81.1207633
     },
@@ -5467,7 +5467,7 @@
         "city": "SPEED",
         "street": "100 MAIN ST",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.9689505,
         "longitude": -77.4436379
     },
@@ -5476,7 +5476,7 @@
         "city": "SPENCER",
         "street": "110 4th St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.6920144,
         "longitude": -80.4347596
     },
@@ -5485,7 +5485,7 @@
         "city": "SPINDALE",
         "street": "124 Tanner St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.3574856,
         "longitude": -81.9312068
     },
@@ -5494,7 +5494,7 @@
         "city": "SPRING HOPE",
         "street": "107 E Branch St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.9451536,
         "longitude": -78.1119345
     },
@@ -5503,7 +5503,7 @@
         "city": "SPRING LAKE",
         "street": "225 N Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.1679396,
         "longitude": -78.9728056
     },
@@ -5512,7 +5512,7 @@
         "city": "SPRUCE PINE",
         "street": "899 Oak Ave",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.9147787,
         "longitude": -82.066411
     },
@@ -5521,7 +5521,7 @@
         "city": "ST PAULS",
         "street": "320 W Broad St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.8070226,
         "longitude": -78.9707787
     },
@@ -5530,7 +5530,7 @@
         "city": "STALEY",
         "street": "229 W FRANKLINVILLE ST",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.7959711,
         "longitude": -79.551412
     },
@@ -5539,7 +5539,7 @@
         "city": "STANFIELD",
         "street": "213 W Stanly St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2334772,
         "longitude": -80.4270094
     },
@@ -5548,7 +5548,7 @@
         "city": "STANLEY",
         "street": "301 Old Mt Holly Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.3590256,
         "longitude": -81.0970214
     },
@@ -5557,7 +5557,7 @@
         "city": "STANTONSBURG",
         "street": "200 S MAIN ST",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.6068259,
         "longitude": -77.8233139
     },
@@ -5566,7 +5566,7 @@
         "city": "STAR",
         "street": "202 S Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.4020838,
         "longitude": -79.7842049
     },
@@ -5575,7 +5575,7 @@
         "city": "STATE RD",
         "street": "950 Klondike Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.3259668,
         "longitude": -80.8675723
     },
@@ -5584,7 +5584,7 @@
         "city": "STATESVILLE",
         "street": "301 S OAKLAND AVE",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.7827676,
         "longitude": -80.8873574
     },
@@ -5593,7 +5593,7 @@
         "city": "STEDMAN",
         "street": "7519 Clinton Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.0134999,
         "longitude": -78.6939063
     },
@@ -5602,7 +5602,7 @@
         "city": "STELLA",
         "street": "125 Wetherington Landing Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.7743276,
         "longitude": -77.1505072
     },
@@ -5611,7 +5611,7 @@
         "city": "STEM",
         "street": "104 E Tally Ho Rd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.199867,
         "longitude": -78.7222261
     },
@@ -5620,7 +5620,7 @@
         "city": "STOKES",
         "street": "2817 NC-903 N",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.7165488,
         "longitude": -77.2646852
     },
@@ -5629,7 +5629,7 @@
         "city": "STOKESDALE",
         "street": "8210 U.S. Hwy 158 E",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.2372048,
         "longitude": -79.9793529
     },
@@ -5638,7 +5638,7 @@
         "city": "STONEVILLE",
         "street": "106 E Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.4665269,
         "longitude": -79.9069847
     },
@@ -5647,7 +5647,7 @@
         "city": "STONEWALL",
         "street": "16375 NC-55 Hwy",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.1373893,
         "longitude": -76.7477081
     },
@@ -5656,7 +5656,7 @@
         "city": "STONY POINT",
         "street": "8814 NC-90 E",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.8634665,
         "longitude": -81.0473008
     },
@@ -5665,7 +5665,7 @@
         "city": "STOVALL",
         "street": "102 Main St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.4481986,
         "longitude": -78.5702786
     },
@@ -5674,7 +5674,7 @@
         "city": "SUGAR GROVE",
         "street": "1205 US-321 N",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.2579045,
         "longitude": -81.7881668
     },
@@ -5683,7 +5683,7 @@
         "city": "SUMMERFIELD",
         "street": "7412 Summerfield Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.2087468,
         "longitude": -79.9047583
     },
@@ -5692,7 +5692,7 @@
         "city": "SUNBURY",
         "street": "990 U.S. Hwy 158 E",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.4412853,
         "longitude": -76.6105402
     },
@@ -5701,7 +5701,7 @@
         "city": "SUPPLY",
         "street": "25 Blanton Rd SE",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.0176717,
         "longitude": -78.267499
     },
@@ -5710,7 +5710,7 @@
         "city": "SWANNANOA",
         "street": "2311 US-70",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.5998286,
         "longitude": -82.4033934
     },
@@ -5719,7 +5719,7 @@
         "city": "SWANQUARTER",
         "street": "1271 Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.4062781,
         "longitude": -76.3290861
     },
@@ -5728,7 +5728,7 @@
         "city": "SWANSBORO",
         "street": "664 W Corbett Ave",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.6896728,
         "longitude": -77.1232174
     },
@@ -5737,7 +5737,7 @@
         "city": "SWEPSONVILLE",
         "street": "112 S Marshall St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.0212488,
         "longitude": -79.3614076
     },
@@ -5746,7 +5746,7 @@
         "city": "SYLVA",
         "street": "271 Jackson Plaza",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.3737293,
         "longitude": -83.2259222
     },
@@ -5755,7 +5755,7 @@
         "city": "TABOR CITY",
         "street": "200 E 5th St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.1487804,
         "longitude": -78.8766916
     },
@@ -5764,7 +5764,7 @@
         "city": "TAR HEEL",
         "street": "14548 NC-87 W",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.7331708,
         "longitude": -78.7904075
     },
@@ -5773,7 +5773,7 @@
         "city": "TARBORO",
         "street": "525 N MAIN ST",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.8968236,
         "longitude": -77.5358049
     },
@@ -5782,7 +5782,7 @@
         "city": "TAYLORSVILLE",
         "street": "220 1ST AVE SW",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.9219402,
         "longitude": -81.1763421
     },
@@ -5791,7 +5791,7 @@
         "city": "TEACHEY",
         "street": "103 N West Ave",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.7682241,
         "longitude": -78.0080407
     },
@@ -5800,7 +5800,7 @@
         "city": "TERRELL",
         "street": "7985 NC-150 E",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.5893012,
         "longitude": -80.9781318
     },
@@ -5809,7 +5809,7 @@
         "city": "THOMASVILLE",
         "street": "101 W MAIN ST",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.8831786,
         "longitude": -80.081817
     },
@@ -5818,7 +5818,7 @@
         "city": "THURMOND",
         "street": "2301 Thurmond Rd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.3665216,
         "longitude": -80.9284083
     },
@@ -5827,7 +5827,7 @@
         "city": "TILLERY",
         "street": "45 NC-481",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.2516802,
         "longitude": -77.4850979
     },
@@ -5836,7 +5836,7 @@
         "city": "TIMBERLAKE",
         "street": "545 Helena Moriah Rd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 34.9737749,
         "longitude": -78.9794735
     },
@@ -5845,7 +5845,7 @@
         "city": "TOAST",
         "street": "1110 W Pine St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.5004114,
         "longitude": -80.6264533
     },
@@ -5854,7 +5854,7 @@
         "city": "TOBACCOVILLE",
         "street": "6900 Doral Dr",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.2261575,
         "longitude": -80.3416042
     },
@@ -5863,7 +5863,7 @@
         "city": "TODD",
         "street": "4021 Todd Railroad Grade Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.3087137,
         "longitude": -81.5957623
     },
@@ -5872,7 +5872,7 @@
         "city": "TOPTON",
         "street": "23979 US-19",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2470348,
         "longitude": -83.7032269
     },
@@ -5881,7 +5881,7 @@
         "city": "TOWNSVILLE",
         "street": "12525 NC-39",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.4945877,
         "longitude": -78.4236089
     },
@@ -5890,7 +5890,7 @@
         "city": "TRAPHILL",
         "street": "9550 Traphill Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.3464519,
         "longitude": -81.0326381
     },
@@ -5899,7 +5899,7 @@
         "city": "TRENTON",
         "street": "115 MARKET ST",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.0636588,
         "longitude": -77.3534758
     },
@@ -5908,7 +5908,7 @@
         "city": "TRINITY",
         "street": "7259 NC-62",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.8947375,
         "longitude": -79.9909647
     },
@@ -5917,7 +5917,7 @@
         "city": "TROUTMAN",
         "street": "189 Wagner St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.7005832,
         "longitude": -80.8882314
     },
@@ -5926,7 +5926,7 @@
         "city": "TROY",
         "street": "601 N Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.3584743,
         "longitude": -79.8944901
     },
@@ -5935,7 +5935,7 @@
         "city": "TRYON",
         "street": "95 Pacolet St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2081695,
         "longitude": -82.2384479
     },
@@ -5944,7 +5944,7 @@
         "city": "TUCKASEGEE",
         "street": "26 Canada Rd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.2703778,
         "longitude": -83.1226416
     },
@@ -5953,7 +5953,7 @@
         "city": "TURKEY",
         "street": "54 Union Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.9923888,
         "longitude": -78.183049
     },
@@ -5962,7 +5962,7 @@
         "city": "TURNERSBURG",
         "street": "2223 Turnersburg Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.9084693,
         "longitude": -80.8072921
     },
@@ -5971,7 +5971,7 @@
         "city": "TYNER",
         "street": "630 Center Hill Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.21473376914038,
         "longitude": -76.61145331967855
     },
@@ -5980,7 +5980,7 @@
         "city": "UNION GROVE",
         "street": "1501 UNION GROVE RD",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.6651645,
         "longitude": -76.6091017
     },
@@ -5989,7 +5989,7 @@
         "city": "UNION MILLS",
         "street": "6269 Hudlow Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.487902,
         "longitude": -81.9634361
     },
@@ -5998,7 +5998,7 @@
         "city": "VALDESE",
         "street": "300 Rodoret St S",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.7431562,
         "longitude": -81.5633738
     },
@@ -6007,7 +6007,7 @@
         "city": "VALE",
         "street": "6070 Reepsville Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.5398549,
         "longitude": -81.3973087
     },
@@ -6016,7 +6016,7 @@
         "city": "VANCEBORO",
         "street": "8134 Main St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.2995434,
         "longitude": -77.1522321
     },
@@ -6025,7 +6025,7 @@
         "city": "VANDEMERE",
         "street": "13144 NC-55 Hwy",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.1840563,
         "longitude": -76.6635394
     },
@@ -6034,7 +6034,7 @@
         "city": "VASS",
         "street": "120 Seaboard Street",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.2562684,
         "longitude": -79.2822491
     },
@@ -6043,7 +6043,7 @@
         "city": "VILAS",
         "street": "6141 US HIGHWAY 421 N",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.245683,
         "longitude": -81.7676104
     },
@@ -6052,7 +6052,7 @@
         "city": "WACO",
         "street": "100 N Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.36172,
         "longitude": -81.428486
     },
@@ -6061,7 +6061,7 @@
         "city": "WADE",
         "street": "6927 Wade-Stedman Rd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.1629419,
         "longitude": -78.7361323
     },
@@ -6070,7 +6070,7 @@
         "city": "WADESBORO",
         "street": "105 E MARTIN ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.9681767,
         "longitude": -80.07674
     },
@@ -6079,7 +6079,7 @@
         "city": "WAGRAM",
         "street": "24100 N MAIN ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.8879397,
         "longitude": -79.3661515
     },
@@ -6088,7 +6088,7 @@
         "city": "WAKE FOREST",
         "street": "224 E HOLDING AVE",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.9803138,
         "longitude": -78.5103731
     },
@@ -6097,7 +6097,7 @@
         "city": "WALKERTOWN",
         "street": "4970 US-311 N",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.1748265,
         "longitude": -80.1521587
     },
@@ -6106,7 +6106,7 @@
         "city": "WALLACE",
         "street": "202 E SOUTHERLAND ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.7348655,
         "longitude": -77.9960816
     },
@@ -6115,7 +6115,7 @@
         "city": "WALLBURG",
         "street": "8590 N NC-109",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.0101371,
         "longitude": -80.1392118
     },
@@ -6124,7 +6124,7 @@
         "city": "WALNUT COVE",
         "street": "217 N Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.295415,
         "longitude": -80.1417121
     },
@@ -6133,7 +6133,7 @@
         "city": "WALSTONBURG",
         "street": "108 N Wilson St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.5946041,
         "longitude": -77.6969203
     },
@@ -6142,7 +6142,7 @@
         "city": "WANCHESE",
         "street": "3525 Mill Landing Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.8426729,
         "longitude": -75.6385055
     },
@@ -6151,7 +6151,7 @@
         "city": "WARNE",
         "street": "4731 Old Hwy 64 W",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.9948537,
         "longitude": -83.8929947
     },
@@ -6160,7 +6160,7 @@
         "city": "WARRENSVILLE",
         "street": "122 NW School Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.4606793,
         "longitude": -81.5189957
     },
@@ -6169,7 +6169,7 @@
         "city": "WARRENTON",
         "street": "143 N MAIN ST",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.3984804,
         "longitude": -78.1552706
     },
@@ -6178,7 +6178,7 @@
         "city": "WARSAW",
         "street": "116 W Hill St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.999716,
         "longitude": -78.0939655
     },
@@ -6187,7 +6187,7 @@
         "city": "WASHINGTON",
         "street": "222 W 2ND ST",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.5420908,
         "longitude": -77.055071
     },
@@ -6196,7 +6196,7 @@
         "city": "WAXHAW",
         "street": "100 Waxhaw Pkwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.9248125,
         "longitude": -80.7440174
     },
@@ -6205,7 +6205,7 @@
         "city": "WAYNESVILLE",
         "street": "523 S HAYWOOD ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.4887476,
         "longitude": -82.9888725
     },
@@ -6214,7 +6214,7 @@
         "city": "WEAVERVILLE",
         "street": "270 N MAIN ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.6967238,
         "longitude": -82.5603625
     },
@@ -6223,7 +6223,7 @@
         "city": "WEBSTER",
         "street": "1345 Webster Rd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.346211,
         "longitude": -83.2193132
     },
@@ -6232,7 +6232,7 @@
         "city": "WELCOME",
         "street": "6325 Old U.S. Hwy 52",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.9029152,
         "longitude": -80.2569949
     },
@@ -6241,7 +6241,7 @@
         "city": "WELDON",
         "street": "401 WASHINGTON AVE",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.4265558,
         "longitude": -77.5967348
     },
@@ -6250,7 +6250,7 @@
         "city": "WENDELL",
         "street": "40 Hanor Ln",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.780987,
         "longitude": -78.3697213
     },
@@ -6259,7 +6259,7 @@
         "city": "WENTWORTH",
         "street": "200 County Home Rd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.4001371,
         "longitude": -79.7744792
     },
@@ -6268,7 +6268,7 @@
         "city": "WEST END",
         "street": "5161 NC HIGHWAY 211",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.9099875,
         "longitude": -79.0752876
     },
@@ -6277,7 +6277,7 @@
         "city": "WEST JEFFERSON",
         "street": "419 E 2nd St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.4037364,
         "longitude": -81.4928829
     },
@@ -6286,7 +6286,7 @@
         "city": "WESTFIELD",
         "street": "6648 Westfield Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.7762668,
         "longitude": -78.8068278
     },
@@ -6295,7 +6295,7 @@
         "city": "WHITAKERS",
         "street": "102 NW Railroad St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.1055662,
         "longitude": -77.7126101
     },
@@ -6304,7 +6304,7 @@
         "city": "WHITE OAK",
         "street": "10384 NC-53 W",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.8205116,
         "longitude": -78.6417117
     },
@@ -6313,7 +6313,7 @@
         "city": "WHITEVILLE",
         "street": "107 S LEE ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.3217345,
         "longitude": -78.703148
     },
@@ -6322,7 +6322,7 @@
         "city": "WHITSETT",
         "street": "1001 NC-61",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.0712466,
         "longitude": -79.5644686
     },
@@ -6331,7 +6331,7 @@
         "city": "WHITTIER",
         "street": "22 Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.4350977,
         "longitude": -83.3601542
     },
@@ -6340,7 +6340,7 @@
         "city": "WILKESBORO",
         "street": "207 W Main St Ste 102",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.1483916,
         "longitude": -81.1517636
     },
@@ -6349,7 +6349,7 @@
         "city": "WILLARD",
         "street": "130 Willard Railroad St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.690168,
         "longitude": -77.9797079
     },
@@ -6358,7 +6358,7 @@
         "city": "WILLIAMSTON",
         "street": "121 E MAIN ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.8546039,
         "longitude": -77.0555114
     },
@@ -6367,7 +6367,7 @@
         "city": "WILLOW SPRING",
         "street": "6805 Dwight Rowland Rd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.5957129,
         "longitude": -78.7313999
     },
@@ -6376,7 +6376,7 @@
         "city": "WILMINGTON",
         "street": "152 N FRONT ST",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.2352853,
         "longitude": -77.9487284
     },
@@ -6385,7 +6385,7 @@
         "city": "WILSON",
         "street": "501 MERCER ST SW",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.7241718,
         "longitude": -77.9115243
     },
@@ -6394,7 +6394,7 @@
         "city": "WILSONS MILLS",
         "street": "71 Fire Dept Rd",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.5829914,
         "longitude": -78.3554751
     },
@@ -6403,7 +6403,7 @@
         "city": "WINDSOR",
         "street": "130 N King St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.9984925,
         "longitude": -76.9460641
     },
@@ -6412,7 +6412,7 @@
         "city": "WINFALL",
         "street": "317 Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.2193034,
         "longitude": -76.4635102
     },
@@ -6421,7 +6421,7 @@
         "city": "WINGATE",
         "street": "212 N Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.9843176,
         "longitude": -80.4492319
     },
@@ -6430,7 +6430,7 @@
         "city": "WINNABOW",
         "street": "6351 Ocean Hwy E",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.1493374,
         "longitude": -78.0936046
     },
@@ -6439,7 +6439,7 @@
         "city": "WINSTON SALEM",
         "street": "1500 N PATTERSON AVE",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.0998131,
         "longitude": -80.2440518
     },
@@ -6448,7 +6448,7 @@
         "city": "WINTERVILLE",
         "street": "467 Main St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.5282267,
         "longitude": -77.4022447
     },
@@ -6457,7 +6457,7 @@
         "city": "WINTON",
         "street": "406 N Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.3957098,
         "longitude": -76.9319035
     },
@@ -6466,7 +6466,7 @@
         "city": "WISE",
         "street": "1728 US-1",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.4865346,
         "longitude": -78.1708272
     },
@@ -6475,7 +6475,7 @@
         "city": "WOODLAND",
         "street": "106 W Main St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.3315434,
         "longitude": -77.2127436
     },
@@ -6484,7 +6484,7 @@
         "city": "WOODLEAF",
         "street": "4220 Potneck Rd",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.7690282,
         "longitude": -80.590896
     },
@@ -6493,7 +6493,7 @@
         "city": "WRIGHTSVILLE BEACH",
         "street": "206 Causeway Dr",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 34.2079917,
         "longitude": -77.7955907
     },
@@ -6502,7 +6502,7 @@
         "city": "YADKINVILLE",
         "street": "315 W Main St",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.1345807,
         "longitude": -80.6595079
     },
@@ -6511,7 +6511,7 @@
         "city": "YANCEYVILLE",
         "street": "146 Main St W",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.4040273,
         "longitude": -79.3361314
     },
@@ -6520,7 +6520,7 @@
         "city": "YOUNGSVILLE",
         "street": "112 E Persimmon St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 36.0247769,
         "longitude": -78.4767034
     },
@@ -6529,7 +6529,7 @@
         "city": "ZEBULON",
         "street": "139 E Vance St",
         "state": "NC",
-        "visited": true,
+        "visited": "true",
         "latitude": 35.8212013,
         "longitude": -78.3126798
     },
@@ -6538,7 +6538,7 @@
         "city": "ZIONVILLE",
         "street": "12416 US-421 N",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 36.3348472,
         "longitude": -81.7431667
     },
@@ -6547,7 +6547,7 @@
         "city": "ZIRCONIA",
         "street": "5576 Greenville Hwy",
         "state": "NC",
-        "visited": false,
+        "visited": "false",
         "latitude": 35.2417832,
         "longitude": -82.4162298
     }
