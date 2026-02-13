@@ -1,12 +1,31 @@
 {% extends "base.html" %}
 
 {% block content %}
-    <h2>{{ po.city.title() }}, NC</h2>
-    <p>{{ po.street }}, {{ po.city.title() }}, {{ po.state }} {{ po.zip }}</p>
-    <hr>
+<div class="container">
     <div class="row">
-        {% if  pic %}
-            <img src="/static/{{ po.po_pic }}" width="500">
-        {% endif %}    
+        <div class="col-3">
+            <div class="row">
+                <div class="col">
+                    <h2>{{ po.city.title() }}, NC</h2>
+                    {{ po.street }}, {{ po.city.title() }}, {{ po.state }} {{ po.zip }}
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <br/>
+                    <div class="embed-responsive">
+                    {{ iframe|safe }}
+                    <br/><a href={{ link }} target="_blank">Google Maps</a>
+                    </div>
+                </div>
+            </div>
+        </div> 
+
+        <div class="col-9">
+            {% if  pic %}
+                <img src="/static/{{ po.po_pic }}" alt="{{ po.city.title() }}, {{ po.state }}" class="img-fluid" >
+            {% endif %}
+        </div>   
     </div>
+</div>
 {% endblock %}

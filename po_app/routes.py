@@ -4,7 +4,7 @@ from flask_login import current_user, login_user, logout_user, login_required
 from po_app import app, db
 from po_app.forms import UploadPhoto, LoginForm
 from po_app.models import PO, User
-from po_app.map import bigmap
+from po_app.map import bigmap, smallmap
 import os
 import sqlalchemy as sa
 
@@ -42,10 +42,14 @@ def submit():
 def zip(zip):
     po = db.first_or_404(sa.select(PO).where(PO.zip == zip))
     pic = os.path.isfile(os.path.join(current_app.config.get('STATIC_PATH'), 'static', po.po_pic))
+    link = f"https://www.google.com/maps/search/?api=1&query={po.latitude},{po.longitude}"
+    
+    iframe = smallmap(po.zip)
+    
     if pic:
-        return render_template('po.html', title=po.city.title(), po=po, pic=pic )
+        return render_template('po.html', po=po, pic=pic, title=po.city.title(), link=link, iframe=iframe )
     else:
-        return render_template('po.html', title=po.city.title(), po=po )
+        return render_template('po.html', po=po, title=po.city.title(), link=link, iframe=iframe )
 
 @app.route('/list')
 def list():
@@ -66,7 +70,7 @@ def login():
         user = db.session.scalar(
             sa.select(User).where(User.username == form.username.data))
         if user is None or not user.check_password(form.password.data):
-            flash('Invalid username or password')
+            flash('Invalid username or password', 'login_error')
             return redirect(url_for('login'))
         login_user(user, remember=form.remember_me.data)
         return redirect(url_for('index'))
