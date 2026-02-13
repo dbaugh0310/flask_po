@@ -32,7 +32,7 @@ class PO(SerializerMixin, db.Model):
        return pic
         
     def get_random_post_offices():
-        po_list = db.select(PO).where(PO.visited).order_by(func.random()).limit(3)
+        po_list = db.select(PO).where(PO.visited).order_by(func.random()).limit(4)
         po_random = db.session.scalars(po_list).all()
         return po_random
     
