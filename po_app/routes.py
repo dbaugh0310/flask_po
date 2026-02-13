@@ -11,8 +11,9 @@ import sqlalchemy as sa
 @app.route('/')
 @app.route('/index')
 def index():
-    po_list = PO.get_random_post_offices()   
-    return render_template('index.html', title='Home', po=po_list)
+    po_list = PO.get_random_post_offices()  
+    po_visited = PO.po_count()
+    return render_template('index.html', title='Home', po=po_list, po_visited=po_visited)
 
 @login_required
 @app.route('/submit', methods=['GET', 'POST'])

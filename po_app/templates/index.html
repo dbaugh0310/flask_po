@@ -2,18 +2,48 @@
 
 {% block content %}
 <div class="container">
-    <p>Hello, my name is Justin and I collect post offices. Way back in 2010 I was a member of <a href=https://ninja250.org/>Ninja250.org</a>. 
-        We had monthly photo contests and I was a young college student with a camera. Riding was cheap, and I got to do a lot of it. Since 
-        then I've just kept going. I've decided to try and visit all the post offices in North Carolina. Since this list changes continuously I've 
-        frozen a <a href="{{ url_for('list') }}">list of 729</a> of them.
-    </p>
+    <div class="row">
+        <div class="col-8">
+            <p>Hello, my name is Justin and I collect post offices. Way back in 2010 I was a member of <a href=https://ninja250.org/>Ninja250.org</a>. 
+                We had monthly photo contests and I was a young college student with a camera. Riding was cheap, and I got to do a lot of it. Since 
+                then I've just kept going. I've decided to try and visit all the post offices in North Carolina. Since this list changes continuously I've 
+                frozen a <a href="{{ url_for('list') }}">list of 729</a> of them.
+            </p>
+        </div>
+        <div class="col-4">
+            <div id="gauge-container" style="width: 400px; height: 300px;"></div>
+        </div>
+    </div>
     <div class="row">
         {% for po in po %}
-            <div class="col-sm-3">
-                <a href="{{ url_for('zip', zip=po.zip ) }}"><img class="rounded img-thumbnail" src="/static/{{ po.po_pic }}" width="100" height="100" alt="{{ po.city.title() }}"></a>
-                <a href="{{ url_for('zip', zip=po.zip ) }}">{{ po.city.title() }}</a>, NC {{ po.zip }}
+            <div class="col-lg-3">
+                <div class="card text-bg-dark text-end fw-bold overflow-hidden" style="height: 80%">
+                    <a class="text-reset text-decoration-none" href="{{ url_for('zip', zip=po.zip ) }}">
+                    <img class="card-img" src="/static/{{ po.po_pic }}" alt="{{ po.city.title() }}">
+                        <div class="card-img-overlay align-self-end">
+                            <p class="card-text fs-3">{{ po.city.title() }}</p>   
+                        </div>
+                    </a>
+                </div>
             </div>
         {% endfor %}
     </div>
+
 </div>
+
+<script>
+    const gauge = new JustGage({
+        id: 'gauge-container',
+        value: {{ po_visited }},
+        min: 0,
+        max: 729,
+        label: 'Completed',
+        gaugeWidthScale: 1,
+        gaugeColor: "#edebeb",
+        valueFontColor: "#424242",
+        labelFontColor: "#888888",
+        levelColors: ["#0b7bd7", "#0b7bd7", "#0b7bd7"]
+    });
+</script>
+
 {% endblock %}

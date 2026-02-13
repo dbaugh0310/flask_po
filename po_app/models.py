@@ -32,9 +32,13 @@ class PO(SerializerMixin, db.Model):
        return pic
         
     def get_random_post_offices():
-        po_list = db.select(PO).where(PO.visited).order_by(func.random()).limit(3)
+        po_list = db.select(PO).where(PO.visited).order_by(func.random()).limit(4)
         po_random = db.session.scalars(po_list).all()
         return po_random
+    
+    def po_count():
+        count = db.session.scalar(db.select(func.count(PO.zip)).where(PO.visited))
+        return count
     
     def update_po(zip):
         po = db.first_or_404(sa.select(PO).where(PO.zip == zip))
