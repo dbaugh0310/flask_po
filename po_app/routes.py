@@ -4,6 +4,7 @@ from flask_login import current_user, login_user, logout_user, login_required
 from po_app import app, db
 from po_app.forms import UploadPhoto, LoginForm
 from po_app.models import PO, User
+from po_app.map import bigmap
 import os
 import sqlalchemy as sa
 
@@ -50,6 +51,11 @@ def zip(zip):
 def list():
     po = db.session.scalars(sa.select(PO).order_by(PO.city))
     return render_template('list.html', title='PO List', po=po )
+
+@app.route('/map')
+def map():
+    iframe = bigmap()   
+    return render_template('map.html', title='Map', iframe=iframe)
 
 @app.route('/login', methods=['GET', 'POST'])
 def login():
