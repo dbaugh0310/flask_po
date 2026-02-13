@@ -36,6 +36,10 @@ class PO(SerializerMixin, db.Model):
         po_random = db.session.scalars(po_list).all()
         return po_random
     
+    def po_count():
+        count = db.session.scalar(db.select(func.count(PO.zip)).where(PO.visited))
+        return count
+    
     def update_po(zip):
         po = db.first_or_404(sa.select(PO).where(PO.zip == zip))
         if os.path.isfile(os.path.join(current_app.config.get('STATIC_PATH'), 'static', po.city.title() + ".jpg")):
