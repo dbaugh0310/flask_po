@@ -33,8 +33,8 @@ def submit():
         
         PO.dump_to_json()
         
-        flash('Picture for {}, NC submitted!'.format(po.city.title()), 'submittance')
-        return redirect(url_for('zip', zip = form.zip.data))
+        flash('Picture for {}, NC submitted!'.format(po.city.title()))
+        return redirect(url_for('zip', title='Picture Submitted!', zip = form.zip.data))
     
     return render_template('submit.html', title='A new visit!', form=form)
 
@@ -54,7 +54,7 @@ def zip(zip):
 @app.route('/list')
 def list():
     po = db.session.scalars(sa.select(PO).order_by(PO.city))
-    return render_template('list.html', po=po )
+    return render_template('list.html', title='PO List', po=po )
 
 @app.route('/map')
 def map():
