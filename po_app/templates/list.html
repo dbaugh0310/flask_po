@@ -1,6 +1,7 @@
 {% extends "base.html" %}
 
 {% block content %}
+<div class="container">
     <table class="table table-hover">
     {% for po in po %}
             <tr>
@@ -17,4 +18,5 @@
             </tr>       
     {% endfor %}
     </table>
+</div>
 {% endblock %}
