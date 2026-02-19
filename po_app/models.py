@@ -20,9 +20,9 @@ class PO(SerializerMixin, db.Model):
     street: so.Mapped[str] = so.mapped_column(sa.String(64))
     state: so.Mapped[str] = so.mapped_column(sa.String(2))
     visited: so.Mapped[bool] = so.mapped_column(sa.DateTime, nullable=True)
+    visited_date: so.Mapped[str] = so.mapped_column(sa.String(19), nullable=True)
     latitude: so.Mapped[str] = so.mapped_column(sa.String(10), nullable=True)
-    longitude: so.Mapped[str] = so.mapped_column(sa.String(10), nullable=True)
-    
+    longitude: so.Mapped[str] = so.mapped_column(sa.String(10), nullable=True)    
 
     def __repr__(self):
         return '<Post Office {} {}>'.format(self.zip, self.city)
