@@ -17,12 +17,12 @@ for item in data:
             exif_data = exif.Image(image_file)
             if exif_data.has_exif:   
                 if exif_data.get("datetime"):
-                    # visited_date = datetime.strptime(exif_data.datetime, "%Y:%m:%d %H:%M:%S")
-                    item['visited_date'] = exif_data.datetime
+                    visited_date_input = datetime.strptime(exif_data.datetime, "%Y:%m:%d %H:%M:%S")
+                    item['visited_date'] = visited_date_input.isoformat()
                     print(f"{item['zip']} was visited on {item['visited_date']}")
-            else:
-                item['visited_date'] = None
-                print(f"{item['zip']} was visited on {item['visited_date']}")
+#            else:
+#                item['visited_date'] = None
+#                print(f"{item['zip']} was visited on {item['visited_date']}")
                 
 with open('data/po_time.json', 'w') as file:
     json.dump(data, file, indent=4)

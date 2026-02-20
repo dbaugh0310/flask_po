@@ -8,6 +8,7 @@ from werkzeug.security import generate_password_hash, check_password_hash
 from sqlalchemy import func
 import os
 import json
+from datetime import datetime
 
 class SerializerMixin:
     def to_dict(self):
@@ -19,8 +20,8 @@ class PO(SerializerMixin, db.Model):
     city: so.Mapped[str] = so.mapped_column(sa.String(32), index=True, unique=True)
     street: so.Mapped[str] = so.mapped_column(sa.String(64))
     state: so.Mapped[str] = so.mapped_column(sa.String(2))
-    visited: so.Mapped[bool] = so.mapped_column(sa.DateTime, nullable=True)
-    visited_date: so.Mapped[str] = so.mapped_column(sa.String(19), nullable=True)
+    visited: so.Mapped[bool] = so.mapped_column(sa.Boolean, nullable=True)
+    visited_date: so.Mapped[datetime] = so.mapped_column(sa.DateTime, nullable=True)
     latitude: so.Mapped[str] = so.mapped_column(sa.String(10), nullable=True)
     longitude: so.Mapped[str] = so.mapped_column(sa.String(10), nullable=True)    
 
