@@ -15,27 +15,27 @@ def load_json():
     with open('data/po.json', 'r') as f:
         data = json.load(f)
         for item in data:
-           print(f"Loading {item['city']}")
-           existing = PO.query.filter_by(zip=item['zip']).first()
+            print(f"Loading {item['city']}")
+            existing = PO.query.filter_by(zip=item['zip']).first()
 
-           date_str = item.get('visited_date')
-           if date_str:
-               print(f"{item['city']}'s visited date is {date_str}")
-               item['visited_date'] = datetime.fromisoformat(date_str)
-           else:
-               item['visited_date'] = None
+            date_str = item.get('visited_date')
+            if date_str:
+                print(f"{item['city']}'s visited date is {date_str}")
+                item['visited_date'] = datetime.fromisoformat(date_str)
+            else:
+                item['visited_date'] = None
 
-           if existing:
-               print(f"Updating {item['city']} (ZIP: {item['zip']})")
-               for key, value in item.items():
-                	setattr(existing, key, value) 
-	   else:
-               print(f"Creating {item['city']} (ZIP: {item['zip']})")
-	       record = PO(**item)
-               db.session.add(record)
+            if existing:
+                print(f"Updating {item['city']} (ZIP: {item['zip']})")
+                for key, value in item.items():
+                    setattr(existing, key, value) 
+            else:
+                print(f"Creating {item['city']} (ZIP: {item['zip']})")
+                record = PO(**item)
+                db.session.add(record)
 
         db.session.commit()
-    	print("Done!")
+        print("Done!")
     
 @app.cli.command("set-password")
 @click.option('--password', prompt=True, hide_input=True, confirmation_prompt=True, help="The password for the user.")
