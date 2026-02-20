@@ -5317,7 +5317,8 @@
         "state": "NC",
         "visited": true,
         "latitude": 35.9472152,
-        "longitude": -79.3215728
+        "longitude": -79.3215728,
+        "visited_date": null
     },
     {
         "zip": "28775",
@@ -5580,7 +5581,8 @@
         "state": "NC",
         "visited": true,
         "latitude": 35.8934716,
-        "longitude": -79.4300199
+        "longitude": -79.4300199,
+        "visited_date": null
     },
     {
         "zip": "28580",
@@ -5934,7 +5936,8 @@
         "state": "NC",
         "visited": true,
         "latitude": 36.0212488,
-        "longitude": -79.3614076
+        "longitude": -79.3614076,
+        "visited_date": null
     },
     {
         "zip": "28779",
@@ -6588,7 +6591,8 @@
         "state": "NC",
         "visited": true,
         "latitude": 35.5957129,
-        "longitude": -78.7313999
+        "longitude": -78.7313999,
+        "visited_date": null
     },
     {
         "zip": "28401",
