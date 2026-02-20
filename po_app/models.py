@@ -12,8 +12,14 @@ from datetime import datetime
 
 class SerializerMixin:
     def to_dict(self):
-        # self.__table__ exists because this will be mixed into a db.Model
-        return {col.name: getattr(self, col.name) for col in self.__table__.columns}
+        data = {}
+        for col in self.__table__.columns:
+            value = getattr(self, col.name)
+            if isinstance(value, datetime):
+                data[col.name] = value.isoformat()
+            else:
+                data[col.name] = value
+        return data
 
 class PO(SerializerMixin, db.Model):
     zip: so.Mapped[int] = so.mapped_column(primary_key=True)
