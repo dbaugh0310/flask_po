@@ -3,16 +3,11 @@
 {% block content %}
 <div class="container">
     <div class="row">
-        <div class="col-lg-8">
             <p>Hello, my name is Justin and I collect post offices. Way back in 2010 I was a member of <a href=https://ninja250.org/>Ninja250.org</a>. 
                 We had monthly photo contests and I was a young college student with a camera. Riding was cheap, and I got to do a lot of it. Since 
                 then I've just kept going. I've decided to try and visit all the post offices in North Carolina. Since this list changes continuously I've 
                 frozen a <a href="{{ url_for('list') }}">list of 729</a> of them.
             </p>
-        </div>
-        <div class="col-lg-4">
-            <div id="gauge-container" style="width: 400px; height: 100%;"></div>
-        </div>
     </div>
     <div class="row">
         {% for po in po %}
@@ -28,22 +23,34 @@
             </div>
         {% endfor %}
     </div>
+    <div class="row">
+        <canvas id="myChart"></canvas>
+    </div>
 
 </div>
 
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script>
-    const gauge = new JustGage({
-        id: 'gauge-container',
-        value: {{ po_visited }},
-        min: 0,
-        max: 729,
-        label: 'Completed',
-        gaugeWidthScale: 1,
-        gaugeColor: "#edebeb",
-        valueFontColor: "#424242",
-        labelFontColor: "#888888",
-        levelColors: ["#0b7bd7", "#0b7bd7", "#0b7bd7"]
-    });
+  const ctx = document.getElementById('myChart');
+
+  new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels: {{ po_years }},
+      datasets: [{
+        label: '# of Post Offices',
+        data: {{ po_counts }},
+        borderWidth: 1
+      }]
+    },
+    options: {
+      scales: {
+        y: {
+          beginAtZero: true
+        }
+      }
+    }
+  });
 </script>
 
 {% endblock %}
