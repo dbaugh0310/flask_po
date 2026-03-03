@@ -36,17 +36,18 @@
   new Chart(ctx, {
     type: 'line',
     data: {
-      labels: {{ po_years }},
+      labels: {{ po_years | tojson }},
       datasets: [{
         label: '# of Post Offices',
         data: {{ po_counts }},
+        fill: true,
         borderWidth: 1
       }]
     },
     options: {
       scales: {
         y: {
-          beginAtZero: true
+          beginAtZero: false
         }
       }
     }

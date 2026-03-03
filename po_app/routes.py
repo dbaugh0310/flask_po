@@ -13,9 +13,7 @@ import sqlalchemy as sa
 def index():
     po_list = PO.get_random_post_offices()  
     po_visited = PO.po_count()
-    po_chart = PO.po_chart()
-    po_years = [row[0] for row in po_chart]
-    po_counts = [row[1] for row in po_chart]
+    po_years, po_counts = PO.po_chart()
     return render_template('index.html', title='Home', po=po_list, po_visited=po_visited, po_years = po_years, po_counts=po_counts)
 
 @login_required
