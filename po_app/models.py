@@ -58,6 +58,7 @@ class PO(SerializerMixin, db.Model):
         
         years = []
         counts = []
+        running_counts = []
         running_total = 0
         
         for row in query:
@@ -66,9 +67,10 @@ class PO(SerializerMixin, db.Model):
             running_total += count
             
             years.append(year)
-            counts.append(running_total)    
+            counts.append(count)
+            running_counts.append(running_total)    
 
-        return years, counts
+        return years, counts, running_counts
     
     def update_po(zip):
         po = db.first_or_404(sa.select(PO).where(PO.zip == zip))
