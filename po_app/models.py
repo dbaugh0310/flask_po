@@ -50,7 +50,7 @@ class PO(SerializerMixin, db.Model):
     
     def po_chart():
         query = db.session.query(
-            sa.func.strftime('%Y', PO.visited_date).label('year'),
+            sa.func.extract('year', PO.visited_date).label('year'),
             sa.func.count(PO.zip).label('count')
         ).filter(PO.visited_date.isnot(None))\
          .group_by('year')\
@@ -62,7 +62,7 @@ class PO(SerializerMixin, db.Model):
         running_total = 0
         
         for row in query:
-            year = row.year
+            year = str(int(row.year))
             count = row.count
             running_total += count
             
