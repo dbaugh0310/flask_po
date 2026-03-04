@@ -24,12 +24,18 @@
         {% endfor %}
     </div>
     <div class="row">
-      <div class="card">
+      <div class="col-lg-9">
         <canvas id="lineChart"></canvas>
-        <div class="card-img-overlay" style="width: 30%; left: 15%;">
-          <div class="bg-white p-2 rounded shadow-sm" style="--bs-bg-opacity: .0;">
-              <canvas id="doChart"></canvas>
-          </div>
+      </div>
+      <div class="col-lg-3">
+        <div class="row">
+          <canvas id="doChart"></canvas>
+        </div>
+        <div class="row">
+          <canvas id="avgChart"></canvas>
+        </div>
+        <div class="row">
+          <canvas id="compChart"></canvas>
         </div>
       </div>
     </div>
@@ -42,16 +48,15 @@
 <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-annotation"></script>
 <script>
 const lc = document.getElementById('lineChart');
-const pc = document.getElementById('doChart');
-pc.width = 200;
-pc.height = 100;
+const pcVisited = document.getElementById('doChart');
+const pcAvg = document.getElementById('avgChart');
+const pcComp = document.getElementById('compChart');
 
-const doughnutChart = new Chart(pc, {
+new Chart(pcVisited, {
   type: 'doughnut',
   data: {
     labels: ['Visited', 'Not Visited'],
     datasets: [{
-      label: 'Completion Rate',
       data: [{{ po_cumulative[-1] }}, 728],
       backgroundColor: ['rgb(75, 192, 192)', 'rgba(75, 192, 192, 0.25)']
     }]
@@ -68,6 +73,66 @@ const doughnutChart = new Chart(pc, {
           dLabel: {
             type: 'doughnutLabel',
             content: ["{{ ((po_cumulative[-1] / 728) * 100) | round(1) }}%", "Complete"],
+            font: [{ size: 60 }],
+            color: ['black']
+          }
+        }
+      }
+    }
+  }
+});
+
+new Chart(pcAvg, {
+  type: 'doughnut',
+  data: {
+    labels: ['Average single year', 'Max single year'],
+    datasets: [{
+      data: [{{ po_cumulative[-1] / po_years | length}}, {{ po_counts | max }}],
+      backgroundColor: ['rgb(75, 192, 192)', 'rgba(75, 192, 192, 0.25)']
+    }]
+  },
+  options: {
+    animation: false,
+    aspectRatio: 2,
+    circumference: 180,
+    rotation: -90,
+    plugins: {
+      legend: { display: false },
+      annotation: {
+        annotations: {
+          dLabel: {
+            type: 'doughnutLabel',
+            content: ["{{ po_cumulative[-1] / po_years | length }}", "Per Year"],
+            font: [{ size: 60 }],
+            color: ['black']
+          }
+        }
+      }
+    }
+  }
+});
+
+new Chart(pcComp, {
+  type: 'doughnut',
+  data: {
+    labels: ['Years working', 'Estimated years to complete'],
+    datasets: [{
+      data: [{{ po_years | length }}, {{ 728 / (po_cumulative[-1] / po_years | length) }}],
+      backgroundColor: ['rgb(75, 192, 192)', 'rgba(75, 192, 192, 0.25)']
+    }]
+  },
+  options: {
+    animation: false,
+    aspectRatio: 2,
+    circumference: 180,
+    rotation: -90,
+    plugins: {
+      legend: { display: false },
+      annotation: {
+        annotations: {
+          dLabel: {
+            type: 'doughnutLabel',
+            content: ["{{ ((728 / (po_cumulative[-1] / po_years | length)) | round(1)) - po_years | length }}", "years left"],
             font: [{ size: 60 }],
             color: ['black']
           }
