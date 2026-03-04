@@ -1,0 +1,168 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container">
+    <div class="row">
+            <p>Have some depressing stats on the project.</p>   
+    </div>
+    <div class="row g-5">
+      <div class="col">
+        <canvas id="lineChart"></canvas>
+      </div>
+    </div>
+    <div class="row g-5">
+      <div class="col">
+        <canvas id="doChart"></canvas>
+      </div>
+      <div class="col">
+        <canvas id="avgChart"></canvas>
+      </div>
+      <div class="col">
+        <canvas id="compChart"></canvas>
+      </div>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-annotation"></script>
+<script>
+const lc = document.getElementById('lineChart');
+const pcVisited = document.getElementById('doChart');
+const pcAvg = document.getElementById('avgChart');
+const pcComp = document.getElementById('compChart');
+
+new Chart(pcVisited, {
+  type: 'doughnut',
+  data: {
+    labels: ['Visited', 'Not Visited'],
+    datasets: [{
+      data: [{{ po_cumulative[-1] }}, 728],
+      backgroundColor: ['rgb(75, 192, 192)', 'rgba(75, 192, 192, 0.25)']
+    }]
+  },
+  options: {
+    animation: false,
+    aspectRatio: 2,
+    circumference: 180,
+    rotation: -90,
+    plugins: {
+      legend: { display: false },
+      annotation: {
+        annotations: {
+          dLabel: {
+            type: 'doughnutLabel',
+            content: ["{{ ((po_cumulative[-1] / 728) * 100) | round(1) }}%", "Complete"],
+            font: [{ size: 60 }],
+            color: ['black']
+          }
+        }
+      }
+    }
+  }
+});
+
+new Chart(pcAvg, {
+  type: 'doughnut',
+  data: {
+    labels: ['Average single year', 'Max single year'],
+    datasets: [{
+      data: [{{ po_cumulative[-1] / po_years | length}}, {{ po_counts | max }}],
+      backgroundColor: ['rgb(75, 192, 192)', 'rgba(75, 192, 192, 0.25)']
+    }]
+  },
+  options: {
+    animation: false,
+    aspectRatio: 2,
+    circumference: 180,
+    rotation: -90,
+    plugins: {
+      legend: { display: false },
+      annotation: {
+        annotations: {
+          dLabel: {
+            type: 'doughnutLabel',
+            content: ["{{ po_cumulative[-1] / po_years | length }}", "Per Year"],
+            font: [{ size: 60 }],
+            color: ['black']
+          }
+        }
+      }
+    }
+  }
+});
+
+new Chart(pcComp, {
+  type: 'doughnut',
+  data: {
+    labels: ['Years working', 'Estimated years to complete'],
+    datasets: [{
+      data: [{{ po_years | length }}, {{ 728 / (po_cumulative[-1] / po_years | length) }}],
+      backgroundColor: ['rgb(75, 192, 192)', 'rgba(75, 192, 192, 0.25)']
+    }]
+  },
+  options: {
+    animation: false,
+    aspectRatio: 2,
+    circumference: 180,
+    rotation: -90,
+    plugins: {
+      legend: { display: false },
+      annotation: {
+        annotations: {
+          dLabel: {
+            type: 'doughnutLabel',
+            content: ["{{ ((728 / (po_cumulative[-1] / po_years | length)) | round(1)) - po_years | length }}", "years left"],
+            font: [{ size: 60 }],
+            color: ['black']
+          }
+        }
+      }
+    }
+  }
+});
+
+new Chart(lc, {
+  type: 'line',
+  data: {
+    labels: {{ po_years | tojson }},
+    datasets: [{
+      type: 'bar',
+      label: 'Visits by Year',
+      data: {{ po_counts | tojson }},
+      backgroundColor: 'rgba(75, 192, 192, 0.5)',
+      borderColor: 'rgb(75, 192, 192)',
+      borderWidth: 1,
+      yAxisID: 'y1'
+    }, {
+      label: 'Total Visits',
+      data: {{ po_cumulative }},
+      fill: true,
+      borderColor: 'rgb(54, 162, 235)',
+      borderWidth: 1,
+      yAxisID: 'y'
+    }]
+  },
+  options: {
+    scales: {
+      y: {
+        type: 'linear',
+        display: true,
+        position: 'left',
+        title: { display: true, text: 'Total Progress' }
+      },
+      y1: {
+        type: 'linear',
+        display: true,
+        position: 'right',
+        grid: { drawOnChartArea: false },
+        title: { display: true, text: 'Visits per Year' }
+      }
+    },
+    plugins: {
+      legend: { display: false }
+    }
+  }
+});
+</script>
+
+{% endblock %}

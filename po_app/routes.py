@@ -12,9 +12,13 @@ import sqlalchemy as sa
 @app.route('/index')
 def index():
     po_list = PO.get_random_post_offices()  
+    return render_template('index.html', title='Home', po=po_list)
+
+@app.route('/stats')
+def stats():
     po_visited = PO.po_count()
     po_years, po_counts, po_cumulative = PO.po_chart()
-    return render_template('index.html', title='Home', po=po_list, po_visited=po_visited, po_years=po_years, po_counts=po_counts, po_cumulative=po_cumulative)
+    return render_template('stats.html', title='Home', po_visited=po_visited, po_years=po_years, po_counts=po_counts, po_cumulative=po_cumulative)
 
 @login_required
 @app.route('/submit', methods=['GET', 'POST'])
