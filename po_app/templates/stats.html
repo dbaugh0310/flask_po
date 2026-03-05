@@ -5,20 +5,20 @@
     <div class="row">
             <p>Have some depressing stats on the project.</p>   
     </div>
-    <div class="row g-5">
-      <div class="col">
-        <canvas id="lineChart"></canvas>
+    <div class="row justify-content-evenly">
+      <div class="col-3">
+        <canvas id="doChart"></canvas>
+      </div>
+      <div class="col-3">
+        <canvas id="avgChart"></canvas>
+      </div>
+      <div class="col-3">
+        <canvas id="compChart"></canvas>
       </div>
     </div>
     <div class="row g-5">
       <div class="col">
-        <canvas id="doChart"></canvas>
-      </div>
-      <div class="col">
-        <canvas id="avgChart"></canvas>
-      </div>
-      <div class="col">
-        <canvas id="compChart"></canvas>
+        <canvas id="lineChart"></canvas>
       </div>
     </div>
 </div>
@@ -41,7 +41,6 @@ new Chart(pcVisited, {
     }]
   },
   options: {
-    animation: false,
     aspectRatio: 2,
     circumference: 180,
     rotation: -90,
@@ -71,7 +70,6 @@ new Chart(pcAvg, {
     }]
   },
   options: {
-    animation: false,
     aspectRatio: 2,
     circumference: 180,
     rotation: -90,
@@ -81,7 +79,7 @@ new Chart(pcAvg, {
         annotations: {
           dLabel: {
             type: 'doughnutLabel',
-            content: ["{{ po_cumulative[-1] / po_years | length }}", "Per Year"],
+            content: ["{{ po_cumulative[-1] / po_years | length }}", "Avg/Year"],
             font: [{ size: 60 }],
             color: ['black']
           }
@@ -101,7 +99,6 @@ new Chart(pcComp, {
     }]
   },
   options: {
-    animation: false,
     aspectRatio: 2,
     circumference: 180,
     rotation: -90,
