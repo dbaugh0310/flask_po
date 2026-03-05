@@ -61,8 +61,8 @@
         "street": "2350 Old Marshall Hwy",
         "state": "NC",
         "visited": false,
-        "latitude": -28.594787,
-        "longitude": 16.482647
+        "latitude": 35.70698665852818,
+        "longitude": -82.61814125661883
     },
     {
         "zip": "28006",
@@ -1486,8 +1486,8 @@
         "street": "2304 Wingate Rd",
         "state": "NC",
         "visited": false,
-        "latitude": 36.0748576,
-        "longitude": -79.7816972
+        "latitude": 35.009462316196185, 
+        "longitude": -78.96357544619644
     },
     {
         "zip": "28435",
@@ -1670,8 +1670,8 @@
         "street": "1984 North Carolina 211",
         "state": "NC",
         "visited": true,
-        "latitude": 35.5724012,
-        "longitude": -78.7966912,
+        "latitude": 35.2923955384407, 
+        "longitude": -79.65202771666748,
         "visited_date": "2016-05-22T18:53:10"
     },
     {
@@ -2592,8 +2592,8 @@
         "street": "173 HOGAN RD",
         "state": "NC",
         "visited": false,
-        "latitude": 335.24141631620601,
-        "longitude": -81.87376867848096
+        "latitude": 35.2414127318278, 
+        "longitude": -81.87376856409507
     },
     {
         "zip": "28075",
