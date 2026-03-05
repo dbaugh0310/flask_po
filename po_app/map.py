@@ -57,7 +57,7 @@ def bigmap():
     po = db.session.scalars(sa.select(PO)).all()
     for item in po:
         marker_color = 'blue' if item.visited else 'cadetblue'
-        google_link = f"https://www.google.com/maps/search/?api=1&query={item.latitude},{item.longitude}"
+        google_link = f"https://www.google.com/maps/search/?api=1&query={item.street}+{item.city}+{item.zip}"
         local_link = url_for('zip', zip=str(item.zip), _external=True)
 
         popup_text = f"""
