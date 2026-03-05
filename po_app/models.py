@@ -48,6 +48,30 @@ class PO(SerializerMixin, db.Model):
         count = db.session.scalar(db.select(func.count(PO.zip)).where(PO.visited))
         return count
     
+    def po_chart():
+        query = db.session.query(
+            sa.func.extract('year', PO.visited_date).label('year'),
+            sa.func.count(PO.zip).label('count')
+        ).filter(PO.visited_date.isnot(None))\
+         .group_by('year')\
+         .order_by('year').all()
+        
+        years = []
+        counts = []
+        running_counts = []
+        running_total = 0
+        
+        for row in query:
+            year = str(int(row.year))
+            count = row.count
+            running_total += count
+            
+            years.append(year)
+            counts.append(count)
+            running_counts.append(running_total)    
+
+        return years, counts, running_counts
+    
     def update_po(zip):
         po = db.first_or_404(sa.select(PO).where(PO.zip == zip))
         if os.path.isfile(os.path.join(current_app.config.get('STATIC_PATH'), 'static', po.city.title() + ".jpg")):
