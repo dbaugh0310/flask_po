@@ -61,8 +61,8 @@
         "street": "2350 Old Marshall Hwy",
         "state": "NC",
         "visited": false,
-        "latitude": -28.594787,
-        "longitude": 16.482647
+        "latitude": 35.70698665852818,
+        "longitude": -82.61814125661883
     },
     {
         "zip": "28006",
@@ -1486,8 +1486,8 @@
         "street": "2304 Wingate Rd",
         "state": "NC",
         "visited": false,
-        "latitude": 36.0748576,
-        "longitude": -79.7816972
+        "latitude": 35.009462316196185, 
+        "longitude": -78.96357544619644
     },
     {
         "zip": "28435",
@@ -1540,8 +1540,8 @@
         "street": "272 Horseshoe Rd",
         "state": "NC",
         "visited": false,
-        "latitude": 35.7021413,
-        "longitude": -78.6877702
+        "latitude": 34.7996377,
+        "longitude": -76.4591622
     },
     {
         "zip": "28618",
@@ -1670,8 +1670,8 @@
         "street": "1984 North Carolina 211",
         "state": "NC",
         "visited": true,
-        "latitude": 35.5724012,
-        "longitude": -78.7966912,
+        "latitude": 35.2923955384407, 
+        "longitude": -79.65202771666748,
         "visited_date": "2016-05-22T18:53:10"
     },
     {
@@ -1940,8 +1940,8 @@
         "street": "7553 Old Hwy 74",
         "state": "NC",
         "visited": false,
-        "latitude": 35.766947,
-        "longitude": -78.8273259
+        "latitude": 34.408898024596695,
+        "longitude": -78.90405810343444
     },
     {
         "zip": "28439",
@@ -1958,8 +1958,8 @@
         "street": "7089 NC-94",
         "state": "NC",
         "visited": false,
-        "latitude": 35.8067279,
-        "longitude": -78.6259609
+        "latitude": 35.542960212963685, 
+        "longitude": -76.22536543223103
     },
     {
         "zip": "28340",
@@ -2341,8 +2341,8 @@
         "street": "14125 Highway 52",
         "state": "NC",
         "visited": false,
-        "latitude": 34.9212759,
-        "longitude": -79.1730889
+        "latitude": 35.52213296752818, 
+        "longitude": -80.33802067825877
     },
     {
         "zip": "27530",
@@ -2415,8 +2415,8 @@
         "street": "15500 Old NC-16",
         "state": "NC",
         "visited": false,
-        "latitude": 35.8823454,
-        "longitude": -82.056782
+        "latitude": 36.5730971558499, 
+        "longitude": -81.38929503939217
     },
     {
         "zip": "28740",
@@ -2592,8 +2592,8 @@
         "street": "173 HOGAN RD",
         "state": "NC",
         "visited": false,
-        "latitude": 35.7743893,
-        "longitude": -78.3678695
+        "latitude": 35.2414127318278, 
+        "longitude": -81.87376856409507
     },
     {
         "zip": "28075",
@@ -2693,8 +2693,8 @@
         "street": "2946 Harris Henrietta Rd",
         "state": "NC",
         "visited": false,
-        "latitude": 35.8579348,
-        "longitude": -77.5827506
+        "latitude": 35.26665818553431, 
+        "longitude": -81.79284657940948
     },
     {
         "zip": "27944",
@@ -3253,8 +3253,8 @@
         "street": "278 Camp Easter Road",
         "state": "NC",
         "visited": true,
-        "latitude": 35.739583,
-        "longitude": -80.3697769,
+        "latitude": 35.2429061453221, 
+        "longitude": -79.30716391804287,
         "visited_date": "2016-05-22T16:39:01"
     },
     {
@@ -3950,8 +3950,8 @@
         "street": "148 Post Office Dr",
         "state": "NC",
         "visited": false,
-        "latitude": 35.6035723,
-        "longitude": -78.7624767
+        "latitude": 36.187253762339104,
+        "longitude": -81.2377052864573
     },
     {
         "zip": "27305",
@@ -4241,8 +4241,8 @@
         "street": "229 Nebo School Rd",
         "state": "NC",
         "visited": false,
-        "latitude": 36.2170813,
-        "longitude": -80.6545077
+        "latitude": 35.71340771636638,
+        "longitude": -81.9293511322251
     },
     {
         "zip": "28560",
@@ -4529,8 +4529,8 @@
         "street": "7488 NC-35",
         "state": "NC",
         "visited": true,
-        "latitude": 36.0929219,
-        "longitude": -80.3058203,
+        "latitude": 36.47243669977262,
+        "longitude": -77.19860882617499,
         "visited_date": "2022-07-30T10:53:32"
     },
     {
@@ -4718,8 +4718,8 @@
         "street": "4366 US-301",
         "state": "NC",
         "visited": true,
-        "latitude": 35.2395745,
-        "longitude": -81.4811997,
+        "latitude": 36.534693356056636, 
+        "longitude": -77.53371638993353,
         "visited_date": "2022-06-04T11:11:56"
     },
     {
@@ -4848,8 +4848,8 @@
         "street": "48 Park Springs Rd",
         "state": "NC",
         "visited": false,
-        "latitude": 36.2543116,
-        "longitude": -78.6616691
+        "latitude": 36.50189539474323,
+        "longitude": -79.37176481629821
     },
     {
         "zip": "28665",
@@ -4990,8 +4990,8 @@
         "street": "686 US-1 S",
         "state": "NC",
         "visited": true,
-        "latitude": 35.8048496,
-        "longitude": -78.64144,
+        "latitude": 36.435908082680655,
+        "longitude": -78.23693306469744,
         "visited_date": "2010-09-04T16:23:26"
     },
     {
@@ -5278,8 +5278,8 @@
         "street": "4918 Nc 704 Hwy E",
         "state": "NC",
         "visited": false,
-        "latitude": 36.1771141,
-        "longitude": -75.7522725
+        "latitude": 36.498879177875715,
+        "longitude": -80.10416764495842
     },
     {
         "zip": "27330",
@@ -5494,8 +5494,8 @@
         "street": "928 N Carolina Hwy 343 S",
         "state": "NC",
         "visited": false,
-        "latitude": 35.5512242,
-        "longitude": -82.5326236
+        "latitude": 36.27341774816453, 
+        "longitude": -76.08581840470008
     },
     {
         "zip": "27344",
@@ -5627,8 +5627,8 @@
         "street": "10584 NC HIGHWAY 8 S",
         "state": "NC",
         "visited": false,
-        "latitude": 36.0440245,
-        "longitude": -79.8100314
+        "latitude": 35.66448590341149, 
+        "longitude": -80.26720154607422
     },
     {
         "zip": "28461",
@@ -6037,8 +6037,8 @@
         "street": "545 Helena Moriah Rd",
         "state": "NC",
         "visited": true,
-        "latitude": 34.9737749,
-        "longitude": -78.9794735,
+        "latitude": 36.28704706968892, 
+        "longitude": -78.94936340880673,
         "visited_date": "2010-04-17T17:54:20"
     },
     {
@@ -6185,8 +6185,8 @@
         "street": "1501 UNION GROVE RD",
         "state": "NC",
         "visited": false,
-        "latitude": 35.6651645,
-        "longitude": -76.6091017
+        "latitude": 36.023764789930425, 
+        "longitude": -80.86366793367446
     },
     {
         "zip": "28167",
@@ -6485,8 +6485,8 @@
         "street": "5161 NC HIGHWAY 211",
         "state": "NC",
         "visited": true,
-        "latitude": 35.9099875,
-        "longitude": -79.0752876,
+        "latitude": 35.244960694691024, 
+        "longitude": -79.56881531923709,
         "visited_date": "2016-05-22T18:40:07"
     },
     {
@@ -6504,8 +6504,8 @@
         "street": "6648 Westfield Rd",
         "state": "NC",
         "visited": false,
-        "latitude": 35.7762668,
-        "longitude": -78.8068278
+        "latitude": 36.47697469082512, 
+        "longitude": -80.44783306784635
     },
     {
         "zip": "27891",
@@ -6523,8 +6523,8 @@
         "street": "10384 NC-53 W",
         "state": "NC",
         "visited": false,
-        "latitude": 35.8205116,
-        "longitude": -78.6417117
+        "latitude": 34.75146870697146, 
+        "longitude": -78.70682681097483
     },
     {
         "zip": "28472",
