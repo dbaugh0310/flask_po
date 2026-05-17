@@ -7,7 +7,9 @@
             <div class="row gy-6">
                 <div class="col">
                     <h2>{{ po.city.title() }}, NC</h2>
-                    <p>Visited on: {{ po.visited_date.strftime("%B %d, %Y") }}
+                    {% if  po.visited_date %}
+                        <p>Visited on: {{ po.visited_date.strftime("%B %d, %Y") }}
+                    {% endif %}
                 </div>
             </div>
             <div class="row gy-6">
