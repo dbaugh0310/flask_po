@@ -2,7 +2,7 @@
 # Configuration
 APP_DIR="/home/flask/flask_po"
 FLAG_FILE="$APP_DIR/data/needs_backup"
-TAR_FILE="/var/www/html/static/static.tar.gz"
+TAR_FILE="$APP_DIR/data/backup.tar.gz"
 
 # Only run if the flag file exists
 if [ -f "$FLAG_FILE" ]; then

@@ -79,12 +79,14 @@ class PO(SerializerMixin, db.Model):
             po.visited_date = datetime.now()
             db.session.commit()
 
-    def dump_to_json():
+    def prepare_backups():
         records = db.session.scalars(sa.select(PO)).all()
         backup_data = [record.to_dict() for record in records]
         
         with open('data/po_backup.json', 'w') as f:
             json.dump(backup_data, f, indent=4)
+            
+        open('data/needs_backup','w')
 
 class User(UserMixin, db.Model):
     id: so.Mapped[int] = so.mapped_column(primary_key=True)
