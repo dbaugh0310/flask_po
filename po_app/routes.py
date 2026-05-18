@@ -34,7 +34,7 @@ def submit():
         
         po = db.first_or_404(sa.select(PO).where(PO.zip == form.zip.data))
         file_name = po.po_pic
-        uploaded_file.save(os.path.join(app.root_path, 'static', file_name))
+        uploaded_file.save(os.path.join(current_app.config.get('STATIC_PATH'), 'static', file_name))
         PO.update_po(form.zip.data)
         
         PO.dump_to_json()
