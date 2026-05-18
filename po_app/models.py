@@ -45,7 +45,7 @@ class PO(SerializerMixin, db.Model):
         return po_random
     
     def po_count():
-        count = db.session.scalar(db.select(func.count(PO.zip)).where(PO.visited))
+        count = db.session.scalar(db.select(func.count(PO.zip)).where(PO.visited == True))
         return count
     
     def po_chart():

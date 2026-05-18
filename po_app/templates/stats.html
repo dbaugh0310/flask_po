@@ -33,7 +33,7 @@ new Chart(pcVisited, {
   data: {
     labels: ['Visited', 'Not Visited'],
     datasets: [{
-      data: [{{ po_cumulative[-1] }}, 728],
+      data: [{{ po_cumulative[-1] }}, {{ 728 - po_cumulative[-1] }}],
       backgroundColor: ['rgb(75, 192, 192)', 'rgba(75, 192, 192, 0.25)']
     }]
   },
@@ -138,18 +138,18 @@ new Chart(lc, {
   },
   options: {
     scales: {
-      y: {
+      y1: {
         type: 'linear',
         display: true,
         position: 'left',
-        title: { display: true, text: 'Total Progress' }
+        title: { display: true, text: 'Visits per Year' }
       },
-      y1: {
+      y: {
         type: 'linear',
         display: true,
         position: 'right',
         grid: { drawOnChartArea: false },
-        title: { display: true, text: 'Visits per Year' }
+        title: { display: true, text: 'Total Progress' }
       }
     },
     plugins: {
