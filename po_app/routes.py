@@ -44,18 +44,34 @@ def submit():
     
     return render_template('submit.html', title='A new visit!', form=form)
 
-@app.route('/<zip>')
+@app.route('/<zip>', methods=['GET', 'POST'])
 def zip(zip):
     po = db.first_or_404(sa.select(PO).where(PO.zip == zip))
     pic = os.path.isfile(os.path.join(current_app.config.get('STATIC_PATH'), 'static', po.po_pic))
     link = f"https://www.google.com/maps/search/?api=1&query={po.latitude},{po.longitude}"
     
+    form = UploadPhoto(zip=zip)
+    if form.validate_on_submit():
+        uploaded_file = request.files['file']
+        filename = secure_filename(uploaded_file.filename)
+        
+        file_ext = os.path.splitext(filename)[1]
+        if file_ext != '.jpg':
+            abort(400)
+        
+        po = db.first_or_404(sa.select(PO).where(PO.zip == form.zip.data))
+        file_name = po.po_pic
+        uploaded_file.save(os.path.join(current_app.config.get('STATIC_PATH'), 'static', file_name))
+        PO.update_po(form.zip.data)
+        
+        PO.prepare_backups()
+        
+        flash('Picture for {}, NC submitted!'.format(po.city.title()))
+        return redirect(url_for('zip', zip = form.zip.data))
+
     iframe = smallmap(po.zip)
     
-    if pic:
-        return render_template('po.html', po=po, pic=pic, title=po.city.title(), link=link, iframe=iframe )
-    else:
-        return render_template('po.html', po=po, title=po.city.title(), link=link, iframe=iframe )
+    return render_template('po.html', po=po, pic=pic, title=po.city.title(), link=link, iframe=iframe, form=form )
 
 @app.route('/list')
 def list():
