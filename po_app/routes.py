@@ -37,7 +37,7 @@ def submit():
         uploaded_file.save(os.path.join(current_app.config.get('STATIC_PATH'), 'static', file_name))
         PO.update_po(form.zip.data)
         
-        PO.dump_to_json()
+        PO.prepare_backups()
         
         flash('Picture for {}, NC submitted!'.format(po.city.title()))
         return redirect(url_for('zip', title='Picture Submitted!', zip = form.zip.data))
