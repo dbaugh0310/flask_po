@@ -8,6 +8,7 @@ from werkzeug.security import generate_password_hash, check_password_hash
 from sqlalchemy import func
 import os
 import json
+import exif
 from datetime import datetime
 
 class SerializerMixin:
@@ -74,9 +75,20 @@ class PO(SerializerMixin, db.Model):
     
     def update_po(zip):
         po = db.first_or_404(sa.select(PO).where(PO.zip == zip))
-        if os.path.isfile(os.path.join(current_app.config.get('STATIC_PATH'), 'static', po.city.title() + ".jpg")):
+
+        image_path = os.path.join(current_app.config.get('STATIC_PATH'), 'static', po.city.title() + ".jpg")
+
+        if os.path.isfile(image_path):
+            visited_date_input = datetime.now()
+
+            with open(image_path, 'rb') as image_file:
+                exif_data = exif.Image(image_file)
+                if exif_data.has_exif:   
+                    if exif_data.get("datetime"):
+                        visited_date_input = datetime.strptime(exif_data.datetime, "%Y:%m:%d %H:%M:%S")
+
             po.visited = True
-            po.visited_date = datetime.now()
+            po.visited_date = visited_date_input
             db.session.commit()
 
     def prepare_backups():
