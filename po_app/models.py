@@ -76,7 +76,7 @@ class PO(SerializerMixin, db.Model):
     def update_po(zip):
         po = db.first_or_404(sa.select(PO).where(PO.zip == zip))
 
-        image_path = os.path.join(current_app.config.get('STATIC_PATH'), 'static', po.city.title() + ".jpg")
+        image_path = os.path.join(current_app.config.get('STATIC_PATH'), 'static', po.po_pic)
 
         if os.path.isfile(image_path):
             visited_date_input = datetime.now()
