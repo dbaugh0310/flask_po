@@ -25,7 +25,11 @@
                 {% if po.visited %}
                     <h3><a href="{{ url_for('zip', zip=po.zip ) }}">{{ po.city.title() }}, NC</a></h3>
                 {% else %}
-                    <h3>{{ po.city.title() }}, NC</h3>
+                    {% if current_user.is_authenticated %}
+                        <h3><a href="{{ url_for('zip', zip=po.zip ) }}">{{ po.city.title() }}, NC</a></h3>
+                    {% else %}
+                        <h3>{{ po.city.title() }}, NC</h3>
+                    {% endif %}   
                 {% endif %}
             </td>
         </tr>
