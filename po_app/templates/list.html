@@ -1,21 +1,37 @@
 {% extends "base.html" %}
 
 {% block content %}
+<script src="https://cdn.jsdelivr.net/npm/htmx.org/dist/htmx.min.js"></script>
+
 <div class="container">
     <table class="table table-hover">
+        <tr>
+            <td>
+                <input
+                    type="text"
+                    class="input"
+                    placeholder="City or Zip"
+                    name="query"
+                    hx-get="/search"
+                    hx-trigger="keyup changed delay:500ms"
+                    hx-target="#po"
+                />
+            </td>
+        </tr>
+    <tbody id="po">
     {% for po in po %}
-            <tr>
-                <td>
-                    {% if po.visited %}
-                        <h3><a href="{{ url_for('zip', zip=po.zip ) }}">{{ po.city.title() }}, NC</a></h3>
-                    {% else %}
-                        <h3>{{ po.city.title() }}, NC</h3>
-                    {% endif %}
-                </td>
-            </tr>
-            <tr>
-                <td> <p>{{ po.street }}, {{ po.city.title() }}, {{ po.state }} {{ po.zip }}</p></td>
-            </tr>       
+        <tr>
+            <td>
+                {% if po.visited %}
+                    <h3><a href="{{ url_for('zip', zip=po.zip ) }}">{{ po.city.title() }}, NC</a></h3>
+                {% else %}
+                    <h3>{{ po.city.title() }}, NC</h3>
+                {% endif %}
+            </td>
+        </tr>
+        <tr>
+            <td> <p>{{ po.street }}, {{ po.city.title() }}, {{ po.state }} {{ po.zip }}</p></td>
+        </tr>       
     {% endfor %}
     </table>
 </div>
