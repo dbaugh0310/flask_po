@@ -17,10 +17,11 @@ def index():
 @app.route('/search')
 def search():
     query = request.args.get("query")
+    sort = PO.zip if query.isdigit() else PO.city
     if query:
-        po = PO.query.filter(PO.city.ilike(f"%{query}%") | PO.zip.ilike(f"%{query}%")).limit(20).all()
+        po = PO.query.filter(PO.city.ilike(f"%{query}%") | PO.zip.ilike(f"%{query}%")).order_by(sort.asc()).all()
     else:
-        po = PO.query.all()
+        po = PO.query.order_by(PO.city).all()
     return render_template("search.html", po=po)
 
 @app.route('/stats')
