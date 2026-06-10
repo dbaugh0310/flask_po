@@ -14,6 +14,15 @@ def index():
     po_list = PO.get_random_post_offices()  
     return render_template('index.html', title='Home', po=po_list)
 
+@app.route('/search')
+def search():
+    query = request.args.get("query")
+    if query:
+        po = PO.query.filter(PO.city.ilike(f"%{query}%") | PO.zip.ilike(f"%{query}%")).limit(20).all()
+    else:
+        po = PO.query.all()
+    return render_template("search.html", po=po)
+
 @app.route('/stats')
 def stats():
     po_visited = PO.po_count()
