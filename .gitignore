@@ -1,6 +1,7 @@
 *.jpg
 static/
 static_backup.sh
+po_app/po_backup.json
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
